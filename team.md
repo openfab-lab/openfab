@@ -1,6 +1,13 @@
-### Nico
+### Nico - Fondateur
 
-...
+Pour le moment :
+* Je fais un peu de tout, mais mon profil est plus technique/design. 
+* Concrêtement, je suis le patient 0 qui teste et recherche de l'intérieur la/les solutions et fonctionnements pour que idéalement, chaque membre d'openfab puisse s'impliquer et utiliser la structure d'Openfab pour le développement de ses compétences. #ecosystème #répétabilité
+
+Skills :
+* 
+
+E-mail : nicolas@openfab.be
 
 ### Anca  
 
