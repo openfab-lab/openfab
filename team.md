@@ -5,7 +5,7 @@ Pour le moment :
 * Concrêtement, je suis le patient 0 qui teste et recherche de l'intérieur la/les solutions et fonctionnements pour que idéalement, chaque membre d'openfab puisse s'impliquer et utiliser la structure d'Openfab pour le développement de ses compétences. #ecosystème #répétabilité
 
 Skills :
-* 
+* cnc
 
 E-mail : nicolas@openfab.be
 
