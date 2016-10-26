@@ -1,11 +1,23 @@
 ### Nico - Fondateur
 
+En plus que 2 mots, j’ai une formation scientifique dès les secondaires. Ensuite, je passe par ingénieur agro puis architecte paysagiste puis IAD en multimedia. Je suis alors spécialisé en animation 3D, simulation de fluide et effets spéciaux vidéo. Je bosse 3 ans dans ce domaine, puis 4 ans dans le domaine spatiale à l’ESA (en hollande) où j’apprend à adapter mes modèles 3D pour l’usinage numérique. 
+J’achète ma première imprimante 3D en 2010, puis une CNC, etc… 
+J’apprend en autodidacte comment tout ça fonctionne, de la mécanique, à l’usage de ces machines en passant par leur électronique, leurs logiciels, etc etc…. et fonde Openfab en 2011 pour partager mes connaissances et surtout pouvoir apprendre avec d’autres. 
+J’abandonne le spatial pour me focaliser sur Openfab et depuis 4 ans, je suis à 200% sur le projet. 
+Objectif: 
+- Globalement, développer une communauté qui partage les mêmes envies (éthique), qui explore et recherche des solutions à leurs besoins (économique, écologique, sociale, …)
+- Personnellement, atteindre une masse critique pour que le win-win entre membres catalysés par le cadre exploratoir d’openfab, me permette d’en vivre financièrement. Cette source de revenu et la méthode doit être répétable et applicable à chaque membre pour que ça fonctionne. Chaque membre s’appuie sur et bénéficie de l’ensemble et contribue proportionnellement. 
+
 Pour le moment :
 * Je fais un peu de tout, mais mon profil est plus technique/design. 
 * Concrêtement, je suis le patient 0 qui teste et recherche de l'intérieur la/les solutions et fonctionnements pour que idéalement, chaque membre d'openfab puisse s'impliquer et utiliser la structure d'Openfab pour le développement de ses compétences. #ecosystème #répétabilité
 
 Skills :
-* cnc
+* cnc, machine et utilisation
+* laser, machine et utilisation
+* 3Dprint, machine et utilisation
+* logiciel de création 2D, 3D, CAD, CAM
+* Vision permaculture, ecosytème
 
 E-mail : nicolas@openfab.be
 
