@@ -13,11 +13,21 @@ Pour le moment :
 * Concrêtement, je suis le patient 0 qui teste et recherche de l'intérieur la/les solutions et fonctionnements pour que idéalement, chaque membre d'openfab puisse s'impliquer et utiliser la structure d'Openfab pour le développement de ses compétences. #ecosystème #répétabilité
 
 Skills :
-* cnc, machine et utilisation
-* laser, machine et utilisation
-* 3Dprint, machine et utilisation
-* logiciel de création 2D, 3D, CAD, CAM
-* Vision permaculture, ecosytème
+Mes compétences techniques (hardskill):
+- cnc, machine et utilisation
+- laser, machine et utilisation
+- 3Dprint, machine et utilisation
+- logiciel de création 2D, 3D, CAD, CAM
+- Electronique, base, logique, soudure, … Arduino  
+
+
+Mes compétences … (softskills - on m'a dit qu'il fallait pas oublié aussi les softskills, je m'essaie...): 
+- Vision permaculture + shiatsu, = écosystème, vision d’ensemble, systémique, etc...
+- Je suis patient avec les gens. 
+- J’écoute plus que je ne parle (habituellement) 
+- multipotentialiste, j’ai des notions dans de nombreux domaines en plus de mes spécialisations techniques. 
+- Empathie, je me projette facilement dans différentes domaines et situations d’utilisateurs. 
+
 
 E-mail : nicolas@openfab.be
 
