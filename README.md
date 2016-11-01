@@ -1,2 +1,4 @@
 # openfab
-Main repo for the wiki and project management
+project management d'open fab
+
+## team
