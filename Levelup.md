@@ -4,32 +4,32 @@
 
 >I am looking for a list from beginner to expert in as much as possible steps. I have constructed by myself:
 
-*Newbie
-~~Novice~~
-Rookie
-~~Beginner~~
-Talented
-Skilled
-Intermediate
-Skillful
-**Seasoned** :)
-Proficient
-Experienced
-Advanced
-Senior
-Expert*
+*Newbie  
+~~Novice~~  
+Rookie  
+~~Beginner~~  
+Talented  
+Skilled  
+Intermediate  
+Skillful  
+**Seasoned** :)  
+Proficient  
+Experienced  
+Advanced  
+Senior  
+Expert*  
 
 >What do you think is the best list?
 >http://english.stackexchange.com/questions/83832/list-of-expertise-levels-from-beginner-to-expert
 
 ######Les rangs selon Donjon - Clé en main (FR)
-![donjon team](http://)
-*Nul
-pas très doué
-bon
-habile
-balaise
-super-fortiche*
+![donjon team](https://github.com/openfab-lab/openfab/blob/master/img/donjon.jpg)
+*Nul  
+pas très doué  
+bon  
+habile  
+balaise  
+super-fortiche*  
 
 >Les rangs sont là pour le fun. = gamification, évolution de perso. 
 >à voir comment on les utilise. ça peut être plus pour donner un niveau à une compétence. 
@@ -37,7 +37,7 @@ super-fortiche*
 
 - - -
 
-####Level 0 - ~~Newbie,~~ membre adhérent passif
+###Level 0 - ~~Newbie,~~ membre adhérent passif
 ~~= **nul** *mais c'est pas grave, c'est le même point de départ pour tout le monde*~~
 
 ++Les avantages:++
@@ -59,7 +59,7 @@ super-fortiche*
 
 >note: les montants sont peut-être à revoir pour activer l'intérêt, pousser à faire l'effort de devenir membre adhérent ou utilisation à tarif horaire des machines (voir tarif à la carte)
 
-####Level 1 - ~~Rookie,~~ membre adhérent actif
+###Level 1 - ~~Rookie,~~ membre adhérent actif
 ~~= **pas très doué** mais veut s'améliorer petit à petit, c'est pas une résolution de nouvel an.~~
 
 ++Les avantages:++
@@ -76,25 +76,25 @@ super-fortiche*
 - github ou équivalent va servir pour l'organisation, la documentation, la participation et le partage à une échèlle MACRO
 - ....
 
-#####passeport
+####passeport
 le what, what?
 for what?
 and how?
 
-#####crédit
-- les crédits "gratuit" lié à l'abo sont valable 1 mois [comme chez mobilViking]](https://vikingco.com/fr/mobile-vikings/offer/subscriptions/)
+####crédit
+- les crédits "gratuit" lié à l'abo sont valable 1 mois [comme chez mobilViking](https://vikingco.com/fr/mobile-vikings/offer/subscriptions/)
 - s'il en faut plus? 
 	- on peut en acheter
 	- on peut échanger via troc entre membres
 	- on peut en gagner en s'occupant de tâches communautaires. voir "tableau des tâches".
 
-Les crédits sont repris dans le passeport, c'est votre ID, votre porte-monnaie, votre vie de maker.
-Les crédits sont périssables. 
-Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag^
+Les crédits sont repris dans le passeport, c'est votre ID, votre porte-monnaie, votre vie de maker.  
+Les crédits sont périssables.   
+Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag^  
 !! Uniquement les crédits **que l'on gagne** sont reconnu et s'accumule pour justifier de votre participation et pouvoir atteindre un jour le level 2 
 
 
-####Level 2 - membre effectif
+###Level 2 - membre effectif
 
 ++Les avantages:++
 + ne paye plus l'abonnement
@@ -112,7 +112,7 @@ Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag
 - ....
 
 
-####Level CA - conseil d'administration
+###Level CA - conseil d'administration
 
 - président
 - secrétaire
