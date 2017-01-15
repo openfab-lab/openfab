@@ -2,7 +2,8 @@
 
 ######Les rangs selon l'internet (EN)
 
->I am looking for a list from beginner to expert in as much as possible steps. I have constructed by myself:
+>http://english.stackexchange.com/questions/83832/list-of-expertise-levels-from-beginner-to-expert
+>I am looking for a list from beginner to expert in as much as possible steps. I have constructed by myself:  
 
 *Newbie  
 ~~Novice~~  
@@ -12,7 +13,7 @@ Talented
 Skilled  
 Intermediate  
 Skillful  
-**Seasoned** :)  
+Seasoned 
 Proficient  
 Experienced  
 Advanced  
@@ -20,10 +21,10 @@ Senior
 Expert*  
 
 >What do you think is the best list?
->http://english.stackexchange.com/questions/83832/list-of-expertise-levels-from-beginner-to-expert
+
 
 ######Les rangs selon Donjon - Clé en main (FR)
-![donjon team](https://github.com/openfab-lab/openfab/blob/master/img/donjon.jpg)
+![donjon team](https://github.com/openfab-lab/openfab/blob/master/img/donjon.jpg)   
 *Nul  
 pas très doué  
 bon  
@@ -35,12 +36,14 @@ super-fortiche*
 >à voir comment on les utilise. ça peut être plus pour donner un niveau à une compétence. 
 >Comme par exemple: Inkscape, habile. Ou CNC, super-fortiche. 
 
+`à compléter.... `
+
 - - -
 
-###Level 0 - ~~Newbie,~~ membre adhérent passif
+###Level 0.1 - ~~Newbie,~~ membre adhérent passif
 ~~= **nul** *mais c'est pas grave, c'est le même point de départ pour tout le monde*~~
 
-++Les avantages:++
+__Les avantages:__
 + soutenir symboliquement un projet qui est super.
 + peut venir tester si l'activité lui plait, l'ambiance, les formules tout ça. Pas d'engagement.
 + peut venir bricoler occasionnellement si ça lui chante.
@@ -49,32 +52,62 @@ super-fortiche*
 + peut participer à l'assemblée générale.
 + **et bien sur, c'est une condition nécessaire pour passer au level 1.**
  
-++Les conditions:++
-- [x] cotisation annuelle d'inscription à l'asbl 25€
-- [ ] RTFM > règlement d'ordre intérieur
-- Il ou elle est bien venu(e) tout le temps pour prendre des nouvelles, boire un café, une bière
-- accède à l'atelier de manière ponctuelle, à son rythme.
+__Les conditions:__  
+- Cotisation annuelle d'inscription à l'asbl 25€  
+- RTFM > règlement d'ordre intérieur  [RTFM.OF](https://github.com/openfab-lab/openfab/blob/master/RTFM.OF.md) 
+- Il ou elle est bien venu(e) tout le temps pour prendre des nouvelles, boire un café, une bière  
+- accède à l'atelier de manière ponctuelle, à son rythme.  
 	- en Oneshot à 10€ la journée
 	- par l'achat d'une carte prépayée de 10 jours à 80€ (valable 6 mois - date d'achat) 
 
 >note: les montants sont peut-être à revoir pour activer l'intérêt, pousser à faire l'effort de devenir membre adhérent ou utilisation à tarif horaire des machines (voir tarif à la carte)
 
+__CheckList Level 0.1:__
+- [ ] Inscription sur [le site Openfab](http://openfab.be/adhesion)  
+- [ ] Paiement obligatoire par virement pour validation de l'inscription, utilisez la référence: `____ à compléter.... `
+- [ ] RTFM
+- [ ] Venir faire un premier projet. 
+
+__TodoList:__
+- [ ] Faciliter l'inscription, la page est à 3 click quand on sait où aller. Faut que ce soit plus clair. 
+- [ ] option: inscription directement par fabmanager.com `____ à compléter.... `
+- [ ] Préciser quelque part dans le formulaire le type de communication à mettre lors du paiement par virement, ça peut-être un code, un mot, peu importe mais ça faciliterai la validation de l'inscription dans les extraits de compte.  
+- [ ] Comment ajouter la tâche ou un rappel pour cette validation de l'inscription par consultation des extrais de compte?   
+- [ ] Comment faciliter le rappel en fin d'inscription. Lien avec un rappel dans l'agenda?
+- [ ] Préparer un modèle de lettre invitant à repayer le montant annuel. 
+- [ ] Revoir le Règlement d'Ordre Intérieur, l'adapter et le rendre disponible facilement (papier au bureau, pdf et/ou .md en ligne) https://github.com/openfab-lab/openfab/blob/master/RTFM.OF.md
+- [ ] Préparer un modèle de lettre de bienvenue à envoyer comme confirmation de l'inscription au newbie. + reglèment O interieur. + présentation Level 1 et avantage. 
+- [ ] autres? Définition des conditions pour l'inscription **famille**.... `____ à compléter.... `
+
+
 ###Level 1 - ~~Rookie,~~ membre adhérent actif
 ~~= **pas très doué** mais veut s'améliorer petit à petit, c'est pas une résolution de nouvel an.~~
 
-++Les avantages:++
+__Les avantages:__
 + Accès à l'atelier "à volonté" *(suivant les disponnibilités.)*
-+ **10h** ou **x crédits** valable pour l'accès aux machines. *(à définir)*
-+ Se fabrique son **super awesome passeport de maker**
-+ ya mêmes des **écussons** à coudre sur sa veste, son sac, son slip, où il veut. ^#swag!^
++ **10h** ou **x crédits** valable pour l'accès aux machines.   https://github.com/openfab-lab/openfab/blob/master/Credits.md `définition crédit____ à compléter.... `
++ Se fabrique son **super awesome passeport de maker**    https://github.com/openfab-lab/passeportMaker `design____ à compléter.... `
++ ya mêmes des **écussons** à coudre sur sa veste, son sac, son slip, où il veut. :sparkles: `design____ à compléter.... `
 
-++Les conditions:++
-- [x] s'engager à payer tout les mois 34€ par domiciliation bancaire.
-- [x] à visionner "10 bullets" from Tom Sachs *(en attendant qu'on ai une vidéo à nous)*
+__Les conditions:__
+- [ ] s'engager à payer tout les mois 34€ par domiciliation bancaire.
+- [ ] à visionner "10 bullets" from Tom Sachs *(en attendant qu'on ai une vidéo à nous)*
 >https://youtu.be/49p1JVLHUos
 - [ ] passer au plus vite son badge Github 1 Rookie
 - github ou équivalent va servir pour l'organisation, la documentation, la participation et le partage à une échèlle MACRO
 - ....
+
+__CheckList Level 1.0:__
+- [ ] Définir un ordre permanent auprès de sa banque du montant de 34€. Quand dans le mois n'a pas d'importance mais la récurrence l'est.
+- [ ] Nous présenter la preuve de cet ordre permanent ou attendre plusieurs mois qu'on le constate sur le compte de l'asbl. ^^
+- [ ] Obtenir son [badge Github niveau 1] (https://github.com/openfab-lab/github-introduction-ws/blob/master/Github%20Badge%201%20Rookie.md)
+
+__TodoList:__
+- [ ] Comment gérer les membres Actif? Elaboration d'une fiche plus complète avec les crédits, les niveaux, les badges, en lien avec le passeport et le RFID option du futur. 
+- [ ] Vérification dans le tps de la récurence. Versement actif.
+- [ ] Développer les tutos sur github en commançant par [badge Github niveau 1] (https://github.com/openfab-lab/github-introduction-ws/blob/master/Github%20Badge%201%20Rookie.md)
+- [ ] Développer les types de badges et compétences. `list, design____ à compléter.... `
+- [ ] ....?
 
 ####passeport
 le what, what?
