@@ -2,6 +2,8 @@
 
 Il faudrait définir des accords avec l'un ou l'autre pour nos produits. Qu'on sache une bonne fois pour toute où se fournir de quoi et à quel prix.
 
+note 23.01.17: Pour des achats de bois massifs, c'est la tristesse chez les fournisseurs. Faudra essayer les scieries directements. http://www.pagesdor.be/bois-scieries-raboteries/
+
 ##Bois
 **Gedebois:** http://gedebois.be/  
 02/ 647 42 52  
