@@ -161,3 +161,13 @@ Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag
 - président
 - secrétaire
 - trésorié
+
+
+###Level ? Co-locataire bureau
+
+Possibilité de partager le bureau en mode résident.  
+Dewi et Tom sont intéressé.  
+Accessible aux Level2? 
+Clarté des engagements? à quelles conditions? Euro ou en échange de x crédit aussi?  
+Si euro. Combien? Quel différence avec level 2 et les 38%? 
+N'est-ce pas mieux de garder une idée d'échange de crédis acquis par les tâches. 
