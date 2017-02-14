@@ -4,8 +4,8 @@ La page de R/D et documentation d'Openfab
 En ce début 2017, beaucoup de choses évoluent.
 Actuellement, j'ai fait une liste des grands sujets et tâches en cours dont je m'occupe et j'aimerai arriver à réunir des teams avec ceux qui peuvent m'aider sur un sujet précis.
 
-* **Gala OF, présentation Openfab** #community   
-    Pour le 10 fev donc,  
+* ~~**Gala OF, présentation Openfab** #community   
+    Pour le 10 fev donc,~~  
 * **Aménagement local** #community   
     Fabrication d'une [table pour la découpeuse laser](https://github.com/openfab-lab/LasersaurBench) et réaménagement global du local. Faut réorganiser les stocks, la circulation, fabriquer quelques meubles qui manquent, etc...
 * **Structure et administration Asbl** #community  
