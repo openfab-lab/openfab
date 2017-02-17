@@ -12,4 +12,8 @@ Playlist:
 3. [Comment bien vendre la nature ?](https://youtu.be/qFMycg39ctU) 9:31
 4. [Death Rock](https://www.youtube.com/watch?v=J2xPQ36kfOY) 9:01
 5. [Could You Survive Home Alone](https://www.youtube.com/watch?v=5NhijmGTwwo&feature=youtu.be) 10:14
-6. [Death Rock](https://www.youtube.com/watch?v=llynaTrk1fw) 28:54
+6. [James May's Things You Need To Know - Series 2 - Episode 5 - Engineering](https://www.youtube.com/watch?v=llynaTrk1fw) 28:54
+7.  
+8.  
+9.  
+10. [générique de fin](https://youtu.be/5-sfG8BV8wU)
