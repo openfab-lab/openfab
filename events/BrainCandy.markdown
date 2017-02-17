@@ -16,4 +16,4 @@ Playlist:
 7.  
 8.  
 9.  
-10. [générique de fin](https://youtu.be/5-sfG8BV8wU)
+10. [générique de fin](https://youtu.be/5-sfG8BV8wU) 2:16
