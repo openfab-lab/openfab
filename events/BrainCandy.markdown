@@ -1,9 +1,9 @@
 #BrainCandy #1: Between science and entertainment - A Collective Youtube night
-Channel Slack: 
+Channel Slack: https://openfablab.slack.com/archives/youtube-evenings  
 
 ###17 février 2017 @Openfab
 meetup: https://www.meetup.com/fr-FR/FabCity/events/237224370/  
-facebook:  
+facebook: https://www.facebook.com/events/1256163024420104/  
 
 Playlist:
 
