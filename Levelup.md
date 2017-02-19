@@ -69,9 +69,9 @@ __CheckList Level 0.1:__
 - [ ] Venir faire un premier projet. 
 
 __TodoList:__
-- [ ] Faciliter l'inscription, la page est à 3 click quand on sait où aller. Faut que ce soit plus clair. 
+- [x] Faciliter l'inscription, la page est à 3 click quand on sait où aller. Faut que ce soit plus clair. 
 - [ ] option: inscription directement par fabmanager.com `____ à compléter.... `
-- [ ] Préciser quelque part dans le formulaire le type de communication à mettre lors du paiement par virement, ça peut-être un code, un mot, peu importe mais ça faciliterai la validation de l'inscription dans les extraits de compte.  
+- [x] Préciser quelque part dans le formulaire le type de communication à mettre lors du paiement par virement, ça peut-être un code, un mot, peu importe mais ça faciliterai la validation de l'inscription dans les extraits de compte.  
 what about "SIGN25"?
 - [ ] Comment ajouter la tâche ou un rappel pour cette validation de l'inscription par consultation des extrais de compte?   
 - [ ] Comment faciliter le rappel en fin d'inscription. Lien avec un rappel dans l'agenda?
