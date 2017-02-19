@@ -51,10 +51,3 @@ Les apports extérieurs:
 
 Et [générique de fin](https://youtu.be/5-sfG8BV8wU) 2:16
 
-
-###24 Mars 2017 @HuisVDH?
-meetup: 
-
-facebook: 
-
-Playlist:
