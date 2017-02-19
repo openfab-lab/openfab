@@ -8,6 +8,7 @@ JUST DO IT would Shia Le Boeuf say, So we do!
 A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, It's Okay To Be Smart, WiseCracks, Numberfile, thebrainscoop. 
 You bring snacks and or beer and come with your ideas. 
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
+You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
 
 ###24 Mars 2017 @HuisVDH?
