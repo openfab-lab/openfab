@@ -1,5 +1,22 @@
-#BrainCandy #1: Between science and entertainment - A Collective Youtube night
+#BrainCandy: Between science and entertainment - A Collective Youtube night
+
 Channel Slack: https://openfablab.slack.com/archives/youtube-evenings  
+
+###General Concept: 
+
+JUST DO IT would Shia Le Boeuf say, So we do! 
+A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, It's Okay To Be Smart, WiseCracks, Numberfile, thebrainscoop. 
+You bring snacks and or beer and come with your ideas. 
+Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
+
+
+###24 Mars 2017 @HuisVDH?
+
+meetup: 
+
+facebook: 
+
+Playlist:
 
 ###17 février 2017 @Openfab
 meetup: https://www.meetup.com/fr-FR/FabCity/events/237224370/  
