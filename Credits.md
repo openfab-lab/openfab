@@ -18,3 +18,10 @@ Réflexion sur les crédits et leur valorisation. `____ à compléter.... `
 + Récup crédit équivalent > 125% de la valeur = appartient à la communauté
 + Monétisation (>Level 2.0)  
 Prix lorsque materiel est amorti? Est-ce qu'on diminue le prix ou est-ce que le bénéf est réinvestit?
+
+#Valeur d'un crédit Openfab
+
+1 crédit = 1€
+
+Donc, usage du laser consomme 5 crédits toutes les 30min
+
