@@ -12,7 +12,8 @@ Videos are between 5 and 15 minutes, we like intermezzo's and discussions.
 
 ###24 Mars 2017 @HuisVDH?
 
-meetup: 
+meetup:
+
 facebook:  
 
 Playlist:
