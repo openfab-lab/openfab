@@ -13,8 +13,7 @@ You can host the night, just be part of the slack, github or Meetup and give us 
 
 ###24 Mars 2017 @HuisVDH?
 
-meetup:
-
+meetup: https://www.meetup.com/FabCity/events/237831796/?_locale=nl-NL
 facebook:  
 
 Playlist:
