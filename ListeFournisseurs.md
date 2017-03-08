@@ -96,3 +96,14 @@ soumagne@biemar.be;
 
 - aludan 
 - autres?
+
+## Electronics
+
+**McHobby** https://shop.mchobby.be/   
++32 (0) 2 387 24 78  
+Clos de la Giberne, 3  
+1410 Waterloo  
+Ils ont du stock, Elyse (Magma Nova) y a trouvé en urgence des PCB "maky maky"
+
+**Exp-Tech** http://www.exp-tech.de/   
+En allemagne, rapide, prix correctes, on gagne aussi la tva qui n'est pas chargée entre pays EU.
