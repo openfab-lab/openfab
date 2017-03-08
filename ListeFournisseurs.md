@@ -107,3 +107,36 @@ Ils ont du stock, Elyse (Magma Nova) y a trouvé en urgence des PCB "maky maky"
 
 **Exp-Tech** http://www.exp-tech.de/   
 En allemagne, rapide, prix correctes, on gagne aussi la tva qui n'est pas chargée entre pays EU.
+
+**Cotubex** http://www.cotubex.be/   
+100 avenue des Saisons  
+1050 Bruxelles  
++32.2.643.36.66  
+Pas très grand mais il offre un service de commande/dépôt.
+
+##Textile
+**Berger :** http://tissusameublementbruxelles.be/fr  
+84 Rue de la Caserne 84  
+1000 Bruxelles (métro Lemonnier)  
+Grand choix de tissus pas chers + mini rayon matériel de couture.
+
+**Tissus Passion :**   
+99 Chaussée de Waterloo  
+1060 Bruxelles  
+
+
+**Chien Vert :** https://www.chienvert.com   
+2 Rue du Chien Vert  
+1080 Bruxelles   
++32 2 523 24 94  
+Très vaste choix.
+
+##Papier
+**Schleiper :** https://www.schleiper.com  
+149 Chaussée de Charleroi   
+1060 Bruxelles   
+C'est cher mais c'est sans doute le plus grand choix de papier sur Bruxelles. Réduction possible si achat en quantité.
+
+**Origami Shop :** http://www.origami-shop.com/  
+France   
+C'est LE magasin en ligne pour tous les passionnés d'origamis. Grands choix de livres et papiers spéciaux. Assez cher.
