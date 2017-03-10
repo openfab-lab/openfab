@@ -107,7 +107,7 @@ Ils ont du stock, Elyse (Magma Nova) y a trouvé en urgence des PCB "maky maky"
 
 **Exp-Tech** http://www.exp-tech.de/   
 En allemagne, rapide, prix correctes, on gagne aussi la tva qui n'est pas chargée entre pays EU.
-
+   
 **Cotubex** http://www.cotubex.be/   
 100 avenue des Saisons  
 1050 Bruxelles  
@@ -140,3 +140,13 @@ C'est cher mais c'est sans doute le plus grand choix de papier sur Bruxelles. R�
 **Origami Shop :** http://www.origami-shop.com/  
 France   
 C'est LE magasin en ligne pour tous les passionnés d'origamis. Grands choix de livres et papiers spéciaux. Assez cher.
+
+
+## Services
+
+**Engels ProServices**   http://www.engelsproservices.be/index.html    
+Quai d'Aa, 1  
+1070 Bruxelles  
+info@engelsproservices.be  
+Service de mise en peinture, laquage, etc...   
+
