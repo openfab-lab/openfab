@@ -1,7 +1,13 @@
 First, 
 Réflexion sur les crédits et leur valorisation. `____ à compléter.... `
 
+Why using virtual currency inside Openfab?   
+Because this is a better way to exchange small services inside the communty without the complexity of the real system. 
+And I'd like this to be more fun too. #gamification #chalenge 
+
 [Designing Virtual Currency by Breaking (Almost) Every Rule in the Economics Textbook](http://www.gdcvault.com/play/1015666/Designing-Virtual-Currency-by-Breaking)
+
+
 
 #### Estimer le coût du tps machine.
 
