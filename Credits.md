@@ -1,6 +1,8 @@
 First, 
 Réflexion sur les crédits et leur valorisation. `____ à compléter.... `
 
+[Designing Virtual Currency by Breaking (Almost) Every Rule in the Economics Textbook](http://www.gdcvault.com/play/1015666/Designing-Virtual-Currency-by-Breaking)
+
 #### Estimer le coût du tps machine.
 
 + Soit le prix d'une machine = 100℅
@@ -23,5 +25,5 @@ Prix lorsque materiel est amorti? Est-ce qu'on diminue le prix ou est-ce que le 
 
 1 crédit = 1€
 
-Donc, usage du laser consomme 5 crédits toutes les 30min
+Donc, usage du laser consomme 5 crédits toutes les 30min (mesure par l'activation de la minuterie)
 
