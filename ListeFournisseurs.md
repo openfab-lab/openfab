@@ -42,9 +42,9 @@ Je n'ai jamais eu de réponse à ma demande de devis....
 056/ 22 14 29
 D'après Charlie et leur site semble le confirmer, ils ont un bon choix de panneaux. Peut-être une source de qualité et de panneaux coffrage à la surface hexagonale. Charlie l'a utilisé dans un de ses design et c'est très joli.
 
-![betonplex alvéolé](http://images4.images-speurders.nl/images/15/1524/152433544_2_big.jpg)
+[betonplex motif hexa](http://images4.images-speurders.nl/images/15/1524/152433544_2_big.jpg)
 
-*Exobois:** http://www.exobois.be/  
+**Exobois:** http://www.exobois.be/  
 02/ 377 00 05
 Zone Ch de Mons.
 Encore aucun contact.
@@ -144,9 +144,11 @@ C'est LE magasin en ligne pour tous les passionnés d'origamis. Grands choix de 
 
 ## Services
 
-**Engels ProServices**   http://www.engelsproservices.be/index.html    
+**Engels ProServices** http://www.engelsproservices.be/index.html    
 Quai d'Aa, 1  
 1070 Bruxelles  
 info@engelsproservices.be  
 Service de mise en peinture, laquage, etc...   
 
+**Weerg**  https://www.weerg.com/en/   
+Weerg makes CNC parts from your CAD 3D file, simply, quickly, and with the top technologies in the world
