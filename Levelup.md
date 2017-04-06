@@ -64,6 +64,8 @@ __Les conditions:__
 
 __CheckList Level 0.1:__
 - [ ] Inscription sur [le site Openfab](http://openfab.be/adhesion)  
+- [ ] +18 ans ou autorisation des parents  
+- [ ] Assurance
 - [ ] Paiement obligatoire par virement pour validation de l'inscription, utilisez la référence: SIGN25 `____ à compléter.... `
 - [ ] RTFM
 - [ ] Venir faire un premier projet. 
