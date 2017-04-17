@@ -1,5 +1,14 @@
 # FAQ: 
+
+## Les réponses les plus courantes 
+#### #abo
+Si tu veux faire par toi même, c'est en tant que membre. il te faut alors t'inscrire ici:  
+http://openfab.be/adhesion   
+
+#### #tarif
+https://github.com/openfab-lab/openfab/blob/master/pricceListFR.md
 ## Les questions qu'on nous posent le plus souvent: 
+
 
 ### Invitation
 >Bonjour,
@@ -42,14 +51,46 @@ Au final, je pense que le plus simple sera certainement de passer vous voir pour
 
 #bois #abo #rdv #machines
 
-**réponse: ?**
+**réponse:**
+Et bien, je vais reprendre comme toi:
+Au final... le mieux pour les horaires, c'est de prendre rdv par mail. Comme ça c'est sur qu'il y ai qqun. Sinon, il suffit d'un rdv à l'extérieur, une course au brico ou l'autre visite et la porte est close. Nous n'avons pas de système de permanence.
 
+Pour la menuiserie, la situation actuelle n'est pas idéale et exiguë.
+Mais nous avons besoin d'un lieu mieux adaptés à nos besoins, tes besoins et les besoins de finalement une bonne 50aines de personnes qui nous ont déjà contacté.
+Dans ce cadre, je te joins le document reprenant l'état d'avancement actuel d'un projet de menuiserie partagée.
+à ce jours, le proprio n'est pas chaud de vendre avant 2 ans et nous nous dirigeons vers un plan B, la recherche d'un local atelier à louer pour y mutualisé le matos que nous possédons déjà à quelques uns.
+
+>Bonjour,  
+Je suis étudiant à l’UCL et je souhaite faire une demande de devis pour imprimer des pièces pour mon mémoire. Comment puis-je vous les envoyer ?
+
+#3dprint #fichier 
+
+**réponse:**
+
+Tu peux m'envoyer les fichiers en .stl (! unité mm), notre tarif est à 0.5€/g  
+Je peux te donner une estimation à partir des fichiers. 
+
+
+### Pro
+>We are a startup based in Brussels specialized in product development.  
+We have been developing a smart radiator valve based on Bluetooth.  
+www.otrema.eu  
+We are looking for some local prototyping capabilities, to further enhance our product.  
+In particular, a CNC machine to iterate on the 3D model.
+
+#tailor #rdv
+
+**réponse:**
+C'est intéressant comme projet, il faudrait effectivement qu'on en discute car tout n'est probablement possible ici mais faut qu'on cible vos besoins plus spécifiquement.  
+Par exemple, tu parle de cnc, celle dont je dispose est peut-être même déjà trop brutale/grande pour ce type de découpe.
+
+Donne moi tes disponibilités et on peut convenir d'un rdv normalement encore cette semaine. 
 
 ### Chaise claire
 >Bonjour,  
 je suis tombée sur le site via des fans de Montessori qui parlaient du kit pour le bloc-chaise. Je serais contente de construire quelques meubles aussi dans un avenir moyennement proche. Je n'ai pas d'horaires pour le moment donc je pourrais passer au moment qui vous convient après les vacances de Pâques.
 
-#chaise #montessori #rdv #tarif
+#chaise #montessori #rdv #prix
 
 **réponse: ?**  
 >Merci pour ton intérêt.  
@@ -63,3 +104,12 @@ http://openfab.be/tarification
 Si, tu n'es pas intéressée par faire toi même, je m'en occupe et c'est alors un service client.
 Mon objectif est en premier temps de définir avec toi ce que tu cherche à faire et surtout comment. Je te guide vers ce que tu dois savoir si tu veux faire par toi même, avec accès aux outils si disponible, et un tarif spécifique lorsque je tu préfère que je m'en occupe. Bref, à la carte donc.  
 **#rdv** Dis moi quand sont tes disponibilités et je vois pour glisser un moment de rencontre dans l'agenda.
+
+>Bonjour, pourriez-vous me dire si la chaise Claire, en kit, peut encore être commandée et livrée en France?  
+A quel tarif, livraison incluse, SVP?  
+Merci d'avance!
+
+#chaise #prix #livraison
+
+**réponse: **  
+la chaise claire en kit (bois bouleau + vis) est à 80€ et de mémoire, ça devait être 16.4€ de poste en supplément.
