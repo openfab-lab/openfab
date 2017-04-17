@@ -40,7 +40,7 @@ super-fortiche*
 
 - - -
 
-###Level 0.1 - ~~Newbie,~~ membre adhérent passif
+###Level 1 - ~~Newbie,~~ membre adhérent passif ou **"User"**
 ~~= **nul** *mais c'est pas grave, c'est le même point de départ pour tout le monde*~~
 
 __Les avantages:__
@@ -50,7 +50,7 @@ __Les avantages:__
 + est tenu au courant des activités.
 + peut venir picoler quand il le souhaite.
 + peut participer à l'assemblée générale.
-+ **et bien sur, c'est une condition nécessaire pour passer au level 1.**
++ **et bien sur, c'est une condition nécessaire pour passer au level 2**
  
 __Les conditions:__  
 - Cotisation annuelle d'inscription à l'asbl 25€  
@@ -80,7 +80,7 @@ what about "SIGN25"?
 - [ ] Préparer un modèle de lettre invitant à repayer le montant annuel. 
 - [ ] Revoir le Règlement d'Ordre Intérieur, l'adapter et le rendre disponible facilement (papier au bureau, pdf et/ou .md en ligne) https://github.com/openfab-lab/openfab/blob/master/RTFM.OF.md
 - [ ] Préparer un modèle de lettre de bienvenue à envoyer comme confirmation de l'inscription au newbie. + reglèment O interieur. + présentation Level 1 et avantage. 
-- [ ] autres? Définition des conditions pour l'inscription **famille**.... `____ à compléter.... `
+- [ ] autres? Définition des conditions pour l'inscription **famille** "SIGN40".... `____ à compléter.... `
 
 ----- 
 
@@ -88,7 +88,7 @@ what about "SIGN25"?
 
 -----
 
-###Level 1 - ~~Rookie,~~ membre adhérent actif
+###Level 2 - ~~Rookie,~~ membre adhérent actif ou **"Super USER"**
 ~~= **pas très doué** mais veut s'améliorer petit à petit, c'est pas une résolution de nouvel an.~~
 
 à partir d'ici commence l'exploration d'un modèle de fablab basé sur la gamification:  
@@ -96,14 +96,13 @@ Plus de fun, ce qui necessite plus de participation, plus de responsabilité et 
 
 __Les avantages:__
 + Accès à l'atelier "à volonté" *(suivant les disponnibilités.)*
-+ **5h** ou **x crédits** valable pour l'accès aux machines.   https://github.com/openfab-lab/openfab/blob/master/Credits.md `définition crédit____ à compléter.... `
-+ Débloque le **super awesome passeport de maker** à faire soi-même    `design____ à compléter.... `
++ ~~**5h** ou **x crédits** valable pour l'accès aux machines.   https://github.com/openfab-lab/openfab/blob/master/Credits.md `définition crédit____ à compléter.... `~~
++ Débloque le **super awesome passeport de maker** à faire soi-même  https://github.com/openfab-lab/passeportMaker
 + ya même des **écussons** à coudre sur ta veste, ton sac, ton slip, où tu veux. :sparkles: `design____ à compléter.... `
 
 __Les conditions:__
 - [ ] s'engager à payer tout les mois 34€ par domiciliation bancaire.
-- [ ] à visionner "10 bullets" from Tom Sachs *(en attendant qu'on ai une vidéo à nous)*
->https://youtu.be/49p1JVLHUos
+- [ ] à visionner ["10 bullets" from Tom Sachs](https://youtu.be/49p1JVLHUos) *(en attendant qu'on ai une vidéo à nous)*
 - [ ] passer au plus vite son badge Github 1 Rookie  
 Github ou équivalent va servir pour l'organisation, la documentation, la participation et le partage à une échèlle MACRO
 - [ ] Documenter ses projets....
@@ -111,11 +110,13 @@ Github ou équivalent va servir pour l'organisation, la documentation, la partic
 __CheckList Level 1.0:__
 - [ ] Définir un ordre permanent auprès de sa banque du montant de 34€. Quand dans le mois n'a pas d'importance mais la récurrence l'est.
 - [ ] Nous présenter la preuve de cet ordre permanent ou attendre plusieurs mois qu'on le constate sur le compte de l'asbl. ^^
-- [ ] Obtenir son [badge Github niveau 1] 
+- [ ] Fabriquer son passeport
+- [ ] Obtenir son [badge Github niveau 1]
+- [ ] J'ai visionné "10 bullets"
 
 __TodoList:__
 - [ ] Comment gérer les membres Actif? Elaboration d'une fiche plus complète avec les crédits, les niveaux, les badges, en lien avec le passeport et le RFID option du futur. 
-- [ ] Vérification dans le tps de la récurence. Versement actif.
+- [x] Vérification dans le tps de la récurence. Versement actif.
 - [ ] Développer les tutos sur github en commançant par [badge Github niveau 1] (https://github.com/openfab-lab/github-introduction-ws/blob/master/Github%20Badge%201%20Rookie.md)
 - [ ] Développer les types de badges et compétences. `list, design____ à compléter.... `
 - [ ] ....?
@@ -127,20 +128,20 @@ for what?
 and how?
 
 ####Les crédits
-- les crédits "gratuit" lié à l'abo sont valable 1 mois, les crédits non consommé sont perdu [comme chez mobilViking](https://vikingco.com/fr/mobile-vikings/offer/subscriptions/)  
+- les crédits "gratuit" lié à l'abo sont valable 1X ~~mois, les crédits non consommé sont perdu [comme chez mobilViking](https://vikingco.com/fr/mobile-vikings/offer/subscriptions/)   ~~
 
 - s'il en faut plus? 
 	- on peut en acheter
 	- on peut échanger via troc entre membres
-	- on peut en gagner en s'occupant de tâches communautaires. voir "tableau des tâches".
+	- on peut en gagner en s'occupant de tâches communautaires. voir "tableau des tâches". `____ à faire.... `
 
 Les crédits sont repris dans le passeport, c'est votre ID, votre porte-monnaie, votre vie de maker.  
-Les crédits sont périssables.   
-Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag^  
-!! Uniquement les crédits **que l'on gagne** sont reconnu et s'accumule pour justifier de votre participation et pouvoir atteindre un jour le level 2 
+Les crédits sont périssables? `____ à compléter.... `  
+Les crédits permettent de débloquer l'accès au **LEVEL 3** ^#encoreplusdeSwag^  
+!! Uniquement les crédits **que l'on gagne** sont reconnu et s'accumule pour justifier de votre participation et pouvoir atteindre un jour le level 3. L'expérience ne s'achète pas. 
 
 
-###Level 2 - membre effectif
+###Level 3 - membre effectif ou **"Meta User"**
 
 ++Les avantages:++
 + ne paye plus l'abonnement
@@ -168,8 +169,8 @@ Les crédits permettent de débloquer l'accès au **LEVEL 2** ^#encoreplusdeSwag
 ###Level ? Co-locataire bureau
 
 Possibilité de partager le bureau en mode résident.  
-Dewi et Tom sont intéressé.  
-Accessible aux Level2? 
+Dewi et Tom sont intéressés.  
+Accessible aux Level 2? ou 3?
 Clarté des engagements? à quelles conditions? Euro ou en échange de x crédit aussi?  
 Si euro. Combien? Quel différence avec level 2 et les 38%? 
-N'est-ce pas mieux de garder une idée d'échange de crédis acquis par les tâches. 
+N'est-ce pas mieux de garder une idée d'échange de crédis acquis par les tâches? 
