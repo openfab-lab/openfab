@@ -1,6 +1,6 @@
-#LevelUP  @openfab
+# LevelUP  @openfab
 
-######Les rangs selon l'internet (EN)
+###### Les rangs selon l'internet (EN)
 
 >http://english.stackexchange.com/questions/83832/list-of-expertise-levels-from-beginner-to-expert
 >I am looking for a list from beginner to expert in as much as possible steps. I have constructed by myself:  
@@ -23,7 +23,7 @@ Expert*
 >What do you think is the best list?
 
 
-######Les rangs selon Donjon - Clé en main (FR)
+###### Les rangs selon Donjon - Clé en main (FR)
 ![donjon team](https://github.com/openfab-lab/openfab/blob/master/img/donjon.jpg)   
 *Nul  
 pas très doué  
@@ -40,7 +40,7 @@ super-fortiche*
 
 - - -
 
-###Level 1 - ~~Newbie,~~ membre adhérent passif ou **"User"**
+### Level 1 - ~~Newbie,~~ membre adhérent passif ou **"User"**
 ~~= **nul** *mais c'est pas grave, c'est le même point de départ pour tout le monde*~~
 
 __Les avantages:__
@@ -62,7 +62,7 @@ __Les conditions:__
 
 >note: les montants sont peut-être à revoir pour activer l'intérêt, pousser à faire l'effort de devenir membre adhérent ou utilisation à tarif horaire des machines (voir tarif à la carte)
 
-__CheckList Level 0.1:__
+__CheckList Level 1:__
 - [ ] Inscription sur [le site Openfab](http://openfab.be/adhesion)  
 - [ ] +18 ans ou autorisation des parents  
 - [ ] Assurance
@@ -88,7 +88,7 @@ what about "SIGN25"?
 
 -----
 
-###Level 2 - ~~Rookie,~~ membre adhérent actif ou **"Super USER"**
+### Level 2 - ~~Rookie,~~ membre adhérent actif ou **"Super USER"**
 ~~= **pas très doué** mais veut s'améliorer petit à petit, c'est pas une résolution de nouvel an.~~
 
 à partir d'ici commence l'exploration d'un modèle de fablab basé sur la gamification:  
@@ -121,13 +121,13 @@ __TodoList:__
 - [ ] Développer les types de badges et compétences. `list, design____ à compléter.... `
 - [ ] ....?
 
-####Le passeport
+#### Le passeport
 https://github.com/openfab-lab/passeportMaker
 le what, what?
 for what?
 and how?
 
-####Les crédits
+#### Les crédits
 - les crédits "gratuit" lié à l'abo sont valable 1X ~~mois, les crédits non consommé sont perdu [comme chez mobilViking](https://vikingco.com/fr/mobile-vikings/offer/subscriptions/)   ~~
 
 - s'il en faut plus? 
@@ -141,7 +141,7 @@ Les crédits permettent de débloquer l'accès au **LEVEL 3** ^#encoreplusdeSwag
 !! Uniquement les crédits **que l'on gagne** sont reconnu et s'accumule pour justifier de votre participation et pouvoir atteindre un jour le level 3. L'expérience ne s'achète pas. 
 
 
-###Level 3 - membre effectif ou **"Meta User"**
+### Level 3 - membre effectif ou **"Meta User"**
 
 ++Les avantages:++
 + ne paye plus l'abonnement
@@ -159,14 +159,14 @@ Les crédits permettent de débloquer l'accès au **LEVEL 3** ^#encoreplusdeSwag
 - ....
 
 
-###Level CA - conseil d'administration
+### Level CA - conseil d'administration
 
 - président
 - secrétaire
 - trésorié
 
 
-###Level ? Co-locataire bureau
+### Level ? Co-locataire bureau
 
 Possibilité de partager le bureau en mode résident.  
 Dewi et Tom sont intéressés.  
