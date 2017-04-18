@@ -22,7 +22,7 @@ CNC|10€|l'heure
 3d Printer|0.1€|le gramme PLA
 Carte prepaid|40€|50 crédits
 
-+ *1 crédit (crr) équivaux à 1€, pour l'instant uniquement valable sur les tarifs OpenFab*   
++ *1 crédit (crr) équivaux à 1€, pour l'instant exclusivement valable sur les tarifs OpenFab*   
 + *1/2 heure commencée est une 1/2 heure consommée, mesurée par minuterie*
 + *les options sont cumulables.*   
 *Par ex. l'utilisation de la découpe laser coutera 10€ +10€ de formation /heure jusqu'à ce que la personne soit autonome (estimation fabmanager!).*   
