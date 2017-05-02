@@ -154,5 +154,17 @@ Quai d'Aa, 1
 info@engelsproservices.be  
 Service de mise en peinture, laquage, etc...   
 
-**Weerg**  https://www.weerg.com/en/   
+**Weerg** https://www.weerg.com/en/   
 Weerg makes CNC parts from your CAD 3D file, simply, quickly, and with the top technologies in the world
+Service CNC métal
+
+**Atelier CNC** https://www.ateliercnc.com/  
+Près du metro Yser et LaVallée smartbe, rue des artisans.
+Service CNC bois
+
+**Deker sprl** http://www.deker.be  
+Romont 38  
+1547 Bever-Biévène  
+TEL: 0475/803508  
+deker.sprl@gmail.com  
+Service CNC Bois
