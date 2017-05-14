@@ -10,9 +10,13 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
-## xx Avril 2017 @Openfab?
+## 25 Mai 2017 @Openfab
 meetup:  
 facebook:  
+ 
+**Playlist:**
+
+
  
 ## 24 Mars 2017 @HuisVDH
 
