@@ -1,10 +1,10 @@
-#Liste des fournisseurs auxquels nous pouvons faire appel.
+# Liste des fournisseurs auxquels nous pouvons faire appel.
 
 Il faudrait définir des accords avec l'un ou l'autre pour nos produits. Qu'on sache une bonne fois pour toute où se fournir de quoi et à quel prix.
 
 note 23.01.17: Pour des achats de bois massifs, c'est la tristesse chez les fournisseurs. Faudra essayer les scieries directements. http://www.pagesdor.be/bois-scieries-raboteries/
 
-##Bois
+## Bois
 **Gedebois:** http://gedebois.be/  
 02/ 647 42 52  
 C'est pas loin, la découpe est gratuite mais ils ont un choix limité.
@@ -70,7 +70,7 @@ Walhain, E411, sortie n° 10
 **Biemar bois:** http://www.biemar.be/index.php/panneaux-67151/panneaux-multiplex-4986  
 à Soumagne ou à Malmedy
  
-###voici la liste des emails pour une demande de devis rapide chez tout le monde:
+### voici la liste des emails pour une demande de devis rapide chez tout le monde:
 
 BXL:  
 info@gedebois.be;
@@ -84,7 +84,7 @@ info@lagae.be;
 info@carlier.be;
 soumagne@biemar.be;
 
-##Plastique
+## Plastique
 
 - pragma plexy
 - plexy reine
@@ -92,7 +92,7 @@ soumagne@biemar.be;
 - vink
 - autre?
 
-##Metal
+## Metal
 
 - aludan 
 - autres?
@@ -118,7 +118,7 @@ Germany
 +32.2.643.36.66  
 Pas très grand mais il offre un service de commande/dépôt.
 
-##Textile
+## Textile
 **Berger :** http://tissusameublementbruxelles.be/fr  
 84 Rue de la Caserne 84  
 1000 Bruxelles (métro Lemonnier)  
@@ -128,14 +128,20 @@ Grand choix de tissus pas chers + mini rayon matériel de couture.
 99 Chaussée de Waterloo  
 1060 Bruxelles  
 
-
 **Chien Vert :** https://www.chienvert.com   
 2 Rue du Chien Vert  
 1080 Bruxelles   
 +32 2 523 24 94  
 Très vaste choix.
 
-##Papier
+## Cuir
+**ETS Daniel Guiot : **  
+145 rue meyerbeer  
+1180 Bruxelles
++32 2 537 65 70  
+Ouvert que le dimanche matin. Référence via cordonnier. 
+
+## Papier
 **Schleiper :** https://www.schleiper.com  
 149 Chaussée de Charleroi   
 1060 Bruxelles   
