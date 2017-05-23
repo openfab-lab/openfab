@@ -17,7 +17,7 @@ REWARD
 
 ## 2. READ THE FUCKING MANUAL
 
-1.	Manifesto
+1.	[Manifesto](../openfab/Gamification/Manifesto v.01)
 2.	Fundamentals
  * OCR (Objectif Challenge Reward)
  * RPC (Rules Play Culture)
