@@ -9,6 +9,7 @@ Grande reflection à Barcelone de Nicolas suite à la lecture de:
 
 Importance des: 
 - Boucle de gaming = boucle d'habitude
+- [Procedural rhetoric](https://en.wikipedia.org/wiki/Procedural_rhetoric) is a rhetorical concept that explains how people learn through the authorship of rules and processes.
 - Transfert de compétence 
 - valorisation des fails
 
