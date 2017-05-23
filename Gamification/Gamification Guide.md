@@ -12,7 +12,7 @@ TO DO
 REWARD
 
 -	100 CRRR
--	RTFM 
+-	[RTFM](https://github.com/openfab-lab/openfab/blob/master/RTFM.OF.md) 
 -	Profile page for MAKERSPASSPORT
 
 ## 2. READ THE FUCKING MANUAL
