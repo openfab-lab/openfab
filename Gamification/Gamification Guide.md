@@ -22,7 +22,7 @@ REWARD
  * OCR (Objectif Challenge Reward)
  * RPC (Rules Play Culture)
 3.	Missions
- * Mission / Side Mission / Secret Mission
+ * Normal / Recurrent / Side / Secret
  * Taking a mission
  * Submitting a mission
 4.	CRRR
