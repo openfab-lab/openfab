@@ -7,3 +7,5 @@
 6. Don’t be afraid to ask, if you can’t Do It Yourself, Do It Together 
 7. Don’t overthink, try. Failing is what brought us together. 
 8. Finally, never forget the wise words of Shia LeBeouf: Just Do it!!
+
+
