@@ -10,3 +10,9 @@ Skills Needed: Back Office Lvl 1, Earth Lvl 1
 File type: .png  
 Size: 100x100px  
 Delivrable: before Quest La Jacqueline ends  
+
+### History
+
+Completed by  
+Documentation  
+Fails  
