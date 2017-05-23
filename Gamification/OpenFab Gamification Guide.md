@@ -3,6 +3,7 @@
 ## 1. Welcome Pack
 
 TO DO
+
 -	Inscription Web
 -	+18 or Parent Approval
 -	Insurance
@@ -16,21 +17,21 @@ REWARD
 
 ## 2. READ THE FUCKING MANUAL
 
-a.	Manifesto
-b.	Fundamentals
+1.	Manifesto
+2.	Fundamentals
   a.	OCR (Objectif Challenge Reward)
   b.	 RPC (Rules Play Culture)
-c.	Missions
+3.	Missions
   a.	Taking a mission
   b.	Submitting a mission
-d.	CRRR
-e.	Tools
+4.	CRRR
+5.	Tools
   a.	PassPort
   b.	GitHub
   c.	MissionBoard
   d.	CRRRShop
-f.	Badges
-g.	Fails
+6.	Badges
+7.	Fails
 
 ## 3. The 5 Elements of the Maker
 
