@@ -19,11 +19,11 @@ REWARD
 
 1.	Manifesto
 2.	Fundamentals
-  a.	OCR (Objectif Challenge Reward)
-  b.	 RPC (Rules Play Culture)
+ * OCR (Objectif Challenge Reward)
+ * RPC (Rules Play Culture)
 3.	Missions
-  a.	Taking a mission
-  b.	Submitting a mission
+ * Taking a mission
+ * Submitting a mission
 4.	CRRR
 5.	Tools
   a.	PassPort
