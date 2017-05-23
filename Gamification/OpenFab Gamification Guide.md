@@ -26,10 +26,10 @@ REWARD
  * Submitting a mission
 4.	CRRR
 5.	Tools
-  a.	PassPort
-  b.	GitHub
-  c.	MissionBoard
-  d.	CRRRShop
+  * PassPort
+  * GitHub
+  * MissionBoard
+  * CRRRShop
 6.	Badges
 7.	Fails
 
@@ -45,13 +45,13 @@ REWARD
 ## 4. Level Up
 
 1.	User
-  a.	Linear Storyline with sidemissions
-  b.	Time to team up
-  c.	BossBattle: PassPort Challenge
+  * Linear Storyline with sidemissions
+  * Time to team up
+  * BossBattle: PassPort Challenge
 2.	Super User
-  a.	Introduction to Quests
-  b.	Specialisation 
-  c.	Boss Battle: Full Automatisation
+  * Introduction to Quests
+  * Specialisation 
+  * Boss Battle: Full Automatisation
 3.	Meta User
-  a.	Introduction to payed Quests
-  b.	Guilds and Fractions
+  * Introduction to payed Quests
+  * Guilds and Fractions
