@@ -4,7 +4,7 @@
 
 TO DO
 
--	Inscription Web
+-	[Inscription Web](http://openfab.be/adhesion)
 -	+18 or Parent Approval
 -	Insurance
 -	First Payment
@@ -22,6 +22,7 @@ REWARD
  * OCR (Objectif Challenge Reward)
  * RPC (Rules Play Culture)
 3.	Missions
+ * Mission / Side Mission / Secret Mission
  * Taking a mission
  * Submitting a mission
 4.	CRRR
