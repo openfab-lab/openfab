@@ -1,8 +1,8 @@
 ## Mission 1: The Badge Maker  
-Great Thinkers need shiny armor.  That is why the Master of the Realm is giving a unique opportunity for Badge Makers to show their craft.  A huge quest will be helt and we need a badge to reward the vaillant contributors! 
+*Great Thinkers need shiny armor.  That is why the Master of the Realm is giving a unique opportunity for Badge Makers to show their craft.  A huge quest will be helt and we need a badge to reward the vaillant contributors!*
 
 Reward: 20 crrr given by @nicolasdb  
-Connected to: Quest La Jacqueline  
+Connected to: [Quest La Jacqueline](.../blob/master/Gamification/Quests)  
 Category: User  
 Skills Needed: Back Office Lvl 1, Earth Lvl 1  
 
@@ -14,5 +14,5 @@ Delivrable: before Quest La Jacqueline ends
 ### History
 
 Completed by  
-Documentation  
+Documentation Link  
 Fails  
