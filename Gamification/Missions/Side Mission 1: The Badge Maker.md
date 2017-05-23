@@ -2,7 +2,7 @@
 *Great Thinkers need shiny armor.  That is why the Master of the Realm is giving a unique opportunity for Badge Makers to show their craft.  A huge quest will be helt and we need a badge to reward the vaillant contributors!*
 
 Reward: 20 crrr given by @nicolasdb  
-Connected to: [Quest La Jacqueline](.../blob/master/Gamification/Quests)  
+Connected to: [Quest La Jacqueline](https://github.com/openfab-lab/openfab/blob/master/Gamification/Quests/Quests%20Template.md)  
 Category: User  
 Skills Needed: Back Office Lvl 1, Earth Lvl 1  
 
