@@ -29,31 +29,31 @@ Description (max 500 characters, will be revisited to fit the whole storyline)
 -	Badge Jacqueline for MakersPassport  
 
 ## Specific Requirments ( .. Out of … needed to complete Minimum Needed Design)
--	Requirment 1
+-	Requirment 1  
 o	Titel   
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
 …………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
--	Requirment 2
+-	Requirment 2  
 o	Titel   
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
 …………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
--	Requirment 3
+-	Requirment 3  
 o	Titel   
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
 …………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
--	Requirment 4
+-	Requirment 4  
 o	Titel   
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
 …………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
--	Requirment 5
+-	Requirment 5  
 o	Titel   
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
 …………………………………………………………………………………………………………………………  
