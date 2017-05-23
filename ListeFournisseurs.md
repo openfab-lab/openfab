@@ -174,3 +174,17 @@ Romont 38
 TEL: 0475/803508  
 deker.sprl@gmail.com  
 Service CNC Bois
+
+## Drinks
+
+**Club Mate** 
+Nicolas Ronsmans, 161 bld Général Jacques 1050 XL (pas loin)
++32 471 28 38 83
+
+**Beer Project**
+Faut leur commander et voir comment se faire livrer ou en allant chercher.
+Ils font un bon d'enlèvement et la facture est éditée, envoyée et payée par après, au tarif négocié.
+On a un tarif à 1€/bouteille htva + vidange.
+http://www.beerproject.be/en/sections/9-contact
+Sébastien Morvan sebastien@beerproject.be
+Alix Thiran alix@beerproject.be
