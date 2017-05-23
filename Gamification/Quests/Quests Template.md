@@ -32,31 +32,31 @@ Description (max 500 characters, will be revisited to fit the whole storyline)
 -	Requirment 1
 o	Titel 
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
-…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 -	Requirment 2
 o	Titel 
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
-…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 -	Requirment 3
 o	Titel 
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
-…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 -	Requirment 4
 o	Titel 
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
-…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 -	Requirment 5
 o	Titel 
 o	Description (max 140 characters, will be revisited to fit the whole storyline)
-…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………  
 o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 
@@ -64,52 +64,52 @@ o	Skills Needed: Lvl … Water, Lvl … Fire, Lvl … Wood, …
 
 Examples: 
 
-Titel: Find the much needed resource A
-Description:
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User 
-Skills Needed: Social Lvl …
+Titel: Find the much needed resource A  
+Description:  
+Reward: … given by USERNAME  
+Connected to: Quest 1  
+Category: User   
+Skills Needed: Social Lvl …  
 
-Titel: Find the much needed resource B
-Description:
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User
-Skills Needed: Social Lvl …
+Titel: Find the much needed resource B  
+Description:  
+Reward: … given by USERNAME  
+Connected to: Quest 1  
+Category: User  
+Skills Needed: Social Lvl …  
 
-Titel: Find the much needed resource C
-Description:
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User
-Skills Needed: Social Lvl …
+Titel: Find the much needed resource C  
+Description:  
+Reward: … given by USERNAME  
+Connected to: Quest 1  
+Category: User  
+Skills Needed: Social Lvl …  
 
-Titel: Find the much needed resource D
-Description:
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User
-Skills Needed: Social Lvl …
+Titel: Find the much needed resource D  
+Description:  
+Reward: … given by USERNAME  
+Connected to: Quest 1  
+Category: User  
+Skills Needed: Social Lvl …  
 
-Titel: Find the much needed resource E
-Description:
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User
-Skills Needed: Social Lvl …
+Titel: Find the much needed resource E  
+Description:  
+Reward: … given by USERNAME  
+Connected to: Quest 1   
+Category: User  
+Skills Needed: Social Lvl …  
 
-Titel: Create Badge Jacqueline
-Description
-Reward: … given by USERNAME
-Connected to: Quest 1
-Category: User
-Skills Needed: Social Lvl …
+Titel: Create Badge Jacqueline  
+Description  
+Reward: … given by USERNAME  
+Connected to: Quest 1  
+Category: User  
+Skills Needed: Social Lvl …  
 
-Titel: Match the description to the general Lore
-Description: 
-Reward …. given by USERNAME
-Connected to: Quest 1
-Category: Super User
-Skills Needed: Logic Lvl …
+Titel: Match the description to the general Lore  
+Description:   
+Reward …. given by USERNAME  
+Connected to: Quest 1  
+Category: Super User  
+Skills Needed: Logic Lvl …  
 
