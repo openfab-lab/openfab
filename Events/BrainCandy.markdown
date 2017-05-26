@@ -19,17 +19,17 @@ facebook:
 En apéro, quelques Simone Giertz... tout le monde connait, je met pas de lien....    
 
 - [Design Club - Super Mario Bros: Level 1-1](https://www.youtube.com/watch?v=ZH2wGpEZVgE) 5:42
-- [Joueur du Grenier - ROGER RABBIT - NES](https://youtu.be/nshFXWEKxs4)
-- [How Guile's theme was discovered](https://youtu.be/Yff_5avq18E)
+- [Joueur du Grenier - ROGER RABBIT - NES](https://youtu.be/nshFXWEKxs4) 16:27
+- [How Guile's Theme Was Discovered](https://youtu.be/Yff_5avq18E) 1:35
 - [Gaming can make a better world | Jane McGonigal](https://youtu.be/dE1DuBesGYM) 20:32
 - [Indiana Jones and the Last Crusade (1989) - Trailer in 720p (Fan Remaster)](https://youtu.be/WGpq-LDV6jU) 2:13
 - [Habitica: Gamify Your Life](https://youtu.be/hgdeJnSili0) 1:03
-- [Game Anatomy - Comment Reigns motive à rejouer ?](https://youtu.be/X2LLCG--Uzs) 
-- [Des histoires pour l'humanité - DBY #9](https://youtu.be/Gkc7euz7Y74)
-- [ ](https://www.youtube.com/watch?v=9p_hc9qtcow) 
-https://www.youtube.com/watch?v=rIo3X0NMHLQ
-https://www.youtube.com/watch?v=U7NXmDA__58
-https://www.youtube.com/watch?v=Dh4WvCZXO0s
+- [Game Anatomy - Comment Reigns motive à rejouer ?](https://youtu.be/X2LLCG--Uzs) 7:31
+- [Des histoires pour l'humanité - DBY #9](https://youtu.be/Gkc7euz7Y74) 8:48
+- [OTB #8: La "magie" du conditionnement](https://www.youtube.com/watch?v=9p_hc9qtcow) 13:07
+- [Le pays le plus HEUREUX du monde !? Le VANUATU](https://www.youtube.com/watch?v=rIo3X0NMHLQ) 15:42
+- [Serious Gamer - BiTS - ARTE](https://www.youtube.com/watch?v=U7NXmDA__58) 8:33
+- [Introduction to the Tragedy of the Commons Fisheries Simulation Game](https://www.youtube.com/watch?v=Dh4WvCZXO0s) 2:37
 
 
 
