@@ -11,7 +11,7 @@ TO DO
 
 REWARD
 
--	100 CRRR
+-	20 CRRR
 -	[RTFM](https://github.com/openfab-lab/openfab/blob/master/RTFM.OF.md) 
 -	Profile page for MAKERSPASSPORT
 
