@@ -4,6 +4,9 @@ Il faudrait définir des accords avec l'un ou l'autre pour nos produits. Qu'on s
 
 note 23.01.17: Pour des achats de bois massifs, c'est la tristesse chez les fournisseurs. Faudra essayer les scieries directements. http://www.pagesdor.be/bois-scieries-raboteries/
 
+## Emoji github
+**internet** [cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :octocat:   
+
 ## Bois
 **Gedebois:** http://gedebois.be/  
 02/ 647 42 52  
