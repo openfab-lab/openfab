@@ -160,6 +160,11 @@ Quai d'Aa, 1
 info@engelsproservices.be  
 Service de mise en peinture, laquage, etc...   
 
+**AMD metal** http://www.amd.be/  
+Chaussée de Gand 503-Steenweg op Gent 503  
+B-1080 Bruxelles - Brussel  
+(02) 414 70 80 - Fax (02)414 59 46  
+
 **Weerg** https://www.weerg.com/en/   
 Weerg makes CNC parts from your CAD 3D file, simply, quickly, and with the top technologies in the world
 Service CNC métal
