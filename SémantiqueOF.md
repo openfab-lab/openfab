@@ -7,7 +7,7 @@ Passion
 Coopération  
 Itération  
 Gamification  
-Catalyseur 
+Catalyseur  
 Mise en commun  
 Empowerment  
 Apprendre  
