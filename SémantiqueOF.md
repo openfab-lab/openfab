@@ -7,10 +7,20 @@ Passion
 Coopération  
 Itération  
 Gamification  
-Catalyseur  
+Catalyseur 
+Mise en commun  
+Empowerment  
+Apprendre  
+Aller plus loin ensemble  
+Sytonie  
+Communauté  
+Global / Local  
+Résilience  
+Innovation  
+Plaisir  
 
     Makers  
-Valeurs :  
+Manifesto of makers  
 _MAKE  
 Making is fundamental to what it means to be human. We must make, create, and express ourselves to feel whole. There is something unique about  making physical things. These things are like little pieces of us and seem to embody portions of our souls.  
 _SHARE  
@@ -30,19 +40,28 @@ This is a movement, and it requires emotional, intellectual, financial, politica
 _CHANGE  
 Embrace the change that will naturally occur as you go through your maker journey. Since making is fundamental to what it means to be human, you will become a more complete version of you as you make.  
 
-Mise en commun  
-Empowerment  
-Apprendre  
-Aller plus loin ensemble  
-Sytonie  
-Communauté  
-Global / Local  
-Résilience  
-Innovation  
-Plaisir  
-
     Permaculture  
+ 12 principes de David Holmgren  
+_Observer et interagir (empathie du design thinking ?)  
+_Capter et stocker l’énergie (stocker pour lisser les saisonnalités)    
+_Obtenir une production (il faut chercher à obtenir des résultats vraiment utiles à chaque étape du travail entrepris)  
+_Appliquer l’autorégulation et accepte la rétroaction (en dissuadant les activités néfastes, on assure que les systèmes pourront continuer de fonctionner correctement) 
+_Utiliser et valoriser les ressources et les services renouvelables (En utilisant au mieux l'abondance des ressources naturelles, on peut atténuer notre comportement de consommation et notre dépendance vis-à-vis des ressources non-renouvelables)   
+_Ne produire aucun déchet (En utilisant et en valorisant toutes les ressources disponibles, rien n'est jamais jeté) 
+_La conception, des grandes structures au détails (design from pattern to details : La conception, des motifs aux détails)  
+_Intégrer au lieu de séparer    
+_Utiliser des solutions lentes et à petite échelle  
+_Se servir de la diversité et la valoriser  
+_Utiliser les bordures et valoriser la marge    
+_Face au changement, être inventif  
 
+Les principes de Bill Mollison  
+_Travailler avec la nature plutôt que contre elle   
+_Le problème est la solution    
+_Faire le changement le moindre pour le plus grand effet    
+_Les seules limites sont celles de notre imagination    
+_Tout jardine ou a un effet sur son environnement  
+  
     Personnalités (chercheurs, économistes, évangelistes, ...) :  
 Bauwens  
 Rifkin  
