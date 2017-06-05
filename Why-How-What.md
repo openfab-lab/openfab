@@ -30,7 +30,7 @@ Gamification
 #### Explication/doute :  
 Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui renvoie plus à un lieu et moins au côté
 aventure humaine).  
-Le mot maker n'est pas assez démocratisé pour l'utiliser dans la description.
+Le mot maker n'est pas assez démocratisé pour l'utiliser dans la description, du moins dans un descriptif court d'introduction.
 
 - Texte pour Design September  
 OpenFab Brussels est un FabLab basé au 274 Avenue de la Couronne à Ixelles qui met à disposition 
