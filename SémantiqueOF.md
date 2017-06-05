@@ -72,3 +72,6 @@ _[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/), Lille
 
 - Projets :  
 _[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfaire-le-monde-5/), cabinet de conseil, Lille. 
+
+- Articles :
+_[Guildes, corporations, compagnons : et si les freelances s’inspiraient des anciens](http://www.amedee.co/et-si-les-freelances-sinspiraient-des-anciens/)
