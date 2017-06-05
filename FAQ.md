@@ -113,3 +113,8 @@ Merci d'avance!
 
 **réponse: **  
 la chaise claire en kit (bois bouleau + vis) est à 80€ et de mémoire, ça devait être 16.4€ de poste en supplément.
+
+# GLOSSAIRE :
+
+#### #crr :
+Crédit gagné suite à un lvl up. Peut être consommé pour utiliser du temps machine. 1 crédit (crr) équivaux à 1€, pour l'instant exclusivement valable sur les tarifs OpenFab.  Voir la [page tarification] (https://github.com/openfab-lab/openfab/blob/master/priceListFR.md)
