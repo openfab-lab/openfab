@@ -70,5 +70,5 @@ _[Le lieu](https://www.facebook.com/LeLieuDaney/), Rennes
 _[Volume Ouvert](https://www.facebook.com/volumeouvert/), Lille  
 _[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/), Lille
 
-- Projets :
+- Projets :  
 _[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfaire-le-monde-5/), cabinet de conseil, Lille. 
