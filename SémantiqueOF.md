@@ -1,7 +1,7 @@
-# Liste en vrac de mots, adjectifs, valeurs, personnalités, concepts, ... qui sont en lien avec OpenFab
+# Liste en vrac de mots, adjectifs, valeurs, personnalités, concepts, inspirations ... qui sont en lien avec OpenFab
 
 FabLab  
-OpenSource -- Partage
+OpenSource -- Partage  
 Indépendant  
 Communauté -- Sytonie -- Catalyseur  
 Coopération -- Collaboration -- Mise en commun -- Aller plus loin ensemble   
@@ -58,7 +58,14 @@ _Les seules limites sont celles de notre imagination
 _Tout jardine ou a un effet sur son environnement  
   
     Personnalités (chercheurs, économistes, évangelistes, ...) :  
-Bauwens  
-Rifkin  
-Stiegler  
-Coriat  
+_Bauwens   
+_Rifkin   
+_Stiegler   
+_Coriat   
+
+    Inspirations :  
+- Lieux :  
+_[Le 6B](www.le6b.fr/)  
+_[Le lieu](https://www.facebook.com/LeLieuDaney/)  
+_[Volume Ouvert](https://www.facebook.com/volumeouvert/)  
+_[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/)  
