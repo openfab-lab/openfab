@@ -23,6 +23,7 @@ Sharing what you have made and what you know about making with others is the met
 _GIVE  
 There are few things more selfless and satisfying than giving away something you have made. The act of making puts a small piece of you in the object. Giving that to someone else is like giving someone a small piece of yourself. Such things are often the most cherished items we possess.  
 _LEARN  
+
 You must learn to make. You must always seek to learn more about your making. You may become a journeyman or master craftsman, but you will still learn, want to learn, and push yourself to learn new techniques, materials, and processes. Building a lifelong learning path ensures a rich and rewarding making life and, importantly, enables one to share.  
 _TOOL UP  
 You must have access to the right tool for the project  at hand. Invest in and develop local access to the tools you need to do the making you want to do. The tools of making have never been cheaper, easier to use, or more powerful.  
@@ -59,9 +60,10 @@ _Tout jardine ou a un effet sur son environnement
   
     Personnalités (chercheurs, économistes, évangelistes, ...) :  
 _Bauwens   
-_Rifkin   
+_Rifkin (3ème Révolution Industrielle
 _Stiegler   
-_Coriat   
+_Coriat  
+_Marc Halevy ([Changement de paradigme](https://vimeo.com/110347830))
 
     Inspirations :  
 - Lieux :  
@@ -71,7 +73,9 @@ _[Volume Ouvert](https://www.facebook.com/volumeouvert/), Lille
 _[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/), Lille
 
 - Projets :  
-_[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfaire-le-monde-5/), cabinet de conseil, Lille. 
+_[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfaire-le-monde-5/), cabinet de conseil, Lille.  
+_[MakeSense](https://www.makesense.org/fr/pages/howitworks)  
+_[Ticket For Change](http://www.ticketforchange.org/)  
 
 - Articles :
 _[Guildes, corporations, compagnons : et si les freelances s’inspiraient des anciens](http://www.amedee.co/et-si-les-freelances-sinspiraient-des-anciens/)
