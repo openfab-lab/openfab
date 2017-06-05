@@ -1,23 +1,18 @@
 # Liste en vrac de mots, adjectifs, valeurs, personnalités, concepts, ... qui sont en lien avec OpenFab
 
 FabLab  
-OpenSource  
+OpenSource -- Partage
 Indépendant  
-Passion  
-Coopération  
+Communauté -- Sytonie -- Catalyseur  
+Coopération -- Collaboration -- Mise en commun -- Aller plus loin ensemble   
 Itération  
-Gamification  
-Catalyseur  
-Mise en commun  
 Empowerment  
 Apprendre  
-Aller plus loin ensemble  
-Sytonie  
-Communauté  
 Global / Local  
 Résilience  
-Innovation  
-Plaisir  
+Innovation -- Faire autrement 
+Plaisir -- Gamification -- 
+Passion  
 
     Makers  
 Manifesto of makers  
