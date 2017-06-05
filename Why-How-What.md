@@ -32,14 +32,14 @@ Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui 
 aventure humaine).  
 Le mot maker n'est pas assez démocratisé pour l'utiliser dans la description.
 
-- Texte pour Design September
+- Texte pour Design September  
 OpenFab Brussels est un FabLab basé au 274 Avenue de la Couronne à Ixelles qui met à disposition 
 de sa communauté des machines et encourage de nouvelles manières de faire.
 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur 
 d’innovation et de créativité.
 Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
 
-- Texte site
+- Texte site  
 OpenFab Brussels est un laboratoire urbain d’innovation.  
 Ce tiers-lieu favorise la réindustrialisation locale au travers d’outils de fabrication numérique, 
 dynamisé par une communauté et des services !*  
