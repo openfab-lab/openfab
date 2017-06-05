@@ -65,7 +65,10 @@ _Coriat
 
     Inspirations :  
 - Lieux :  
-_[Le 6B](www.le6b.fr/)  
-_[Le lieu](https://www.facebook.com/LeLieuDaney/)  
-_[Volume Ouvert](https://www.facebook.com/volumeouvert/)  
-_[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/)  
+_[Le 6B](www.le6b.fr/), Saint-Denis  
+_[Le lieu](https://www.facebook.com/LeLieuDaney/), Rennes  
+_[Volume Ouvert](https://www.facebook.com/volumeouvert/), Lille  
+_[La Grappe](https://www.facebook.com/LAGRAPPE-463638810385069/), Lille
+
+- Projets :
+_[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfaire-le-monde-5/), cabinet de conseil, Lille. 
