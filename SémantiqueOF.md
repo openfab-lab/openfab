@@ -9,7 +9,7 @@ Itération
 Gamification  
 Catalyseur  
 
-Makers  
+    Makers  
 Valeurs :  
 _MAKE  
 Making is fundamental to what it means to be human. We must make, create, and express ourselves to feel whole. There is something unique about  making physical things. These things are like little pieces of us and seem to embody portions of our souls.  
@@ -41,11 +41,9 @@ Résilience
 Innovation  
 Plaisir  
 
-Permaculture  
+    Permaculture  
 
-
-Personnalités (chercheurs, économistes, évangelistes, ...) :
-
+    Personnalités (chercheurs, économistes, évangelistes, ...) :  
 Bauwens  
 Rifkin  
 Stiegler  
