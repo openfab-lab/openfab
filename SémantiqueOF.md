@@ -23,7 +23,6 @@ Sharing what you have made and what you know about making with others is the met
 _GIVE  
 There are few things more selfless and satisfying than giving away something you have made. The act of making puts a small piece of you in the object. Giving that to someone else is like giving someone a small piece of yourself. Such things are often the most cherished items we possess.  
 _LEARN  
-
 You must learn to make. You must always seek to learn more about your making. You may become a journeyman or master craftsman, but you will still learn, want to learn, and push yourself to learn new techniques, materials, and processes. Building a lifelong learning path ensures a rich and rewarding making life and, importantly, enables one to share.  
 _TOOL UP  
 You must have access to the right tool for the project  at hand. Invest in and develop local access to the tools you need to do the making you want to do. The tools of making have never been cheaper, easier to use, or more powerful.  
