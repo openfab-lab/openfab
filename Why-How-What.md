@@ -32,7 +32,7 @@ Gamification
   
     Notre constat.  
 
-À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspiré du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
+À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspirée du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
 
 Nous sommes face à 3 ruptures au niveau macro, global, qui touche l'humanité dans son entièreté :
 + Rupture écologique.  Nous ne sommes plus dans l'abondance de ressources naturelles mais dans une rarefaction de celles-ci. Les ressources de notre planète ne sont pas illimitées.  
@@ -47,7 +47,7 @@ Cette rupture intermédiaire doit être menée par le bas (bottom-up), par le ni
 
     Que vient faire OpenFab là-dedans ?  
 
-Une centaine de makers bruxellois ayant l'envie de devenir ce qu'ils sont, de développer leur potentiel ont décidé de le faire au travers de la création d'un commun : OpenFab. Logé au BURO274, basé au 274 Avenue de la Couronne à Ixelles, notre FabLab met à disposition de sa communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
+Une centaine de makers bruxellois ayant l'envie de devenir ce qu'ils sont, de développer leur potentiel ont décidé de le faire au travers de la création d'un commun : OpenFab. Logé au BURO274, basé au 274 Avenue de la Couronne à Ixelles, notre FabLab met à disposition de la communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab permet la mutualisation des capacités de chacun et devient catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
 
     Comment ? Nos valeurs ?   
 
@@ -62,7 +62,7 @@ Nous sommes de grands adeptes du "Quick and dirty", du "Done is better than perf
 Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement, du bien-être de chacun. Nous sommes convaincus  
 (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation).  
 
-        Nos actions ?  
+    Nos actions ?  
 
 Mises à disposition de resources pour notre communauté, machines, formations, compétences, temps, ...
 
