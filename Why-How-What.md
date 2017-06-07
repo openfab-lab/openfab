@@ -29,24 +29,28 @@ Projet européen CHIC 2.0
 Gamification  
 
     _Texte :  
-Notre monde se complexifie, nous traversons plusieurs ruptures selon le prospectiviste Marc Halevy :  
+À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspiré du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
+
 Nous avons 3 ruptures au niveau macro, global, qui touche l'humanité dans son entièreté :
 + écologique. Nous ne sommes plus dans l'abondance de ressources naturelles mais dans une rarefaction de celles-ci. 
-+ allocation des ressources. Les ressources financières également se concentrent entre les mains d'une poignée d'individus plus vite que nous créons du capital.  
++ économique. Les ressources financières se concentrent entre les mains d'une poignée d'individus plus vite que nous créons du capital.  
 + numérique, technologique. La technologie donne plus de pouvoir à l'individu, lui donne la possibilité de se connecter à ses pairs, de s'organiser de manière différentes. Michel Bauwens parle de la forme relationnelle "pair à pair".
 
 De ça, il faut mener une rupture au niveau meso, intermédiaire :  
-+ organisationnelle, le modèle historique, pyramidal, qui minimise les contacts humains doit passer à un modèle en réseau pour gagner en agilité, adaptabilité face à ce monde qui change de plus en plus vite.
++ organisationnelle, le modèle historique, pyramidal, qui minimise les contacts humains doit passer à un modèle en réseau pour gagner en agilité, adaptabilité face à ce monde qui change de plus en plus vite. 
 
 Cette rupture intermédiaire doit être menée par le bas (bottom-up), par le niveau micro, l'individu lui-même :  
-+ aspirationnelle, envie de trouver du sens dans son travail, de réussir sa vie et pas dans la vie. Comme le disait Nietzsche : "Deviens ce que tu es", nous sommes tous les pièces uniques d'un grand puzzle 
++ aspirationnelle, envie de trouver du sens dans son travail, de réussir sa vie et pas dans la vie. Comme le disait Nietzsche : "Deviens ce que tu es", nous sommes tous les pièces uniques d'un grand puzzle. Chacun de nous doit trouver son unicité, accomplir son potentiel.  
+
+Que vient faire OpenFab là-dedans ?  
+OpenFab intervient au niveau intermédiaire, c'est l'union, un réseau d'une centaine d'individus, de makers qui se sont lancés dans leur quête d'unicité, qui veulent développer leur potentiel.
 
 #### Explication/doute :  
 + Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui renvoie plus à un lieu et moins au côté
 aventure humaine).  
-+ Marc Halévy donne 5 ruptures mais j'aime pas trop, la "rupture organisationnelle" est d'avantage une réponse qu'autre chose (passage d'un modèle pyramidal à un modèle en réseau). Le monde change donc on s'adapte autrement et pas on s'adapte autrement donc le monde change. Il faudra peaufiner ça et les recouper autrement.  
++ Marc Halévy donne 5 ruptures sur un même plan mais j'aime pas trop, la "rupture organisationnelle" est d'avantage une réponse qu'autre chose (passage d'un modèle pyramidal à un modèle en réseau) par exemple. Le monde change donc on s'adapte autrement et pas on s'adapte autrement donc le monde change. Je me suis parmi d'en faire 2 autres versions.  
 
-Pourquoi pas comme ceci :  
+V1 ici et la V2 dans le texte directement.   
 Les ruptures qui changent le monde :  
 - Écologie devrait être appelé allocation des ressources (financières comme naturelles). 
 - Numérique, technologique (progrès, empowerment de l'individu). 
