@@ -31,7 +31,7 @@ Gamification
     _Texte :  
 À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspiré du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
 
-Nous avons 3 ruptures au niveau macro, global, qui touche l'humanité dans son entièreté :
+Nous sommes face à 3 ruptures au niveau macro, global, qui touche l'humanité dans son entièreté :
 + écologique. Nous ne sommes plus dans l'abondance de ressources naturelles mais dans une rarefaction de celles-ci. 
 + économique. Les ressources financières se concentrent entre les mains d'une poignée d'individus plus vite que nous créons du capital.  
 + numérique, technologique. La technologie donne plus de pouvoir à l'individu, lui donne la possibilité de se connecter à ses pairs, de s'organiser de manière différentes. Michel Bauwens parle de la forme relationnelle "pair à pair".
@@ -43,7 +43,17 @@ Cette rupture intermédiaire doit être menée par le bas (bottom-up), par le ni
 + aspirationnelle, envie de trouver du sens dans son travail, de réussir sa vie et pas dans la vie. Comme le disait Nietzsche : "Deviens ce que tu es", nous sommes tous les pièces uniques d'un grand puzzle. Chacun de nous doit trouver son unicité, accomplir son potentiel.  
 
 Que vient faire OpenFab là-dedans ?  
-OpenFab intervient au niveau intermédiaire, c'est l'union, un réseau d'une centaine d'individus, de makers qui se sont lancés dans leur quête d'unicité, qui veulent développer leur potentiel.
+OpenFab intervient au niveau intermédiaire, c'est l'union indépendante, un réseau d'une centaine d'individus, de makers qui se sont lancés dans leur quête d'unicité, qui veulent développer leur potentiel.
+
+Comment ?  
+La collaboration.  
+L'itération.  
+l'humain.  
+
+Nos actions ?
+Mises à disposition de resources pour notre communauté, machines, formations, compétences, temps, ...
+
+
 
 #### Explication/doute :  
 + Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui renvoie plus à un lieu et moins au côté
