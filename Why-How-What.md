@@ -58,32 +58,15 @@ Elle est essentielle chez OpenFab, chacun détient un bout de la vérité puisqu
 Nous sommes de grands adeptes du "Quick and dirty", du "Done is better than perfect". Nous pensons qu'il faut avancer vite, proposer son travail dès que possible pour collecter des retours et aller plus loin grâce à la collaboration. Nous sommes toujours en beta, dans un processus d'amélioration continue. Nous apprennons par l'expérimentation.
 
 + L'humain.  
-Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement de chacun . Nous sommes convaincus (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation)
-
-    Nos actions ? 
+Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement de chacun . Nous sommes convaincus (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation).  
+  
+  
+    Nos actions ?  
 
 Mises à disposition de resources pour notre communauté, machines, formations, compétences, temps, ...
-
 
 
 #### Explication/doute :  
 + Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui renvoie plus à un lieu et moins au côté
 aventure humaine).  
 + Marc Halévy donne 5 ruptures sur un même plan mais j'aime pas trop, la "rupture organisationnelle" est d'avantage une réponse qu'autre chose (passage d'un modèle pyramidal à un modèle en réseau) par exemple. Le monde change donc on s'adapte autrement et pas on s'adapte autrement donc le monde change. Je me suis parmi d'en faire 1 autre version. 
-
-
-
-
-- Texte actuel pour Design September  
-OpenFab Brussels est un FabLab basé au 274 Avenue de la Couronne à Ixelles qui met à disposition 
-de sa communauté des machines et encourage de nouvelles manières de faire.
-100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur 
-d’innovation et de créativité.
-Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
-
-- Texte actuel site  
-OpenFab Brussels est un laboratoire urbain d’innovation.  
-Ce tiers-lieu favorise la réindustrialisation locale au travers d’outils de fabrication numérique, 
-dynamisé par une communauté et des services !*  
-*Approche opérationnelle, pratique, pédagogique, technique, financière et logistique au-delà de ce qui 
-est disponible dans un seul lab  
