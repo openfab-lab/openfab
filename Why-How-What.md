@@ -51,7 +51,7 @@ Une centaine de makers bruxellois ayant l'envie de devenir ce qu'ils sont, de d�
 
     Comment ? Nos valeurs ?   
 
-+ La collaboration. 
++ La collaboration.  
 Elle est essentielle chez OpenFab, chacun détient un bout de la vérité puisqu'elle est multiple. Elle permet d'inclure plus largement, d'embarquer et ainsi créer le changement.  
 (inclusif, le changement ne se commande pas, ne nait pas d’un top—>down, il faut embarquer avec soi, pull plutôt que push, casser les silos, design thinking)  
 
