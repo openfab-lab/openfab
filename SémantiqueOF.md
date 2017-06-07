@@ -62,7 +62,7 @@ _Bauwens
 _Rifkin (3ème Révolution Industrielle
 _Stiegler   
 _Coriat  
-_Marc Halevy ([Changement de paradigme](https://vimeo.com/110347830))
+_Marc Halevy ([Changement de paradigme](https://vimeo.com/110347830), [Les 5 ruptures de notre monde](https://www.youtube.com/watch?v=Krdhu5mP9J0))  
 
     Inspirations :  
 - Lieux :  
@@ -76,5 +76,5 @@ _[On Peut Parfaire Le Monde](http://onpeutparfairelemonde.com/fr/on-peut-parfair
 _[MakeSense](https://www.makesense.org/fr/pages/howitworks)  
 _[Ticket For Change](http://www.ticketforchange.org/)  
 
-- Articles :
+- Articles :  
 _[Guildes, corporations, compagnons : et si les freelances s’inspiraient des anciens](http://www.amedee.co/et-si-les-freelances-sinspiraient-des-anciens/)
