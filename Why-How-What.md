@@ -28,7 +28,10 @@ Donne accès des moyens de production, accès à des machines, accès à des for
 Projet européen CHIC 2.0  
 Gamification  
 
-    _Texte :  
+    _Texte : 
+
+    Notre constat.  
+
 À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspiré du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
 
 Nous sommes face à 3 ruptures au niveau macro, global, qui touche l'humanité dans son entièreté :
@@ -42,13 +45,20 @@ De ça, il faut mener une rupture au niveau meso, intermédiaire :
 Cette rupture intermédiaire doit être menée par le bas (bottom-up), par le niveau micro, l'individu lui-même :  
 + aspirationnelle, envie de trouver du sens dans son travail, de réussir sa vie et pas dans la vie. Comme le disait Nietzsche : "Deviens ce que tu es", nous sommes tous les pièces uniques d'un grand puzzle. Chacun de nous doit trouver son unicité, accomplir son potentiel.  
 
-Que vient faire OpenFab là-dedans ?  
-OpenFab intervient au niveau intermédiaire, c'est l'union indépendante, un réseau d'une centaine d'individus, de makers qui se sont lancés dans leur quête d'unicité, qui veulent développer leur potentiel.
+    Que vient faire OpenFab là-dedans ?  
 
-Comment ?  
-La collaboration.  
-L'itération.  
-l'humain.  
+OpenFab intervient au niveau intermédiaire, c'est l'union indépendante d'une centaine d'individus, un réseau de makers qui se sont lancés dans leur quête d'unicité, qui veulent développer leur potentiel.
+
+    Comment ? Nos valeurs ?   
+
++ La collaboration. 
+Elle est essentielle chez OpenFab, chacun détient un bout de la vérité puisqu'elle est multiple. Elle permet d'inclure plus largement, d'embarquer et ainsi créer le changement. (inclusif, le changement ne se commande pas, ne nait pas d’un top—>down, il faut embarquer avec soi, pull plutôt que push, casser les silos, design thinking)  
+
++ L'itération.  
+Nous sommes de grands adeptes du "Quick and dirty", du "Done is better than perfect". Nous pensons qu'il faut avancer vite, proposer son travail dès que possible pour collecter des retours et aller plus loin grâce à la collaboration. Nous sommes toujours en beta, dans un processus d'amélioration continue. Nous apprennons par l'expérimentation.
+
++ L'humain.  
+Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement de chacun . Nous sommes convaincus (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation)
 
 Nos actions ?
 Mises à disposition de resources pour notre communauté, machines, formations, compétences, temps, ...
