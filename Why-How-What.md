@@ -28,8 +28,8 @@ Donne accès des moyens de production, accès à des machines, accès à des for
 Projet européen CHIC 2.0  
 Gamification  
 
-    _Texte : 
-
+# _Texte : 
+  
     Notre constat.  
 
 À OpenFab, nous partons d'un constat, notre monde se complexifie, change, nous traversons plusieurs ruptures (cette version est librement inspiré du travail du prospectiviste Marc Halevy). Il devient nécessaire de faire autrement pour s'y adapter.  
@@ -60,7 +60,8 @@ Nous sommes de grands adeptes du "Quick and dirty", du "Done is better than perf
 + L'humain.  
 Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement de chacun . Nous sommes convaincus (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation)
 
-Nos actions ?
+    Nos actions ? 
+
 Mises à disposition de resources pour notre communauté, machines, formations, compétences, temps, ...
 
 
@@ -68,19 +69,7 @@ Mises à disposition de resources pour notre communauté, machines, formations, 
 #### Explication/doute :  
 + Choix de présenter OpenFab comme une communauté plus que comme un FabLab (qui renvoie plus à un lieu et moins au côté
 aventure humaine).  
-+ Marc Halévy donne 5 ruptures sur un même plan mais j'aime pas trop, la "rupture organisationnelle" est d'avantage une réponse qu'autre chose (passage d'un modèle pyramidal à un modèle en réseau) par exemple. Le monde change donc on s'adapte autrement et pas on s'adapte autrement donc le monde change. Je me suis parmi d'en faire 2 autres versions.  
-
-V1 ici et la V2 dans le texte directement.   
-Les ruptures qui changent le monde :  
-- Écologie devrait être appelé allocation des ressources (financières comme naturelles). 
-- Numérique, technologique (progrès, empowerment de l'individu). 
-
-Les ruptures a mené pour s'adapter :  
-- Organisationnelle (passer de pyramide à réseau). 
-- Économique (sortir de l'économie globale de masse). 
-
-Rupture de conséquence :  
-- Aspirationnelle (on aspire à réussir sa vie d'avantage qu'à réussir dans la vie, on est plus dans l'intériorité et moins dans les signes extérieurs de réussite).  
++ Marc Halévy donne 5 ruptures sur un même plan mais j'aime pas trop, la "rupture organisationnelle" est d'avantage une réponse qu'autre chose (passage d'un modèle pyramidal à un modèle en réseau) par exemple. Le monde change donc on s'adapte autrement et pas on s'adapte autrement donc le monde change. Je me suis parmi d'en faire 1 autre version. 
 
 
 
