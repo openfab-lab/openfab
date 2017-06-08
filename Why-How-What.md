@@ -59,7 +59,7 @@ Elle est essentielle chez OpenFab, chacun détient un bout de la vérité puisqu
 Nous sommes de grands adeptes du "Quick and dirty", du "Done is better than perfect". Nous pensons qu'il faut avancer vite, proposer son travail dès que possible pour collecter des retours et aller plus loin grâce à la collaboration. Nous sommes toujours en beta, dans un processus d'amélioration continue. Nous apprennons par l'expérimentation.  
 
 + L'humain.  
-Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement, du bien-être de chacun. Nous sommes convaincus  
+Toute transformation passe par l'humain, il en est même l'élément central. Chez OpenFab, nous avons donc le soucis du développement, du bien-être de chacun.  
 (développement de chacun, bien-être, honnêteté du non-savoir : plus on en sait et plus on se rend compte qu’on ne sait rien, se connaitre, empathie, élément lent/central de transformation).  
 
     Nos actions ?  
