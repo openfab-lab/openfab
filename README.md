@@ -6,8 +6,10 @@ Actuellement, j'ai fait une liste des grands sujets et tâches en cours dont je 
 
 - [x] **Gala OF, présentation Openfab** #community   
     Pour le 10 fev donc,   
-- [ ] **Aménagement local** #community   
-    Fabrication d'une [table pour la découpeuse laser](https://github.com/openfab-lab/LasersaurBench) et réaménagement global du local. Faut réorganiser les stocks, la circulation, fabriquer quelques meubles qui manquent, etc...
+- [x] **Aménagement local** #community   
+    Fabrication d'une [table pour la découpeuse laser](https://github.com/openfab-lab/LasersaurBench) et réaménagement global du local. 
+- [ ] **Aménagement local** #community  
+Faut réorganiser les boites, les stocks, la circulation, fabriquer quelques meubles qui manquent et un espace admin/bureau, etc...
 - [ ] **Structure et administration Asbl** #community  
     ça suivra la présentation avec l'aide du nouveau CA mais en attendant faut encore éviter de faire des bétises.
 - [ ] **Gamification, level Up** #community  
@@ -15,8 +17,9 @@ Actuellement, j'ai fait une liste des grands sujets et tâches en cours dont je 
 - [ ] **Aventutoriaux** #community  
     Création de livres dont tu es le héro mais dédié au fablab. Sert de support pour ceux qui veulent faire mais qui n'ont pas de projet clair à faire (trop de choix, tue le choix). Un storytelling qui guide l'utilisateur au travers de tutoriels qui couvrent les techniques disponibles au fablab.  Le logiciel opensource Twine aidera à l'écriture du contenu non linéaire.   https://twinery.org/  
     exemple: http://www.louisrakovich.com/files/theme/afiredarklyi.html
-- [ ] **Chic2.0** #services  
+- [X] **Chic2.0** #services  
     Prochain workshop le 28,29,30 Mars puis un second fin Mai. Organisation, préparation et suivit sont à faire. J'aimerai faire participer les différentes personnes ayant participé ou qui vont participer, pour de l'aide mais aussi dans un soucis de continuité durant l'ensemble des workshops.  
+- [ ] **Chic2.0** #services  
     Il faut aussi documenter les workshops de BCN et StDenis de 2016, partager les fichiers sources  
 - [ ] **Nouveau site web, [nouvelle architecture WP3](https://github.com/openfab-lab/openfab/blob/master/img/Architecture%20web%20OF.jpg) et lien avec miniSite github** #community  
     La com qui met en lien les différents sujets et qui va faire le support entre eux. (mini.site Chic, mini.site Aventutoriaux, mini.site projets, etc...  
