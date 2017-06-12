@@ -19,5 +19,11 @@ Un projet à mettre sur pied, à soumettre à la communauté, envie de te joindr
 
 # Tentative Mockup
 
-!(https://github.com/Ginsburg/openfab/blob/master/Accueil-site.png)
+![Mockup](https://github.com/Ginsburg/openfab/blob/master/Accueil-site.png)
+
+
+# Questionnements
+
+Assez synthétique mais peut-être trop ? Du coup, ça peut, peut-être donner l'impression d'être du marketing creux ?  
+Pas fan de l'approche à la fin.
 
