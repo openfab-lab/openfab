@@ -38,8 +38,9 @@ What about humidity inside?
 -	Substrat
 -	Pump
 -	Pipings
-
-
+- peoples with experience, botanic, aquaponics, electronic
+ 
+ 
 https://www.histoiresdeaux.be/articles.aspx?cIdFamille=K2MQ0NXOHE&cTri=price_asc
 
 ----
