@@ -27,7 +27,7 @@ mais c'est surtout une communauté indépendante, un catalyseur d'innovation et 
 _Collaboration  
 Face à un monde complexe et changeant, la collaboration, la mise en commun permet d'aller plus loin, d'avancer plus sûrement.   
 _Itération  
-"Quick and dirty". On n'y perd jamais, soit on réussit, soit on apprend et on fait mieux la fois d'après.   
+"Plug In and Play". On n'y perd jamais, soit on réussit, soit on apprend et on fait mieux la fois d'après.   
 _Humain  
 C'est une aventure humaine avant tout. Nous avons le soucis du développement, du bien-être de chacun.  
 
