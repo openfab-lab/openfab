@@ -19,7 +19,7 @@ Un projet à mettre sur pied, à soumettre à la communauté, envie de te joindr
 
 ## V2
 
-OpenFab 
+OpenFab  
 Plus qu'un FabLab  
 
 OpenFab ce sont des machines et un local  
