@@ -28,15 +28,14 @@ What about humidity inside?
 -	Tools, 
 -	PLA for 3Dprint
 -	some wood
-
+-	Boxes/aquarium and some piping. 
+  
 ### What we need? 
 -	Fish
 -	Plants
--	Boxes/aquarium
 -	Substrat
 -	Pump
 -	Pipings
-- peoples with experience, botanic, aquaponics, electronic
- 
+- peoples with experience, botanic, aquaponics, electronic   
  
 https://www.histoiresdeaux.be/articles.aspx?cIdFamille=K2MQ0NXOHE&cTri=price_asc
