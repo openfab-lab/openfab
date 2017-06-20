@@ -9,10 +9,10 @@ Cette année Design September met en lumière les ateliers de création partagé
 FablabKe, Velom2, iMAL, FabLab ULD, Micro Factory, CityFab1, Recyclart Fabrik, OpenFab
 
 - **Planning :**   
-Entre le 15 et 30 aout 2017 ? : Choix des œuvres à exposer  
-5 et 6 septembre ? : Installation au BIP  
-Du 07/09/2017 au 30/09/2017 : Exposition collective au BIP  
-16 et/ou 17 Septembre 2017 : Porte ouverte et ateliers  
+Entre le 15 et 30 aout ? : Choix des œuvres à exposer  
+05 et 06 septembre ? : Installation au BIP  
+Du 07 au 30 septembre : Exposition collective au BIP  
+16 et/ou 17 Septembre : Porte ouverte et ateliers  
 
 - **Organisation :** 
 La coordination, transport des œuvres, communication et permanence de l’exposition collective est assuré par DesignSeptember avec un curateur assigné.
