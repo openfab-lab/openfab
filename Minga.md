@@ -40,7 +40,7 @@ Contraintes:
 - mais hauteur? (encombrement) 
 - 15 compartiments. 12+1 pour les variétés et 2 pour les "livrets de campagne"
 - écrire "Les Graines d'un Paris d'avenir". 
-- rappeler le visuel de l'affiche... 
+- rappeler le visuel de l'[affiche](https://user-images.githubusercontent.com/12049360/27438899-da7b1db8-5766-11e7-9ad3-88f2973fd348.png)... 
 
 Question:
 - à quoi ressemble les sachets de semences? taille, on a.    
