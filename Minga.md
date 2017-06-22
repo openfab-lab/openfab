@@ -32,5 +32,28 @@ Plutôt léger et rigide (solide, donc) : carton ?  autre ? ...
 ```
 
 ## Proposition
+Contraintes:
+- max 5k€ (grosse louche)
+- livré à plat, 
+- assemblage DIY,
+- stabilité,
+- mais hauteur? (encombrement) 
+- 15 compartiments. 12+1 pour les variétés et 2 pour les "livrets de campagne"
+- écrire "Les Graines d'un Paris d'avenir". 
+- rappeler le visuel de l'affiche... 
+
+Question:
+- à quoi ressemble les sachets de semences? taille, on a.    
+Mais est-ce que c'est plastique, transparent, sachet papier, à suspendre ou pas? 
+Idem pour le "livrets de campagne"?
+
+Pistes: 
+- découpe au laser, pour gravure et découpe. 
+- matériaux bois ou carton.
+Soucis de tranche brulée salissante lors du montage avec le bois, un peu moins avec le carton.
+
+
 
 ## Inspirations
+voir issue #45
+
