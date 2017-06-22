@@ -34,15 +34,3 @@ C'est une aventure humaine avant tout. Nous avons le soucis du développement, d
 Découvrir notre vision, nos valeurs
 
 Si toi aussi, tu cherches plus qu'un FabLab, rejoins-nous, contacte-nous.
-
-# Tentative Mockup
-## V1
-![Mockup](https://github.com/Ginsburg/openfab/blob/master/Accueil-site.png)
-
-#### Questionnements
-
-Assez synthétique mais peut-être trop ? Du coup, ça peut, peut-être donner l'impression d'être du marketing creux ?  
-Pas fan de l'approche à la fin.  
-
-## V2
-![Mockup](https://github.com/Ginsburg/openfab/blob/master/v2.png)
