@@ -1,3 +1,10 @@
+---
+layout: Task
+title: "Trash Can"
+date: 2017/05/30
+value: 1d6
+---
+
 # Bières où es-tu?
 
 ## Context
