@@ -74,4 +74,3 @@ _Essayer de faire ça sous forme d'interview pour plus de profondeur ?
 _Tenter une question volontairement très ouverte comme : "OpenFab c'est quoi pour toi ?" pour laisser émerger les idées de chacun ?  
 
 
-Closes #41
