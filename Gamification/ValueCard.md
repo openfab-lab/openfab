@@ -17,7 +17,13 @@ Etc...
 Donc pour les plaines, j'ai peut-être 5 ou 6 illustrations différentes. Pas compté pour le reste, j'en ai plein.
 1 Illustration par valeur de dé, suivant les quantités disponibles. Bcp = D3, rare = D40 (j'en sais rien, j'invente)
 J'ai des étiquettes qui sont pil poil la largeur. c'est du 63.5x38.2mm mais il existe du 63.5x33.9 qui seront peut-être mieux... à voir.
+### carte 1Desbières
+Fonction: récompense pour boire.   
+Concerne: les petites tâches.  
+Usage: pour savoir combien de bières on reçoit, on lance le jeu de batonnets.     
+3pcs, une face nature/une face couleur, = 4 états : 0, 1, 2, 3
 
+![desbières](https://user-images.githubusercontent.com/12049360/27476305-889d3326-5808-11e7-9058-45a7023f0c7c.jpg)
 ### Next step -> LEVEL UP
 Donc, on reprend les cartes mana de Magic. 
 On a donc nos 5 catégories:
@@ -25,7 +31,7 @@ On a donc nos 5 catégories:
 - Forêt
 - Montagne
 - Marais
-- île
+- île  
 *Faudra voir pour notre 6ème cat pour le backoffice.*
 
 Lorsque la mission est classée sour une des 5 catégories. (par ex. Mission plaine)   
