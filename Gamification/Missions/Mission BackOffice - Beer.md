@@ -1,7 +1,7 @@
 ---
 layout: Task
 title: "Trash Can"
-date: 2017/05/30
+date: 2017/06/22
 value: 1d6
 ---
 
