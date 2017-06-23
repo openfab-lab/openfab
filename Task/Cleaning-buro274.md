@@ -32,6 +32,6 @@ Bien bouger les bancs, c'est super crade en dessous.
 Le sceau, la raclette, les torchons et le savon sont dans le couloir, dans le coin fenêtre, avec les ballais, brosses et tout ça.
 
 #### Remarque: 
-1. Requière d'avoir d'abord passer l'aspi!
+1. Requière d'avoir d'abord [passer l'aspi!](https://github.com/openfab-lab/openfab/blob/master/Task/Cleaning-buro274.md#passer-laspirateur-1d6)
 2. Le torchon blanc est neuf et est parfait pour le sol carlé.    
 Pour nettoyer le couloir par exemple après qu'un crade ai laissé son sac poubelle couler et fermenter tout un week-end au chaud. Utiliser le torchon jaunâtre et/ou la brosse.
