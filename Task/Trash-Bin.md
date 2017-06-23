@@ -2,7 +2,7 @@
 layout: Task
 title: "Trash Can"
 date: 2017/05/30
-value: 1d3
+value: 1dbières
 ---
 
 # Les jours de collecte sont 
