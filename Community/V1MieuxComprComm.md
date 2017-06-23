@@ -72,3 +72,6 @@ _Repréciser le question 4.
 _Rajouter une question sur les freins, les incitatifs pour impliquer plus la communauté.  
 _Essayer de faire ça sous forme d'interview pour plus de profondeur ?  
 _Tenter une question volontairement très ouverte comme : "OpenFab c'est quoi pour toi ?" pour laisser émerger les idées de chacun ?  
+
+
+Closes #41
