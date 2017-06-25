@@ -8,6 +8,10 @@ Basic template to fill up an issue and/or a new file.md is:
 	## proposition
 	## inspirations
 
+## [Why?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#why-to-contribute)
+## [What?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#on-what-to-contribute)
+## [How?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#how-to-contribute)
+
 ## Why to contribute?
 Why do people contribute to open source? Plenty of reasons!   
 - **Improve existing skills**   
@@ -41,3 +45,26 @@ A common misconception about contributing to open source is that you need to con
 ## How to contribute?
 ### Boucle 1
 Issue > fichier.md > reward  
+
+### [Naming convention](https://github.com/openfab-lab/openfab/blob/master/naming-convention.md)
+#### Avoid
+**Les caractères suivants sont réservés pour des usages spéciaux et ne doivent pas être utilisés dans le nom lui-même :**
+
+    < (plus petit que; less than)
+    > (plus grand que; greater than)
+    : (deux points; colon)
+    " (double appostrophe; double quote)
+    / (slash; barre de fraction; forward slash)
+    \ (back slash)
+    | (barre verticale; vertical bar; pipe)
+    ? (point d'interrogation; question mark)
+    * (astérisque; asterisk)
+#### Use
+1. use lower case.
+2. use dashes.
+3. be specific. you may find you have to differentiate between similar ideas later
+4. be consistent.
+
+**Exemple:**
+
+    is-there-a-naming-convention-for-git-repositories.md
