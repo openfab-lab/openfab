@@ -1,4 +1,13 @@
 # CONTRIBUTING
+Basic template to fill up an issue and/or a new file.md is:
+
+	# title
+	ref to file.md or #issue :
+	## contexte
+	## objectif
+	## proposition
+	## inspirations
+
 ## Why to contribute?
 Why do people contribute to open source? Plenty of reasons!   
 - **Improve existing skills**   
@@ -32,11 +41,3 @@ A common misconception about contributing to open source is that you need to con
 ## How to contribute?
 ### Boucle 1
 Issue > fichier.md > reward  
-Basic template to fill up an issue and/or a new file.md is:
-
-	# title
-	ref to file.md or #issue :
-	## contexte
-	## objectif
-	## proposition
-	## inspirations
