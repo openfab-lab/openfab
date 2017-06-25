@@ -1,17 +1,42 @@
 # Pre-launch cheklist
 ref to file.md or #issue : [#53](https://github.com/openfab-lab/openfab/issues/53)
 ## contexte
+Voir issue
 ## objectif
-## proposition
-Pour l'instant, ça serai pas mal de préparer une checklist des éléments à fournir, c'est l'idée de la fiche projet mais peut-être qu'il faut aller plus loin. 
+Préparer la méthodologie pour la création et la gestion d'une quête, 
+Pour répondre à comment en arriver à une quête?
+- une quête, c'est des missions pour répondre à un objectif commun
+- une mission, c'est un ensemble de tâches courtes activables par une personne seule
+- une tâche est définie dans un fichier.md par son objectif (quoi), une proposition (comment), sa récompense (pourquoi) et est assignée à un joueur (par qui).
+- un fichier.md est généré suite à un "déclencheur" détaillé via les issues.  
 
-1. Je pense qu'il serait bien de créer un répository / un quête. Comme ça les gens qui s'y attachent ont tout les outils dédiés qu'à la quête et pas un gros mélange d'issues openfab, gestion, autres projets.
-Aussi le répo pourrait :
-	- soit être créé sur le compte de l'Auteur (initiateur) pour le lien de parenté par exemple. 
-Le repo peut être forké sur une organisation par la suite en gardant l'origine. 
-	- soit sur le compte d'une organisation porteuse comme Openfab ou une autre. 
-2. Inscription des participants à github. 
-	- QUID participant ponctuel? -> passent par un participant inscrit (parrain) qui s'occupe de la doc à sa place?
+Le déclencheur peut-être n'importe quoi et peut amener jusqu'à la résolution d'une quête via une série d'enchainement de boucles de "gameplay" répétée aux différentes échèlles micro>meso>macro.
+
+## proposition
+Pour l'instant, ça serai pas mal de préparer une checklist des éléments à fournir, c'est l'idée de la fiche projet mais il faudra aller plus loin. 
+
+1. [Créer une issue]() sur le repo principal openfab pour annoncer le sujet de la quête.    
+	1.1 condition: Github + superUser
+2. [Créer la fiche projet]() C'est d'abord une tâche de remplir la fiche et de définir la première mission vers une quête plus importante. 
+	Le fichier.md reprend le format classique:   
+	
+		## contexte
+		## objectif
+		## proposition
+		## ressources et rewards
+3. [Création d'un dépôt]()   
+	3.1 perso
+	3.2 Openfab-lab
+	3.3 autres?
+4. Réunir une TEAM, [conditions d'usage]()   
+	4.1 superUser, metaUser     
+	4.2 User et intervenant ext.
+	4.3 stockage?
+5. compléter les objectifs, réunir les docs déjà disponibles et publier le dépôt avec README, CONTRIBUTING, CODE OF CONDUCT, LICENCE
+6. première mission (projet001)
+	6.1 issues
+	6.2 fichier.md mission001
+	6.3 Tasks dans projet (Idea > Todo > InProgress > Done)
 
 ## inspirations
 
