@@ -55,5 +55,5 @@ Soucis de tranche brulée salissante lors du montage avec le bois, un peu moins 
 
 
 ## Inspirations
-voir issue #45
+voir [issue#45](https://github.com/openfab-lab/openfab/issues/45)
 
