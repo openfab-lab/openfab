@@ -1,0 +1,4 @@
+# Structuration Wiki
+
+## Home Page
+
