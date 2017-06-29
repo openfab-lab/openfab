@@ -7,6 +7,13 @@ Basic template to fill up an issue and/or a new file.md is:
 	## objectif
 	## proposition
 	## inspirations
+	
+	#protocol
+	## time 
+	## skills
+	## Resources
+	## How To
+	## Result
 
 ## [Why?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#why-to-contribute)
 ## [What?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#on-what-to-contribute)
