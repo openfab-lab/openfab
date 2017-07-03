@@ -49,7 +49,7 @@ Ce qui donne plus facilement une idée précise des longueurs bois nécessaire. 
 
 ![img_20170702_145003_800_600](https://user-images.githubusercontent.com/12049360/27784782-a7e08668-5fdb-11e7-928a-002a1971500b.jpg)
 
-[Production et assemblage proto01](Gamification/Missions/maker-library-proto01.md)  
+[Production et assemblage proto01](/Gamification/Missions/maker-library-proto01.md)  
 **Durée: 3h**  
 Ouais, j'ai un peu galéré, c'est le premier... 
 ### Rewards
