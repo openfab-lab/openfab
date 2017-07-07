@@ -1,23 +1,28 @@
 # CONTRIBUTING
-Basic template to fill up an issue and/or a new file.md is:
 
-	# title
+## Table of Contents
+- [**Why?**](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#why-to-contribute)
+- [**What?**](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#on-what-to-contribute)
+- [**How?**](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#how-to-contribute)
+
+Basic template to fill up an issue and/or a new file.md is:
+```
+# title
 	ref to file.md or #issue :
 	## contexte
 	## objectif
 	## proposition
 	## inspirations
-	
-	#protocol
+```
+```	
+# protocol
 	## time 
 	## skills
 	## Resources
 	## How To
 	## Result
+```
 
-## [Why?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#why-to-contribute)
-## [What?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#on-what-to-contribute)
-## [How?](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md#how-to-contribute)
 
 ## Why to contribute?
 Why do people contribute to open source? Plenty of reasons!   
@@ -53,7 +58,7 @@ A common misconception about contributing to open source is that you need to con
 ### Boucle 1
 Issue > fichier.md > reward  
 
-### [Naming convention](https://github.com/openfab-lab/openfab/blob/master/naming-convention.md)
+### [Naming convention](/xx-ressource/naming-convention.md)
 #### Avoid
 **Les caractères suivants sont réservés pour des usages spéciaux et ne doivent pas être utilisés dans le nom lui-même :**
 
