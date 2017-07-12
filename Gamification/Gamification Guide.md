@@ -36,12 +36,12 @@ REWARD
 
 ## 3. The 5 Elements of the Maker
 
-1.	Fire
-2.	Water
-3.	Wood
-4.	Earth
-5.	Metal
-6.	Back Office
+1.	Fire (Red): Bug / help needed
+2.	Water (Blue): Electronic / Energy
+3.	Wood (Green): Woodwork of course
+4.	Earth (Yellow): plastic / metal / ind Material
+5.	Metal (Black, YEAH): Code/ software / programming
+6.	Back Office (Grey): much sadness 
 
 ## 4. Level Up
 
