@@ -70,6 +70,14 @@ Je suis étudiant à l’UCL et je souhaite faire une demande de devis pour impr
 Tu peux m'envoyer les fichiers en .stl (! unité mm), notre tarif est à 0.5€/g  
 Je peux te donner une estimation à partir des fichiers. 
 
+### Artistes
+>Hi,
+I am a local artist and I would like to come in to use the lasercutter for a project. Please can you tell me when I can come in and what I can do to join?
+Many Thanks,
+
+#abo #rdv #machines
+
+**réponse:**
 
 ### Pro
 >We are a startup based in Brussels specialized in product development.  
