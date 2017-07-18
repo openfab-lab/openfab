@@ -33,5 +33,6 @@ RapidFix:
 - argent dans la conserve sur le frigo.
 
 Todo: 
-- BetterFix... :p
+- BetterFix... 
+Aller jusque colruyt à la VUB, le bac est moins cher, ça fait plus de marge pour le commun mais ça prend un peu plus de tps pour y aller. valeurs D12?
 
