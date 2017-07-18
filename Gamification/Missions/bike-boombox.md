@@ -32,8 +32,9 @@
   - a battery 60Ah (if we don't buy a new one) 
   - time & € ?
 * Vélo M2
-  - Cargo bike modules 3D design files? 
-  - Electricity components? 
+  - [Cargo bike modules 3D design files](https://www.instructables.com/id/Basic-Multi-Modular-Frames-for-Cargo-Bikes-Stackab/)  
+  - Electricity components + 150 euro worth of soundboxes and cables
+  - precut wood 
   - time & € ?
 * Wouter 
   - lend a bike trailer to test the prototype
@@ -45,9 +46,9 @@
 
 ### Resources needed 
 * Material: 
-  - wood for the module structure 
+  - wood for the module structure -> Can be found at Florent place
   - new GEL battery? 
-  - 3D print material for attachment items? 
+  - 3D print material for attachment items? -> there is enough material on vélo M2 3D printer to use
   - small material (screws, wires, ...) 
 - Machines: 
   - CNC? 
