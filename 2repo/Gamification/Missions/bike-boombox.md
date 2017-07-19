@@ -9,9 +9,9 @@
   - Jacqueline's team (Loois, Julien, Nathan, Vincent) has done some brainstorming and testing on the sound side and have gathered the needed sound material to create the modules ([photos](https://photos.google.com/share/AF1QipPXGq4Ak3LUeM-ViqDInZTV_ve4LSlGMr1usyDhei923m0QT_WMv2R_SVe6JdMOdQ?key=UzBjdU1OQ05LeGlHaW93LUp3RlVPN2puVkQ1UmRB)). 
   - Vélo M2's team (Yannick, Milena, Florent) has done some research on the energy side ([photo](https://photos.google.com/share/AF1QipPXGq4Ak3LUeM-ViqDInZTV_ve4LSlGMr1usyDhei923m0QT_WMv2R_SVe6JdMOdQ/photo/AF1QipMfBRzbWMcqyBqVsZ91w_TPfwldFnxw4ifmVWwM?key=UzBjdU1OQ05LeGlHaW93LUp3RlVPN2puVkQ1UmRB)) and has defined the battery specifications needs.
   - Wouter brought a bike trailer ([photo](https://photos.google.com/share/AF1QipPXGq4Ak3LUeM-ViqDInZTV_ve4LSlGMr1usyDhei923m0QT_WMv2R_SVe6JdMOdQ/photo/AF1QipMvnlHKvSbSywnpYHIuSAkypZZTcroVxINWYGbk?key=UzBjdU1OQ05LeGlHaW93LUp3RlVPN2puVkQ1UmRB)) to brainstorm possibilities and started to design a boombox module 3D template in Fusion 360. 
-  - Nicolas has given ideas about modules structure (wood structure, 3D printable attachment) and 3D design support. 
+  - Nicolas has given ideas about modules structure ([MAkerLib](https://github.com/openfab-lab/openfab/blob/master/2repo/Gamification/Missions/maker-library.md), a wood structure + 3D printable attachment like [festool systainer](https://www.thingiverse.com/thing:2339685)) and 3D design support. 
   - OpenFab has offered some space to Jacqueline to store and test material. 
-* This mission takes part in a broader scope of collaboration within the OpenFab ecosystem > Nicolas, Yannick, Paul and Loois are working together to design and launch the new gamification system. 
+* This mission takes part in a broader scope of collaboration within the OpenFab ecosystem > Nicolas, Yannick, Paul and Loois are working together to design and launch the [new gamification system](). 
 * Jacqueline's team runs a musical event for the http://brussels.korean-culture.org/ on the 28/07 (hip-hop flashmob in Rogier metro station) and would be happy to use the new module :) 
  
 ## Goals
