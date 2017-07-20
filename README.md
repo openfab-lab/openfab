@@ -20,4 +20,5 @@
 ## Need Help? 
 - Start an issue and ask around
 
-- to be continued - à être continué -
+
+# to be continued - à être continué 
