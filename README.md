@@ -4,7 +4,7 @@
 - Manifesto 
 
 ## What we do at OpenFab?
-## Context
+- Context
 - Objective
 - Gamification
 
