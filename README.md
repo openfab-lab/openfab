@@ -11,11 +11,11 @@
 ## Why do we gamify?
 
 ## How does it work
+- Contributing  
 - Level Up  
 -- Passport   
 -- Missions   
 -- Badges  
-- Contributing
 
 ## Need Help? 
 - Start an issue and ask around
