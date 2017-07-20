@@ -5,6 +5,10 @@
 ## Objectif  
 ## Inspiration  
 ## Proposition  
+## Ressources
+### provided
+### needed
+## LICENCE.md
 
 # Part 2  
 
