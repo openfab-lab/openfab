@@ -1,9 +1,0 @@
-To classify all mission in a logic way, and have constant overview of where you are at your mission, this is the followed classification at OpenFab
-
-*USER*   
-For all users to become Super User you will need to go through at least 3 missions of every mainmission. Sidemissions can be used to better you skillpoints and set
-
-*Documentation* = Mission 1.0.1, Mission 1.0.2, ...
-*3D printing* = Mission 2.0.1, Mission 2.0.2...
-
-*SideMissions* = Side Mission 1, Side Mission 2, ...
