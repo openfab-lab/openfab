@@ -1,5 +1,9 @@
 # Bike boombox module prototype
 
+- MainRepo
+- Project
+- Mission Template
+
 ## Context  
 * 3 projects need bike boombox modules: 
   - [La Jacqueline](https://opencollective.com/lajacqueline) > as a complementary module to the existing DJ mobile soundsystem ([photos](https://photos.google.com/share/AF1QipPXGq4Ak3LUeM-ViqDInZTV_ve4LSlGMr1usyDhei923m0QT_WMv2R_SVe6JdMOdQ/photo/AF1QipM3Ln6nDdZqV9RdNM9piAoFOTTNaPk06acOgbdU?key=UzBjdU1OQ05LeGlHaW93LUp3RlVPN2puVkQ1UmRB))
