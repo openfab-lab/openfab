@@ -3,7 +3,7 @@
 ## Intro
 - Manifesto 
 
-## What do we do at OpenFab?
+## What we do at OpenFab?
 - Context
 - Objective
 - Gamification
