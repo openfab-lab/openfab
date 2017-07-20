@@ -11,7 +11,7 @@
 ## Why do we gamify?
 
 ## How does it work
-- Level Up
+- Level Up  
 -- Passport   
 -- Missions   
 -- Badges  
