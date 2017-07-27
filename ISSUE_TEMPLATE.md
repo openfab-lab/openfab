@@ -3,6 +3,7 @@ ref to file.md or #issue :
 ## contexte
 ## objectif
 ## proposition
-### ressources
+## ressources
+
 ## Resultats
 ### rewards
