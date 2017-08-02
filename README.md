@@ -16,6 +16,7 @@
 -- Passport   
 -- Missions   
 -- Badges  
+- [Guildes](/_space/guildes-openfab.md)
 
 ## Need Help? 
 - Start an issue and ask around
