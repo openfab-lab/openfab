@@ -58,13 +58,12 @@ l'usage des machines restent au tarif normal (en Crrr)
 - une guilde a accès au local via son guild master qui recevra une clé et le code d'accès. En tant que superUser, il devra obtenir son [badge buro274](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-buro274.md) *(- à compléter)*
 
 
-
 ## Rewards
 - Offre une structure légale mutualisée pour des activités de groupes. (utile par exemple pour répondre à des appels à projet, facturer à des clients ou même accéder à des fournisseurs qui ne vendent que via n° de TVA, ...)
 - Une communication plus claire par guilde et donc par thème. Les canaux de com sont mutualisés et/ou croisés, plus de visibilité. Le contenu est créé par l'activité de la guilde. 
 - Mutualisation des ressources
 - Activer l'implication des membres au travers de thème et missions/défis de groupe.
-- 
+- Participation aux décisions de l'asbl, représentation des guildes au sein du CA.
 (à compléter)
 
 
