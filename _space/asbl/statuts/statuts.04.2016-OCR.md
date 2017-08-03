@@ -1,9 +1,9 @@
-Les soussignés :
-I. de Barquin Fabienne, 71 rue de Monin à 5362 Achet, née le 30/04/1962 à Etterbeek.
-2. de Barquin Nicolas, 76 rue du Sceptre à  1050 lxelles, né le 03/09/1977 à Bruxelles.
-3. de Barquin Catherine, 11 Grand'Place à 6792 Halanzy, née le 08/05/1964 à Etterbeek.
-
-Déclarent par cet acte constituer une association sans but lucratif dont ils ont arrêté les statuts comme suit :
+Les soussignés :  
+I. de Barquin Fabienne, 71 rue de Monin à 5362 Achet, née le 30/04/1962 à Etterbeek.  
+2. de Barquin Nicolas, 76 rue du Sceptre à  1050 lxelles, né le 03/09/1977 à Bruxelles.  
+3. de Barquin Catherine, 11 Grand'Place à 6792 Halanzy, née le 08/05/1964 à Etterbeek.  
+  
+Déclarent par cet acte constituer une association sans but lucratif dont ils ont arrêté les statuts comme suit : 
 
 
 
@@ -11,13 +11,14 @@ Déclarent par cet acte constituer une association sans but lucratif dont ils on
 
 ### Art.1 - L'association est dénommée « Syntonie »,
 
-### Art.2 - Son siege social est etabli 23 rue de l'Etang, a 5575 Willerzie.
+### Art.2 - Son siege social est établi 23 rue de l'Etang, à 5575 Willerzie.
 
 II est situé dans l'arrondissement judiciaire de DINANT.
 
-il pourra être transfére par décision de l'assemblée généralé déliberant dans les conditions prévues pour la modification des statuts.
+Il pourra être transfére par décision de l'assemblée générale déliberant dans les conditions prévues pour la modification des statuts.
 
-### Art.3 - L'association a pour but: de promouvoir la relation étroite et la communication qui existent entre l'environnement naturel, l'humain et les nouvelles technologies par tous les moyens disponibles.
+### Art.3 - L'association a pour but:
+de promouvoir la relation étroite et la communication qui existent entre l'environnement naturel, l'humain et les nouvelles technologies par tous les moyens disponibles.
 
 Elle poursuit la réalisation de ce but par tous les moyens et notamment:
 - par la création d'un atelier (pourvu de materiel de haute technologie) ouvert à tous;
@@ -30,7 +31,8 @@ Elle poursuit la réalisation de ce but par tous les moyens et notamment:
 
 L'association peut accomplir tous les actes se rapportant directement ou indirectemcnt à son but. Elle peut prêter son concours et s'intéresser à toutes activités similaires à son but.
 
-### Art.4 - L'association est constituée pour une durée indéterminée. Elle peut être dissoute à tout moment.
+### Art.4 - L'association est constituée pour une durée indéterminée. 
+Elle peut être dissoute à tout moment.
 
 
 ## TITRE 2 - Membres
