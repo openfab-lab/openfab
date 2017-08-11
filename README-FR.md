@@ -12,7 +12,7 @@ Ce document t'aidera à découvrir ce qu'on fait, pourquoi on le fait, comment c
     - [Context]
     - [Objective]
     - [Proposition]
-- [Comment ça marche?](#headers)
+- [Comment ça marche?](#how)
     - [Contributing]
 - [Besoin d'aide?](#need-help)
 - [Le réseau utile](#useful-links)
@@ -21,13 +21,14 @@ Ce document t'aidera à découvrir ce qu'on fait, pourquoi on le fait, comment c
 - [Context:](https://github.com/openfab-lab/openfab/wiki/Context) First things first, we need to observe our environment, what's around us but also discover who we are, what defines us (mutual values, commun interests). All this define in which context we are and then helps us determine what we want to do.
 - [Objective:](https://github.com/openfab-lab/openfab/wiki/Objective) Now that we know in which context we evolve, we can decide what to do, what is our objective.
 - [Proposition:]() Based on our different individual experiences, on our commun interests, we developped our own methodology to manage OpenFab but also every project we have. It's inspired from gamification, permaculture, design thinking, opensource, etc. It's based on 3 major values which are:  
-_Collaboration.  
-_Iteration.  
-_Empowerment.  
+_ Collaboration.  
+_ Iteration.  
+_ Empowerment.  
 
-<a name="headers"/>
+<a name="how"/>
 ## Comment ça marche?
-- [Contributing:](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md) OpenFab is an open-source project in which you can contribute if you want, if you share our values, if you hope to
+[Contributing:](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md)
+OpenFab is an open-source project in which you can contribute if you want, if you share our values, if you hope to
 - Level Up  
 -- Passport   
 -- Missions   
