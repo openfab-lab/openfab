@@ -7,17 +7,26 @@ Bienvenue sur le github d'Openfab! On est bien content de t'accueillir ici :)
 <a><img src="https://cdn.rawgit.com/openfab-lab/openfab/read.me/xx-src/testtxt.svg"/></a> est un FabLab installé au 274 Avenue de la Couronne, à Ixelles, qui encourage les nouveaux moyens de création qu'offrent son réseau de machines. 100% independent, OpenFab est un écosystème qui favorise l'innovation et la créativité. From the machines to the communication, this guild 2.0 supports open source. More information on our [website](http://openfab.be).
 
 ## Inventaire
-- [Qu'est-ce qu'on fabrique à OpenFab?](#what-we-do-at-openfab)
+- [Qu'est-ce qu'on fabrique à OpenFab?](#what)
     - [Context]
     - [Objective]
     - [Proposition]
 - [Comment ça marche?](#how)
     - [Contributing]
-- [Besoin d'aide?](#need-help)
-- [Le réseau utile](#useful-links)
+- [Besoin d'aide?](#help)
+- [Le réseau utile](#links)
+
+<a name="what"/>
 
 ## Qu'est-ce qu'on fabrique à OpenFab?
-- [Context:](https://github.com/openfab-lab/openfab/wiki/Context) First things first, we need to observe our environment, what's around us but also discover who we are, what defines us (mutual values, commun interests). All this define in which context we are and then helps us determine what we want to do.
+
+- **Context:**  
+Les années 1990 et l'arrivée du web ont démocratisé l'accès aux réseaux, ce qui a permis le développement de capacités humaines et techniques généralisant la possibilité de la forme relationnelle "pair à pair".
+"Production entre pairs" : il s'agit de travailleurs et citoynes partout dans le monde qui prennent l'initiative d'utiliser ces nouvelles capacités non seulement pour se connecter, mais surtout pour s'auto-organiser et mutualiser les ressources productives nécessaires à une nouvelle logique de production et de distribution caractérisée par la combinaison triarchique "libre, solidaire et durable".  
+Monde changeant, nouvelles technologies, mise en capacité de l'individu grâce au crowdsourcing, crowdfunding, ...  
+Capacitation ou encapacitation : une traduction possible de la notion d'empowerment en sciences sociales, qui signifie "développer des capacités".  
+Recréer du commun Pour nous, le P2P est une dynamique relationnelle à travers laquelle des pairs peuvent collaborer librement entre eux et créer de la valeur sous la forme de ressources partagées.  
+
 - [Objective:](https://github.com/openfab-lab/openfab/wiki/Objective) Now that we know in which context we evolve, we can decide what to do, what is our objective.
 - [Proposition:]() Based on our different individual experiences, on our commun interests, we developped our own methodology to manage OpenFab but also every project we have. It's inspired from gamification, permaculture, design thinking, opensource, etc. It's based on 3 major values which are:  
 _ Collaboration.  
@@ -25,6 +34,7 @@ _ Iteration.
 _ Empowerment.  
 
 <a name="how"/>
+
 ## Comment ça marche?
 [Contributing:](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md)
 OpenFab is an open-source project in which you can contribute if you want, if you share our values, if you hope to
@@ -33,8 +43,12 @@ OpenFab is an open-source project in which you can contribute if you want, if yo
 -- Missions   
 -- Badges  
 
+<a name="help"/>
+
 ## Besoin d'aide?
 - Google is your friend, try by yourself. Finally, if you are still stuck, start an issue and ask around (to know how to do so, read "[Contributing](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md)"). You can also join our [Facebook Group](https://www.facebook.com/groups/openfablab.brussels/) if you are more familiar with it. But most of what we do takes place on Github so we strongly advice you to try here.
+
+<a name="links"/>
 
 ## Useful links  
 
