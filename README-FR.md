@@ -26,12 +26,19 @@ Les années 1990 et l'arrivée du web ont démocratisé l'accès aux réseaux, c
 Monde changeant, nouvelles technologies, mise en capacité de l'individu grâce au crowdsourcing, crowdfunding, ...  
 Capacitation ou encapacitation : une traduction possible de la notion d'empowerment en sciences sociales, qui signifie "développer des capacités".  
 Recréer du commun Pour nous, le P2P est une dynamique relationnelle à travers laquelle des pairs peuvent collaborer librement entre eux et créer de la valeur sous la forme de ressources partagées.  
+- **Objective:**  
+Now that we know in which context we evolve, we can decide what to do, what is our objective.
+- **Proposition:**  
+Based on our different individual experiences, on our commun interests, we developped our own methodology to manage OpenFab but also every project we have. It's inspired from gamification, permaculture, design thinking, opensource, etc. It's based on 3 major values which are:  
+    - Collaboration.  
+At OpenFab, we collaborate by nature, we are pooling of machines (3D printers, laser-cutter, CNC, ...). We are sharing our thoughts to go further, to find our answers. Plus, the more we are the more fun we have.
 
-- [Objective:](https://github.com/openfab-lab/openfab/wiki/Objective) Now that we know in which context we evolve, we can decide what to do, what is our objective.
-- [Proposition:]() Based on our different individual experiences, on our commun interests, we developped our own methodology to manage OpenFab but also every project we have. It's inspired from gamification, permaculture, design thinking, opensource, etc. It's based on 3 major values which are:  
-_ Collaboration.  
-_ Iteration.  
-_ Empowerment.  
+    - Iteration.  
+As said Reid Hoffman, the founder of LinkedIn : "If you're not embarrassed by the first version of your product, you’ve launched too late." There are no perfect answer to our questions.  Let's try and see what happens, will do better next time.
+
+    - Empowerment.  
+OpenFab is a tool for the community that empowers its members: production means, trainings, learning from peers, ... It's a virtuous spiral, the community makes members greater which in return makes the community better and so forth.
+ 
 
 <a name="how"/>
 
