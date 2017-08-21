@@ -7,6 +7,8 @@ __Hello, welcome on Board! We are glad to see you there :)__
 <a><img src="https://cdn.rawgit.com/openfab-lab/openfab/read.me/xx-src/testtxt.svg"/></a>  
 is a FabLab based at 274 Avenue de la Couronne in Ixelles that encourages new means of creations providing to its network machines. 100% independent, OpenFab is an ecosystem gathering capacities to foster innovation and creativity. From the machines to the communication, this guild 2.0 supports open source.  
 
+:fr: Version en français de ce document par [ici](/README-FR.md).  
+
 ## You have got a fabrication project? 
 __You want to make a furniture? To rapidly prototype the design of your new product? To build your own arcade cabinet (Yes, one of our member did it!)?__
 
