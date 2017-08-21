@@ -31,14 +31,14 @@ Prix : 55€ par heure. Rencontrons nous pour discuter de ton projet, détermine
 
 ## Licence
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 OpenFab est un projet open source. Par conséquent, n'importe qui peut voir, utiliser, modifier ou encore distribuer mais aussi [contributer](#contributing) à ce que nous faisons. Tout cela est encadré par une licence open source : [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) dans notre cas.  
 L'Open source est puissant car cela facilite la propagation des idées. Chaque expérience, itération, que ce soit un succès comme un échec est documentée et peut être utilisée par n'importe qui pour aller encore plus loin. De cette façon, comme le dit Mandela, on ne perd jamais : on gagne ou on apprend.  
 
 ## Valeurs
 
-3 valeurs principales guide notre exploration :  
+3 valeurs principales guident notre exploration :  
 
 - Collaboration.  
 À OpenFab, nous collaborons par nature, nous mettons à disposition des machines (imprimantes 3D, découpeuse laser, CNC, ...). Nous partageons nos réflexions pour aller plus loin, pour trouver nos réponses. En prime, plus on est de fous, plus on rit !
