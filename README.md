@@ -1,8 +1,11 @@
+<img src="https://user-images.githubusercontent.com/12049360/29209171-8a7a281a-7e8d-11e7-914b-c383f52bf1d4.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209169-8a78b30e-7e8d-11e7-8d86-818bdab13b10.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209170-8a79398c-7e8d-11e7-9493-270983a02e89.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209172-8a7a62da-7e8d-11e7-90d3-c62ec0aefbf6.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209174-8a8087e6-7e8d-11e7-80c3-3402be3e3527.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209173-8a80136a-7e8d-11e7-9bb5-e41c3b2df15c.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209175-8a8b960e-7e8d-11e7-8a38-2865703b0778.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209176-8a8cd6c2-7e8d-11e7-9509-e0302409ad55.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209178-8a8deb34-7e8d-11e7-895d-3ca3e201e310.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209177-8a8df214-7e8d-11e7-9893-0680af3f923a.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209179-8a97bad8-7e8d-11e7-8cf1-db7d7581db90.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209181-8a9efc1c-7e8d-11e7-9915-0d34a128a901.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209182-8aa0d79e-7e8d-11e7-9ac8-976d204a43ce.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209183-8aa1242e-7e8d-11e7-82f7-cf87656c0e8c.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209184-8aa12d66-7e8d-11e7-8737-47e3ca220a3d.jpg" width="11%"></img> <img src="https://user-images.githubusercontent.com/12049360/29209185-8aad592e-7e8d-11e7-9a0e-ce7c0fa00e06.jpg" width="11%"></img>
+
 # Github Openfab
 
 __Hello, welcome on Board! We are glad to see you there :)__
 
-_OpenFab Brussels_ is a FabLab based at 274 Avenue de la Couronne in Ixelles that encourages new means of creations providing to its network machines. 100% independent, OpenFab is an ecosystem gathering capacities to foster innovation and creativity. From the machines to the communication, this guild 2.0 supports open source. More information on our [website](http://openfab.be).  
+<a><img src="https://cdn.rawgit.com/openfab-lab/openfab/read.me/xx-src/testtxt.svg"/></a>  
+is a FabLab based at 274 Avenue de la Couronne in Ixelles that encourages new means of creations providing to its network machines. 100% independent, OpenFab is an ecosystem gathering capacities to foster innovation and creativity. From the machines to the communication, this guild 2.0 supports open source.  
 
 ## You have got a fabrication project? 
 __You want to make a furniture? To rapidly prototype the design of your new product? To build your own arcade cabinet (Yes, one of our member did it!)?__
@@ -11,9 +14,14 @@ We offers you two ways to conduct your project:
 - _Let's do it together!_  
 
 Become a member of our awesome community, learn how to use the machines at our disposal (3d printers, laser cutter, CNC, ... complete list [there](http://openfab.be/parc-machine)), discuss with other makers, cooperate with them to do crazy projects, ...  
-How to join us? All information there (créer un document qui explique tout le processus d'inscription), easy process.   
+How to join us? Fill in [this form](http://openfab.be/adhesion) and come to see us!
 
-Enter the game! 
+Price:
+1. 25€/year .  
+2. 10€/jour ou 34€/mois pour l'accès à l'atelier.  
+3. Tarifs différents en fonction de la machine, nous vous conseillons d'amener votre matière première, nous avons un Brico (330 avenue de la Couronne) à proximité.  
+
+Enter the game!  
 
 - _Let us do it for you!_  
 
@@ -42,7 +50,7 @@ As said Reid Hoffman, the founder of LinkedIn : "If you're not embarrassed by th
 - Empowerment.  
 OpenFab is a tool for the community that empowers its members: production means, trainings, learning from peers, ... It's a virtuous spiral, the community makes members greater which in return makes the community better and so forth.
 
-If you want more elements, you can read this [document](https://github.com/openfab-lab/openfab/wiki/Context).  
+If you want more information, you can read this [document](https://github.com/openfab-lab/openfab/wiki/Context).  
 
 ## Contributing
 
@@ -59,7 +67,7 @@ FabLab + community management
 - [OpenBages](https://github.com/openfab-lab/pack-openbadge-fablab): Strongly linked to Gamification + Maker Passport. 1 badge = 1 skill. We want to create an alternative to CV, something more pratical. Learning by doing.
 
 Maker
-- [MakerLib](https://github.com/openfab-lab/openfab/projects/8): Based on the [Maker Library Network](http://design.britishcouncil.org/projects/makerlibraries/)
+- [MakerLib](https://github.com/openfab-lab/openfab/projects/8): Based on the [Maker Library Network](http://design.britishcouncil.org/projects/makerlibraries/) launched by the British Council.
 - [Jacqueline](https://github.com/openfab-lab/openfab/projects/10): Project launched by members of the community. The goal is to create a mobile sound system.
 - [Aquaponics](https://github.com/openfab-lab/openfab/projects/5): More information soon. Project starting in septembrer 2017.
 
