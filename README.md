@@ -78,9 +78,3 @@ Call for projects
 
 > __"One adventure with many heroes."__  
 >_ Neil deGrasse Tyson
-
-
-
-
-À ajouter pour plus tard :
-- Pioneer
