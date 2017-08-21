@@ -77,4 +77,4 @@ Call for projects
 
 
 > __"One adventure with many heroes."__  
->_ Neil deGrasse Tyson
+> Neil deGrasse Tyson
