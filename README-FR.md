@@ -7,6 +7,8 @@ Bienvenue sur le github d'Openfab! On est bien content de t'accueillir ici :)
 <a><img src="https://cdn.rawgit.com/openfab-lab/openfab/read.me/xx-src/testtxt.svg"/></a>  
 est un FabLab basé à Ixelles, qui met à disposition de sa communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information. 
 
+:gb: English version [there](/README.md).
+
 ## Tu as un projet de fabrication ? 
 __Tu veux te fabriquer un meuble ? Prototyper le design de ton nouveau produit ? Fabriquer une borne arcade (Oui, un de nos membres la fait !)?__
 
