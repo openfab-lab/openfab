@@ -75,7 +75,9 @@ Maker
 Appels à projet
 - [Chic 2.0](https://github.com/openfab-lab/chic2.0): Projet européen. CHIC a la volonté de créer des passerelles entre les domaines du design, des arts appliqués, du numérique, de l’éducation populaire et de l’économie sociale et solidaire.  
 
+## Parcours membre
 
+![parcours membre of](https://user-images.githubusercontent.com/7775797/29620224-a4b69882-881d-11e7-9fdb-c59e2467f73a.png)
 
 > __"One adventure with many heroes."__  
 > Neil deGrasse Tyson
