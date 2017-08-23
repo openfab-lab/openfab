@@ -19,9 +19,9 @@ Become a member of our awesome community, learn how to use the machines at our d
 How to join us? Fill in [this form](http://openfab.be/adhesion) and come to see us!
 
 Price:
-1. 25€/year .  
-2. 10€/jour ou 34€/mois pour l'accès à l'atelier.  
-3. Tarifs différents en fonction de la machine, nous vous conseillons d'amener votre matière première, nous avons un Brico (330 avenue de la Couronne) à proximité.  
+1. membership fees: 25€/year.  
+2. access to the FabLab: 10€/day or, if you want to get involved in the community, you can [become SuperUser](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/guide-superuser.md) and pay 34€/month.  
+3. Price depends the machine you want to use, we advice you to take your own material, there is a Brico just near us (330 avenue de la Couronne).  
 
 Enter the game!  
 
@@ -76,7 +76,9 @@ Maker
 Call for projects
 - [Chic 2.0](https://github.com/openfab-lab/chic2.0): European project. CHIC has the desire to create bridges between the fields of design, applied arts, digital, popular education and social and solidarity economy.
 
+## Member journey
 
+![member journey of](https://user-images.githubusercontent.com/7775797/29623156-c607e128-8825-11e7-8a42-ffa3ba4c8fa3.png)
 
 > __"One adventure with many heroes."__  
 > Neil deGrasse Tyson
