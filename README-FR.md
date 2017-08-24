@@ -21,7 +21,7 @@ Comment nous rejoindre ? Il suffit de remplir [ce formulaire](http://openfab.be/
 Prix :
 1. 25€/an pour l'adhésion à l'ASBL.  
 2. 10€/jour ou si tu souhaites t'impliquer d'avantage et devenir SuperUser 34€/mois pour l'accès à l'atelier.  
-3. Tarifs différents en fonction de la machine, nous te conseillons d'amener votre matière première, nous avons un Brico (330 avenue de la Couronne) à proximité.  
+3. Tarifs différents en fonction de la machine, nous te conseillons d'amener ta matière première, nous avons un Brico (330 avenue de la Couronne) à proximité.  
 
 Entre dans le jeu !  
 
