@@ -10,7 +10,7 @@ est un FabLab basé à Ixelles, qui met à disposition de sa communauté des mac
 :gb: English version [there](/README.md).
 
 ## Tu as un projet de fabrication ? 
-__Tu veux te fabriquer un meuble ? Prototyper le design de ton nouveau produit ? Fabriquer une borne arcade (Oui, un de nos membres la fait !)?__
+__Tu veux te fabriquer un meuble ? Prototyper le design de ton nouveau produit ? Fabriquer une borne arcade (Oui, un de nos membres l'a fait !)?__
 
 Nous t'offrons deux manières de mener à bien ton projet:
 - _Faisons le ensemble !_  
