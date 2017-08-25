@@ -62,11 +62,11 @@ une partie pour financer les entrepreneurs locaux, artistes, ...
 
 - Soutiens le projet OpenFab (compte réseaux sociaux, ...)
 ---
-## Autres pages :
+## Autres pages/contenus à ajouter éventuellement :
 - Adhésion (la même qu'actuellement fera l'affaire, j'ai l'impression que l'adhésion intervient après 
 avoir échangé par mail/téléphone ou rendez-vous physique donc, selon moi, 
 rien ne sert de la mettre à la fin de la page "Parcours membre")  
 Idée en vrac, mail automatisé d'après inscription : Pour introduire à la possibilité de devenir SuperUser
 - OpenFab (l'équivalent de la page "à propos" actuelle mais en la renommant avec de nouveaux textes, plus actuels)
-
+- Projets en cours (comme dans le Readme, ça montre un peu que ça bouge, que c'est ambitieux, ...)  
 
