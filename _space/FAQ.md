@@ -122,6 +122,16 @@ Merci d'avance!
 **réponse: **  
 la chaise claire en kit (bois bouleau + vis) est à 80€ et de mémoire, ça devait être 16.4€ de poste en supplément.
 
+### GitHub
+
+>Quelle est la différence entre une branche et un fork ?
+
+Guide qui présente la différence entre les 2 : https://blog.gitprime.com/forks-branches-in-git-the-definitive-guide
+
+**Forks** are best used: when the intent of the ‘split’ is to create a logically independent project, which may never reunite with its parent.
+
+**Branches** are best used: when they are created as temporary places to work through a feature, with the intent to merge the branch with the origin.
+
 # GLOSSAIRE :
 
 #### #crrr :
