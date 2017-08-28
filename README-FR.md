@@ -46,7 +46,7 @@ L'Open source est puissant car cela facilite la propagation des idées. Chaque e
 À OpenFab, nous collaborons par nature, nous mettons à disposition des machines (imprimantes 3D, découpeuse laser, CNC, ...). Nous partageons nos réflexions pour aller plus loin, pour trouver nos réponses. En prime, plus on est de fous, plus on rit !
 
 - Iteration.  
-Comme l'a dit Reid Hoffman, le fondateur de LinkedIn : "Si n'êtes pas gêné par la première version de votre produit c'est que vous le lancez trop tard." Il n'y a pas de réponses parfaites à nos questionnements. Essayons et nous verrons bien ce qu'il se passera, nous ferons mieux la prochaine fois.  
+Comme l'a dit Reid Hoffman, le fondateur de LinkedIn : "Si vous n'êtes pas gêné par la première version de votre produit c'est que vous le lancez trop tard." Il n'y a pas de réponses parfaites à nos questionnements. Essayons et nous verrons bien ce qu'il se passera, nous ferons mieux la prochaine fois.  
 
 - Encapacitation.  
 OpenFab est un outil au service de la communauté. Il met en capacité les membres, leur donne accès à des moyens de production, la possibilité de se former, d'apprendre des pairs, ... C'est une spiral vertueuse, la communauté aide les membres à grandir et en retour la communauté s'éttoffe et ainsi de suite. 
