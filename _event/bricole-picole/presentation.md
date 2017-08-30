@@ -8,6 +8,7 @@ et de l'Hydroponie** avec nos amis d'**AquaponieBxl** !
 Le **"Bricole & Picole"** c'est une formule simple :
 Le temps d'une soirée conviviale (avec des bières !), nous présentons une thématique (cool), une communauté (géniale)
 et lançons un projet concret...  
+Il se tiendra de 19h à 22h à OpenFab au 274 avenue de la Couronne à Ixelles.  
 
 L'**aquaponie**, qu'est ce que c'est ?  
 Le mot « aquaponie » est une contraction de « aquaculture« (élevage de poissons)  et « hydroponie » (culture de végétaux 
