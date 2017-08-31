@@ -100,6 +100,15 @@ soumagne@biemar.be;
 - aludan 
 - autres?
 
+## Visseries
+**FinNvis** (FR) https://www.visseriefixations.fr/
+vente en ligne, bcp de choix et surtout un des seuls où je trouve facilement ce qu'il me faut en dessous de M4
+
+**ITS-Tools** http://www.its-tools.eu/fr/
+Rue du Printemps, 39-43
+1050 BXL
+Attention, Rien en dessous de M4
+
 ## Electronics
 
 
