@@ -1,8 +1,8 @@
-# Prépration du fichier avant découpe et/ou gravure laser.
+# Préparation du fichier avant découpe et/ou gravure laser.
 
 ## La raison d'être de ce document
 
-La préparation est une étape cruciale du processus, cela peut vous éviter une belle perte de temps à faire des aller-retours entre l'interface de la machine et le logiciel de dessin vectoriel. Ce document vient donc vous accompagner dans ce processus. Sentez vous libre de le compléter, l'affiner, ...
+La préparation est une étape cruciale du processus, cela peut vous éviter une belle perte de temps à faire des aller-retours entre l'interface de la machine et le logiciel de dessin vectoriel. Ce document vient donc vous accompagner dans ce processus. Sentez vous libre de l'affiner, le compléter voire même de documenter la suite du processus pour couvrir l'intégralité d'une découpe/gravure laser, ...
 
 ## Préparation
 
@@ -32,14 +32,13 @@ Cela semble être une étape simple, ça l'est mais il y a un peu piège : évit
 
 ### Exemple
 
-Mégalo comme je suis, je souhaite avoir mon prénom écrit dans un morceau de bois pour ma chambre ! Je souhaite qu'il soit découper dans un rectangle gravé, lui-même dans un rectangle découpé, servant de contour.
+Mégalo comme je suis, je souhaite avoir mon prénom écrit dans un morceau de bois pour ma chambre ! Je souhaite que "Paul" soit découpé dans un rectangle gravé, lui-même dans un rectangle découpé, servant de contour.
 
-Mon fichier va ressembler à ça :
+Mon fichier va donc ressembler à ça avec 3 couleurs distinctes :
 
 <img width="406" alt="inkscape tuto" src="https://user-images.githubusercontent.com/7775797/29928349-0a738878-8e69-11e7-85aa-5a4bbd788667.png">
 
-Quand je passerai aux réglages de la machine, je lui demanderai de faire sa première "Pass" sur le bleu (gravure) puis le rouge (intérieur) et finalement le noir (contour de la pièce). Une inversion entre bleu et rouge ne changera pas grand chose mais surtout finissez par le noir ! Le choix de ces couleurs est complètement arbitraire, libre à vous de mettre du violet, du marron, ...
-
+Quand je passerai aux réglages de la machine, je lui demanderai de faire sa première "Pass" sur le bleu (gravure) puis le rouge (intérieur) et finalement le noir (contour de la pièce). Une inversion entre bleu et rouge ne changera pas grand chose mais surtout finissez par le noir ! Le choix de ces couleurs est complètement arbitraire, libre à vous de mettre du violet, du marron, ... C'est une réalité, peut-être abstraite avant les premières expériences, mais qu'il est bon d'intégrer dans la préparation de son fichier.
 
 ## Résumé des astuces
 
