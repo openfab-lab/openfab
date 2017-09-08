@@ -45,11 +45,13 @@ Créer un cadre qui favorise la création de sous-groupes autour d'un intérêt 
 (à compléter)
 
 ## Proposition
-- tarif spécifique pour *(le groupe vs x personnes? à compléter)* 
-55€/mois (domiciliation jusqu'à résiliation)
-l'usage des machines restent au tarif normal (en Crrr)
+- tarif spécifique pour la guilde *(le groupe vs x personnes? à compléter)* 
+55€/mois (domiciliation jusqu'à résiliation)  
+l'usage des machines restent au tarif normal (en € ou Crrr)
+  - les membres User ont accès gratuitement aux activités de la Guilde, càd que le coût de 10€ d'entrée n'est pas appliqué.
+  - les membres superUser, pas de changement, l'accès est tjs gratuit mais profite en plus des rewards "Guildes"
 - minimum un responsable par guilde
-  - le responsable doit être du niveau **superUser**
+  - le responsable doit être au minimum niveau **superUser**
   - les autres doivent être au minimum membre **User** de l'asbl *(désavantage: pas de passeport maker = aucune valorisation des compétences acquisent lors des projets de guilde.)*
   
   ![pasdpalais](http://www.lesfillesabuzzent.com/assets/img/2015/04/pasdepalais.gif)
