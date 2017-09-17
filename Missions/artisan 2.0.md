@@ -20,7 +20,7 @@ La proposition est de le faire chez Communa, rue gray. et de budgétiser x heure
 Date | Événement  | Descriptif | Lieu
 ---- | ---- | ---- | ----
 16-17/09 | Portes ouvertes BDS, workshops | Anne-Sophie & Dewi, dans le cadre du BDS, expo au BIP + mini-workshop teaser avec possibilité de s'inscrire aux sessions | OpenFab 
-07-08/10 | Session 1 workshop | ---- | ---- 
+30/09-01/10 | Session 1 workshop | ---- | ---- 
 14-15/10 | Session 2 workshop | ---- | ---- 
 21-22/10 | Session 3 workshop | ---- | ---- 
 20-24/11 | Hackathon | ---- | ---- 
