@@ -23,3 +23,5 @@ Then save as pdf (portrait mode, A4) to send the request to Marco: marco.sfregol
 
 He will make an offer and we will receive an invoice for payment. 
 Once the payment is fullfiled, it take a couple of days to receive the package.
+
+The invoice will store on the NAS on \000WORK\2 gouvernance\Comptabilité\Facture In\2017
