@@ -16,7 +16,10 @@ Check colors on the left, make sure to choose the right diameter on column E and
 
 To optimise the visibility, we check the case green so it's easier to look for what we want.  
 
-Then save as pdf to send the request to Marco: marco.sfregola@eumakers.com   
+Then save as pdf (portrait mode, A4) to send the request to Marco: marco.sfregola@eumakers.com   
+
+![image](https://user-images.githubusercontent.com/12049360/30849300-275eb9ce-a2a2-11e7-9ef1-637c9c097203.png)
+
 
 He will make an offer and we will receive an invoice for payment. 
 Once the payment is fullfiled, it take a couple of days to receive the package.
