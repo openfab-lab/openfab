@@ -41,3 +41,4 @@ Question :
 
 NB : Les portes ouvertes du 16 et 17 septembre et les ateliers qui y seront proposés seront l’occasion d’informer les visiteurs/participants de la tenue d’une série de workshops dans le cadre du Contrat de Quartier Maelbeek.
 
+Documentation plus complète du projet sur : https://github.com/DewiBrunet/Plissage/blob/master/Paysage%20kin%C3%A9tique.md 
