@@ -20,7 +20,7 @@ How to join us? Fill in [this form](http://openfab.be/adhesion) and come to see 
 
 Price:
 1. membership fees: 25€/year.  
-2. access to the FabLab: 10€/day or, if you want to get involved in the community, you can [become SuperUser](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/guide-superuser.md) and pay 34€/month.  
+2. access to the FabLab: 10€/day or, if you want to get involved in the community, you can [become SuperUser](https://github.com/openfab-lab/gamification-fablab/blob/master/Level-UP/guide-superuser.md) and pay 34€/month.  
 3. Price depends the machine you want to use, we advice you to take your own material, there is a Brico just near us (330 avenue de la Couronne).  
 
 Enter the game!  
