@@ -109,6 +109,9 @@ Rue du Printemps, 39-43
 1050 BXL
 Attention, Rien en dessous de M4
 
+**Fabory** https://www.fabory.com/fr-BE/  
+site belge, bcp de choix (mais) achat par boite
+
 ## Electronics
 
 
