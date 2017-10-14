@@ -16,20 +16,20 @@ facebook : https://www.facebook.com/events/136439860421404
 **Playlist**
 
 Apero
-- [Don't You Worry 'Bout A Thing - Jacob Collier](https://m.youtube.com/watch?v=pvKUttYs5ow)
-First dish
+- [Don't You Worry 'Bout A Thing - Jacob Collier](https://m.youtube.com/watch?v=pvKUttYs5ow)  
+First dish  
 - [The Biggest Cargo Bike in the World Is the Size of a Car](https://vimeo.com/75231395)
 - [Longest bicycle - Guinness World Records](https://www.youtube.com/watch?v=k-NpZQIQ6pE)
 - [Olympic Cyclist Vs. Toaster: Can He Power It?](https://www.youtube.com/watch?t=3s&v=S4O5voOCqAQ)
-- [Contrex - Contrexperience](https://www.youtube.com/watch?v=bGJSEEx2pXc)
-Second dish
+- [Contrex - Contrexperience](https://www.youtube.com/watch?v=bGJSEEx2pXc)  
+Second dish  
 - [Batteries VS. Supercapacitors](https://www.youtube.com/watch?v=eK7rl5IHGwY)
 - [A Bicycle-Powered House?](https://www.youtube.com/watch?v=xbUxt2x4InE)
 - [Human-Powered Helicopter](https://www.youtube.com/watch?v=emK-qIbuJ-k)
 - [DIY Electric Bike](https://www.youtube.com/watch?v=9rIIJbDkpN8)
 - [The Copenhagen Wheel official product release)](https://www.youtube.com/watch?v=S10GMfG2NMY)
-- [A Smarter way to ride - Smart Wheel by FlyKly](https://www.youtube.com/watch?v=stVWPB3aLGQ)
-Dessert
+- [A Smarter way to ride - Smart Wheel by FlyKly](https://www.youtube.com/watch?v=stVWPB3aLGQ)  
+Dessert  
 - [Foldavan lightweight folding bicycle caravan](https://www.youtube.com/watch?v=wJtde3xz5Tc)
 
 ## 25 Mai 2017 @Openfab
