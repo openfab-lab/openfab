@@ -15,12 +15,12 @@ facebook : https://www.facebook.com/events/1343126512483637/
 
 **Playlist Transition écologique**
 
-Apéro
-(Activateurs d'esprits)
+Apéro  
+(Activateurs d'esprits)  
 - [Bikers Dash Across Mexico City in Illegal Alleycat Races](https://www.youtube.com/watch?v=fA4qqB8j8Gc)
 - [EZLN - Ensemble Zoologique de Libération de la Nature](https://www.facebook.com/ezln.zoologique/videos/1062536057224625/)
-The main dish
-(for thinking through)
+The main dish  
+(for thinking through)  
 - [A Bicycle-Powered House? | NPR's SKUNK BEAR](https://www.youtube.com/watch?v=xbUxt2x4InE)
 - [When Will We Stop Using Oil?](https://www.youtube.com/watch?v=Fjbx5Xq_ULc)
 - ["Qu'est-ce qu'on attend ?" Bande-annonce VF (2016)](https://www.youtube.com/watch?v=QwLvYV301MA)
@@ -29,8 +29,8 @@ The main dish
 - [4K Dash PA Human Powered Airplane Flight Two at NASA 11/5/16](https://www.youtube.com/watch?v=4GTZE7Xxdt0)
 - [Klimaatzaak](https://www.facebook.com/Klimaatzaak/videos/1815169448746739/)
 - [Freeman-on-the-Land: COMMON QUESTIONS](https://www.youtube.com/watch?v=8aO1E8HEeF4)
-Dessert
-(for digestion)
+Dessert  
+(for digestion)  
 - [Brussels Bike Jungle - The Impact of Infrastructure](https://www.youtube.com/watch?v=OSFHsuNdYjA)
 
 ## 14 oct 2017 @OpenFab
@@ -38,7 +38,7 @@ facebook : https://www.facebook.com/events/136439860421404
 
 **Playlist**
 
-Apero
+Apero  
 - [Don't You Worry 'Bout A Thing - Jacob Collier](https://m.youtube.com/watch?v=pvKUttYs5ow)  
 First dish  
 - [The Biggest Cargo Bike in the World Is the Size of a Car](https://vimeo.com/75231395)
@@ -52,7 +52,7 @@ Second dish
 - [DIY Electric Bike](https://www.youtube.com/watch?v=9rIIJbDkpN8)
 - [The Copenhagen Wheel official product release)](https://www.youtube.com/watch?v=S10GMfG2NMY)
 - [A Smarter way to ride - Smart Wheel by FlyKly](https://www.youtube.com/watch?v=stVWPB3aLGQ)  
-Dessert  
+Dessert   
 - [Foldavan lightweight folding bicycle caravan](https://www.youtube.com/watch?v=wJtde3xz5Tc)
 
 ## 25 Mai 2017 @Openfab
@@ -61,7 +61,7 @@ facebook:
  
 **Playlist:**
 
-En apéro, quelques Simone Giertz... tout le monde connait, je met pas de lien....    
+En apéro, quelques Simone Giertz... tout le monde connait, je mets pas de lien....    
 
 - [Design Club - Super Mario Bros: Level 1-1](https://www.youtube.com/watch?v=ZH2wGpEZVgE) 5:42
 - [Joueur du Grenier - ROGER RABBIT - NES](https://youtu.be/nshFXWEKxs4) 16:27
