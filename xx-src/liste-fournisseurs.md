@@ -115,6 +115,8 @@ site belge, bcp de choix (mais) achat par boite
 
 ## Electronics
 
+**Fablab Factory**
+https://www.fablabfactory.com/
 
 **McHobby** https://shop.mchobby.be/   
 +32 (0) 2 387 24 78  
