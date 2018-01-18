@@ -94,7 +94,11 @@ soumagne@biemar.be;
 - https://www.urbia.be/
 spécialiste maquetiste. Très bon retour des usagers.
 - vink
+http://fr.vink.be/Default.aspx?areaid=29
 - autre?
+Polypropylène: 
+http://www.recreatec.fr/materiaux/plastiques/polypropylene/polypropylene-noir-0-8-600-x-800.html
+https://www.sigma-signalisation.com/polypropylene-alveolaire-lisse/13701-polypropylene-blanc-feuille.html
 
 ## Metal
 
