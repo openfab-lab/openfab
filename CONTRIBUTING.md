@@ -81,14 +81,14 @@ Actuellement, j'ai fait une liste des grands sujets et tâches en cours dont je 
 - [ ] **Nouveau site web, [nouvelle architecture WP3](https://github.com/openfab-lab/openfab/blob/master/img/Architecture%20web%20OF.jpg) et lien avec miniSite github** #community  
     La com qui met en lien les différents sujets et qui va faire le support entre eux. (mini.site Chic, mini.site Aventutoriaux, mini.site projets, etc...  
     J'ébauche juste la compréhension de structure des pages dans github sur [mon compte perso](https://nicolasdb.github.io/)
-- [ ] **CQD artisan2.0** #services  
+- [X] **CQD artisan2.0** #services  
     C'est l'appel à projet remporté l'été dernier. On vient de recevoir les sous. l'objectif est d'organiser 2 bricole&picole (intro, outro) et 10 j de stage répartis comme on veut d'ici fin 2017. La thématique est de montrer ce qu'apporte les démarches numériques associée à l'artisanat traditionnel.
 	- [x] Bricole & picole 1
-	- [ ] Dewi et Anne-sophie workshop Juillet/Aout
-	- [ ] Design september, teaser workshop
-	- [ ] 6 sessions Octobre
-	- [ ] 1 session Novembre
-	- [ ] Bricole & Picole 2
+	- [x] Dewi et Anne-sophie workshop Juillet/Aout
+	- [x] Design september, teaser workshop
+	- [x] 6 sessions Octobre
+	- [x] 4 jours hackathon Novembre
+	- [x] Bricole & Picole 2
 - [ ] **Fabcity** #community  
     Développement du réseau BXL de maker, vision macro locale et [Fabcity Vault](https://medium.com/@yannickschanden/fab-city-vault-from-mutualisation-of-resources-to-sharing-the-outcome-5d6ae0a5b5b6#.t7vv3lmuz).
 - [ ] **Les jobs, Quentin, stoemelings, poolpio,** #services  
