@@ -10,6 +10,23 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
+## 31 Mars 2018, l'espace @OpenFab
+
+On a commencé par rigoler un peu.
+- [Le Mugu - parodie mozinor 2011](https://www.youtube.com/watch?v=tMwJ2IqBFJs) 9:28  
+Et puis Sarah nous a dit qu'il y avait une vrai série sur le sujet en Côte d'Ivoir:  
+- [Les Brouteurs](https://www.youtube.com/watch?v=cw_4hE_iVd0) 
+
+Donc, l'espace, en discutant on m'avait demandé, étonné "c'est pas un fake l'ISS? Comme pour la Lune tout ça?"
+- [3 CHOSES QUI PROUVENT QUE L'ISS EST UN FAKE ?](https://www.youtube.com/watch?v=5qus7xi_wD4) 10:58
+- [ISS : VISITE GUIDEE](https://www.youtube.com/watch?v=9wl8FKoqCZU) 11:03  
+- [Thomas Pesquet et les dangers de l'ISS](https://www.youtube.com/watch?v=WzZPFyPHMjg) 5:56
+- [How Do Spacecraft Survive Re-Entry?](https://www.youtube.com/watch?v=DcYI7BvUQ6Y) 4:12
+- [5 Terrifying Space Stories From Astronauts](https://www.youtube.com/watch?v=Gwb0cnWZCqg) 7:09
+- [Le programme spatial Congolais - Best Of](https://www.youtube.com/watch?v=CB41rCLnZ0o) 4:25
+- [Mad Mike Hughes : The Full Launch Video ..To the World](https://youtu.be/M0WmenDhtaY?t=26m11s) faut juste regarder la fin.
+- [Jamais contente](https://www.youtube.com/watch?v=OY0JyRz75zw) 0:52
+
 ## 10 nov 2017 Benevélo weekend @OpenFab
 facebook : https://www.facebook.com/events/1343126512483637/
 
