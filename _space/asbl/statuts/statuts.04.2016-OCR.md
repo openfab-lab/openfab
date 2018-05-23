@@ -37,38 +37,34 @@ Elle peut être dissoute à tout moment.
 
 ## TITRE 2 - Membres
 
-Art.  5 - L'association est composee de membres effectifs el de membres adherents.
+Art.  5 - L'association est composée de membres effectifs et de membres adherents.
 
 
 - I -
-Le nombre minimum de mernbrcs cffectifs ne peut etre inferieur ii uois. Seuls Jes mernbres effecrifs jouissent de la plenitude des droits accordes aux associes par la Joi et Jes presents statuts.
+Le nombre minimum de membres éffectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux associés par la loi et les présents statuts.
 
-Sont mernbres effectifs :
+Sont membres effectifs :
 
-* Jes comparants au present actc.
-* Jes personnes admises ultericuremcnt en cettc qualite par l'assernblee generale, statuant a la
-majorite des deux  tiers.
+* Les comparants au present acte.
+* Les personnes admises ulterieurement en cette qualité par l'assemblée générale, statuant à la majorité des deux-tiers.
 
-Toutes pcrsonncs dcsirant ctre membre effectif de l'association doit adrcsser une demande ecrite au conseil d'ad.ministration.
-Sont membres  adherents Jes personnes qui, desirant  participer aux activites de l'association et s'engageant a en respecter Jes staruts, sont admises en ceuc qualite par le conseil d'adrninistrauoo statuant  a la majorite des deux-t iers.
+Toutes personnes désirant être membre effectif de l'association doit adresser une demande écrite au conseil d'administration.
+Sont membres adherents les personnes qui, désirant participer aux activités de l'association et s'engageant à en respecter les statuts, sont admises en cette qualité par le conseil d'administration statuant à la majorite des deux-tiers.
 
-Art.  6 - Les membres effectifs et adherents soot libres de se retirer a tout moment de l'associarion en adressant leur demission par ecrit au conscil d'administration.
+Art.  6 - Les membres effectifs et adherents sont libres de se retirer à tout moment de l'association en adressant leur démission par écrit au conseil d'administration.
 
-Est repute demissionnaire le mernbre effectif ou adherent qui ne paie pas la cotisation qui Jui
-incombe,  dans le mois du rappel qui lui est adresse par courtier.
+Est réputé démissionnaire le membre effectif ou adherent qui ne paie pas la cotisation qui lui incombe, dans le mois du rappel qui lui est adressé par courrier.
 
-L'exclusion d'un membre effectif ne peut etre prononcee que par l'assemblee generate a. la majoritc des deux-tiers des voix presentes ou representees. L'exclusion d'un membre adherent peut etre
-prononcce par le conseil d'adrninistration statuant a la majorite simple.
+L'exclusion d'un membre effectif ne peut être prononcée que par l'assemblée générale à la majorité des deux-tiers des voix présentes ou représentées. L'exclusion d'un membre adhérent peut être prononcée par le conseil d'administration statuant à la majorité simple.
 
-Le conseil d'administration peut suspendre.jusqu'a decision de l'asscmblec generate, Jes membres
-effectils qui se seraient rendus coupables d'infraction grave aux statuts ou aux lois,
+Le conseil d'administration peut suspendre jusqu'à décision de l'assemblée générale, les membres effectifs qui se seraient rendus coupables d'infraction grave aux statuts ou aux lois.
 
-Art.  7 - Le montant de la corisarion annucllc des membres est fixee par l'assernblee generate sans pouvoir etre superieur a 2500 euros pour Jes membres effectifs et infcricur a. 25 curos pour Ies rnernbres adherents.
+Art. 7 - le montant de la cotisation annuelle des membres est fixée par l'assemblée générale sans pouvoir être supérieur à 2500 euros pour les membres effectifs et inférieur à 25 euros pour les membres adhérents.
 
 
+---
 
-
-TITRE 3-Assemblee generate
+## TITRE 3 - Assemblée générale
 
 Art.  8 - L'assernblee generale est cornposee de tous Jes mcmbres effectifs de I'associarion.
 Elk est presidee par le president du conscil d'admini.stration ou, s'il est absent, par le plus ancicn des administrateurs presents.
