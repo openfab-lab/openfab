@@ -1,57 +1,57 @@
 Les soussignés :  
-I. de Barquin Fabienne, 71 rue de Monin à 5362 Achet, née le 30/04/1962 à Etterbeek.  
+1. de Barquin Fabienne, 71 rue de Monin à 5362 Achet, née le 30/04/1962 à Etterbeek.  
 2. de Barquin Nicolas, 76 rue du Sceptre à  1050 lxelles, né le 03/09/1977 à Bruxelles.  
 3. de Barquin Catherine, 11 Grand'Place à 6792 Halanzy, née le 08/05/1964 à Etterbeek.  
-  
-Déclarent par cet acte constituer une association sans but lucratif dont ils ont arrêté les statuts comme suit : 
+
+Déclarent par cet acte constituer une association sans but lucratif dont ils ont arrêté les statuts comme suit :
 
 
 
 ## TITRE 1 - Dénomination, siège social, but et durée
 
-### Art.1 - L'association est dénommée « Syntonie »,
+**Art. 1** - L'association est dénommée « Syntonie »,
 
-### Art.2 - Son siege social est établi 23 rue de l'Etang, à 5575 Willerzie.
+**Art. 2** - Son siege social est établi 23 rue de l'Etang, à 5575 Willerzie.
 
-II est situé dans l'arrondissement judiciaire de DINANT.
+Il est situé dans l'arrondissement judiciaire de DINANT.
 
-Il pourra être transfére par décision de l'assemblée générale déliberant dans les conditions prévues pour la modification des statuts.
+Il pourra être transféré par décision de l'assemblée générale déliberant dans les conditions prévues pour la modification des statuts.
 
-### Art.3 - L'association a pour but:
+**Art. 3** - L'association a pour but:
 de promouvoir la relation étroite et la communication qui existent entre l'environnement naturel, l'humain et les nouvelles technologies par tous les moyens disponibles.
 
-Elle poursuit la réalisation de ce but par tous les moyens et notamment:
-- par la création d'un atelier (pourvu de materiel de haute technologie) ouvert à tous;
-- par la création d'un espace de partage des compétences et du savoir-faire de participants professionnels ou non;
-- par la revalorisation d'un écosystème local d'innovation;
-- par l'utilisation de matériaux durables;
-- par la création d'un espace de formation, d'étude, de recherche et d'experimentations;
-- par la finalisation des produits et leur distribution;
-- par l'organisation et la participation à des activités diverses liées à ces domaines (stages, expositions, conférences publiques, séminaires, ateliers de groupe et interpersonnelle, séjours, voyages, édition et publication, promotion et vente de produits dérivés, par la collaboration avec des organisations privées, publiques, nationales et internationales et tout autre projet visant son objet social, etc).
+Elle poursuit la réalisation de ce but par tous les moyens et notamment :
+- par la création d'un atelier (pourvu de matériel de haute technologie) ouvert à tous ;
+- par la création d'un espace de partage des compétences et du savoir-faire de participants professionnels ou non ;
+- par la revalorisation d'un écosystème local d'innovation ;
+- par l'utilisation de matériaux durables ;
+- par la création d'un espace de formation, d'étude, de recherche et d'expérimentations ;
+- par la finalisation des produits et leur distribution ;
+- par l'organisation et la participation à des activités diverses liées à ces domaines (stages, expositions, conférences publiques, séminaires, ateliers de groupe et interpersonnelle, séjours, voyages, édition et publication, promotion et vente de produits dérivés, par la collaboration avec des organisations privées, publiques, nationales et internationales et tout autre projet visant son objet social, etc.).
 
-L'association peut accomplir tous les actes se rapportant directement ou indirectemcnt à son but. Elle peut prêter son concours et s'intéresser à toutes activités similaires à son but.
+L'association peut accomplir tous les actes se rapportant directement ou indirectement à son but. Elle peut prêter son concours et s'intéresser à toutes activités similaires à son but.
 
-### Art.4 - L'association est constituée pour une durée indéterminée. 
+**Art. 4** - L'association est constituée pour une durée indéterminée.
 Elle peut être dissoute à tout moment.
+
+
 
 
 ## TITRE 2 - Membres
 
-Art.  5 - L'association est composée de membres effectifs et de membres adherents.
+**Art.  5** - L'association est composée de membres effectifs et de membres adhérents.
 
-
-- I -
-Le nombre minimum de membres éffectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux associés par la loi et les présents statuts.
+Le nombre minimum de membres effectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux associés par la loi et les présents statuts.
 
 Sont membres effectifs :
 
-* Les comparants au present acte.
-* Les personnes admises ulterieurement en cette qualité par l'assemblée générale, statuant à la majorité des deux-tiers.
+* Les comparants au présent acte.
+* Les personnes admises ultérieurement en cette qualité par l'assemblée générale, statuant à la majorité des deux-tiers.
 
 Toutes personnes désirant être membre effectif de l'association doit adresser une demande écrite au conseil d'administration.
-Sont membres adherents les personnes qui, désirant participer aux activités de l'association et s'engageant à en respecter les statuts, sont admises en cette qualité par le conseil d'administration statuant à la majorite des deux-tiers.
+Sont membres adhérents les personnes qui, désirant participer aux activités de l'association et s'engageant à en respecter les statuts, sont admises en cette qualité par le conseil d'administration statuant à la majorité des deux-tiers.
 
-Art.  6 - Les membres effectifs et adherents sont libres de se retirer à tout moment de l'association en adressant leur démission par écrit au conseil d'administration.
+**Art. 6** - Les membres effectifs et adherents sont libres de se retirer à tout moment de l'association en adressant leur démission par écrit au conseil d'administration.
 
 Est réputé démissionnaire le membre effectif ou adherent qui ne paie pas la cotisation qui lui incombe, dans le mois du rappel qui lui est adressé par courrier.
 
@@ -59,288 +59,111 @@ L'exclusion d'un membre effectif ne peut être prononcée que par l'assemblée g
 
 Le conseil d'administration peut suspendre jusqu'à décision de l'assemblée générale, les membres effectifs qui se seraient rendus coupables d'infraction grave aux statuts ou aux lois.
 
-Art. 7 - le montant de la cotisation annuelle des membres est fixée par l'assemblée générale sans pouvoir être supérieur à 2500 euros pour les membres effectifs et inférieur à 25 euros pour les membres adhérents.
+**Art. 7** - le montant de la cotisation annuelle des membres est fixée par l'assemblée générale sans pouvoir être supérieur à 2500 euros pour les membres effectifs et inférieur à 25 euros pour les membres adhérents.
 
 
----
 
 ## TITRE 3 - Assemblée générale
 
-Art.  8 - L'assernblee generale est cornposee de tous Jes mcmbres effectifs de I'associarion.
-Elk est presidee par le president du conscil d'admini.stration ou, s'il est absent, par le plus ancicn des administrateurs presents.
+**Art. 8** - L'assemblée générale est composée de tous les membres effectifs de l'association.
+Elle est présidée par le président du conseil d'administration ou, s'il est absent, par le plus ancien des administrateurs présents.
 
-Art.  9 - l.assernblee generalc posscde Jes pouvoirs qui Jui sont cxprcsscmcnt rccounus par la Joi ou les presents statuts.
-Soot notamment reserves a sa competence :
-*  Les modifications des statuts,
-* La dissolution volontaire de l'association,
-* L'approbation des comptes et budgets,
+**Art. 9** - l'assemblée générale possède les pouvoirs qui lui sont expressément reconnus par la loi ou les présents statuts.
+Sont notamment réservés à sa compétence :
+* les modifications des statuts,
+* la dissolution volontaire de l'association,
+* l'approbation des comptes et budgets,
+* la nomination et la révocation des administrateurs,
+* la nomination et la révocation des commissaires et la fixation de leur rémunération, dans les cas prévu par la loi,
+* la décharge à octroyer aux administrateurs et, le cas échéant, aux commissaires.
+* les exclusions de membres effectifs,
+* la transformation de l'association en société à finalité sociale,
+* tous les cas ou les statuts l'exigent,
 
+**Art. 10** - Il doit être tenu au moins une assemblée générale chaque année dans le courant du 1er semestre qui suit la clôture des comptes.
 
+L'association peut être réunie en assemblée générale extraordinaire à tous moment par decision du conseil d'administration ou a la demande d'un cinquieme des membres effectifs au moins.
 
+Les membres effectifs sont convoqués en assemblées générales par courrier ou courrier électronique, signé par le président ou un administrateur, adresse huit jours au moins avant l'assemblée. La convocation contient l'ordre du jour, la date, l'heure et le lieu de la réunion.
 
--2-
-* La nomination et la revocation des administrateurs,
-* La nomination ct la revocation des commissaircs ct la fixation de lcur remuneration, dans les cas prevu par la Joi,
-* La decharge a octroyer aux adrninistrateurs et, le cas echeant, aux commissaires.
-"'  Les exclusions de rnembres effecrifs,
-"'  La transformation de l'association en societe a finalite socialc,
-� Tous lcs ces ou les statuts l'exigent,
+Toute proposition signée par un vingtième des membres effectifs doit être portée à l'ordre du jour. Sauf dans les cas prévus aux articles 8 (modification des statuts), 12 (exclusion d'un membre) et 20 (dissolution volontaire de l'association) de la loi du 27 juin 1921, l'assemblée peut délibérer valablement sur des points qui ne sont pas mentionnes à l'ordre du jour,
 
-Art.  l O - 11 doit etre tenu au moins une assernblee generate chaque annee dans le courant du I"' semestre qui suit la cloture des comptes.
+**Art. 11** - Chaque membre effectif a le droit d'assister à l'assemblée. Il peut se faire remplacer par un autre membre effectif, sans que celui-ci ne puisse être porteur de plus de deux procurations.
+Les décisions sont prises à la majorité des deux-tiers des voix présentes ou représentées, sauf dans les cas où il en est décidé autrement par la loi ou les présents statuts. Chaque membre effectif dispose d'une voix.
 
-L'association peut etre reunie en assemblee generale extraordinairc a tout moment par decision du conscil d'administration ou a la demande d'un cinquieme des membres effecti ts au rnoins.
+**Art. 12** - Les décisions de l'assemblée générale sont consignées dans un registre des procès-verbaux, signés par le président et un administrateur. Ce registre est conserve au siège social ou les membres effectifs peuvent en prendre connaissance, mais sans déplacement.
 
-Les rnembres effectifs sont convoques au." assernblees generales par courtier ou courtier electronique, signe par le president ou uu adrninistratcur, adresse huit jours au moins avant l'assemblee.  La convocation conticnt l'ordre du jour, la date, l'heure et le lieu de la reunion.
+Les décisions d'ordre individuel sont éventuellement portées à la connaissance des tiers, qui justifient d'un intérêt, par simple lettre signée par le président.
 
-Toutc proposition signee par un vingtierne des rnernbres effecrifs doit ctre porree a l'ordre du jour. Sauf dans les cas prevus aux articles 8 (modification des staruts), 12 (exclusion d'un mernbre) et 20 (dissolution volontairc de l'association) de la loi du 27 juin 1921, l'assemblee peut deliberer
-valablement sur des points qui ne sont pas mentionnes a l'ordre du jour,
 
-Art.   11  •· Chaque mernbre effectif a le droit d'assister ii l'assemblec. 1l pcur se faire remplacer par un autre membre effectif, sans que celui-ci 11e puissc etre porteur de plus de deux procurations.
-Les decisions sont prises ii la msjoritc des deux-tiers des voix presentes ou representees, sauf dans
-Les cas on ii en est decide autrernent par la Ioi ou les presents statuts. Chaque mernbrc cffectif dispose d'une voix.
 
+## TITRE 4 - Conseil d'administration
 
+**Art. 13** - L'association est dirigée par un conseil d'administration compose de trois membres au moins, nommes par l'assemblee generale parmi les membres effectifs de l'association, et en tout temps revocables par elle.
+Par exception, le conseil d'administration ne comptera que deux membres si l'assemblée générale elle-même ne compte que trois membres. Leur mandat n'expire que par déces, démission ou révocation. Toutefois, tant que l'assemblée générale n'a pas précède au renouvellement du conseil d'administration au terme du mandat des administrateurs, ceux-ci continuent à exercer leur mission en attendant la décision de l'assemblée générale.
 
-Art.   12 - Les decisions de l'assernblee generale soni consignees dans uu registre des proces- verbaux, signes par le president et un adrninistrateur. Ce rcgistre est conserve au siege social ou les membres effectifs peuvent en prendre cormaissance, mais sans deplacemenr,
+**Art. 14** - La durée du mandat est de deux ans. Les administrateurs sortant sont rééligibles.
+En cas de vacance d'un mandat, l'administrateur nomme par l'assemblée générale pour y pourvoir, achève le mandat de celui qu'il remplace.
 
-Les decisions d'ordre individuel sont eventuellernent portees a la connaissance des tiers, qui justifient d'un interet, par simple lettre slgnee par le president.
+**Art. 15** - Le conseil peut designer parmi ses membres un président, éventuellement un vice-président, un trésorier et un secrétaire. Un même administrateur peut être nommé à plusieurs fonctions.
+En cas d'empêchement du président, ses fonctions sont assumées par le vice-président ou à défaut, par le plus ancien des administrateurs présents.
 
+**Art. 16** - Le conseil se réunît sur la convocation du président ou de l'administrateur délégué à cet effet, chaque fois que les nécessités de l'association l'exigent ou à la demande d'un administrateur, Il ne peut statuer que si la majorité de ses membres est présente. Ses décisions sont prises à la majorité de deux-tiers des voix présentes ou représentés.
+Un administrateur peut se faire représenter par un autre administrateur, sans que celui-ci ne puisse être porteur de plus d'une procuration.
 
+**Art. 17** - Les décisions du conseil sont consignées dans un registre de procès-verbaux signes par le président et un administrateur, Les membres effectifs peuvent en prendre connaissance en respectant les dispositions prévues à l'article 10 de la loi du 2 mai 2002.
 
-TITRE 4 - Cooscil d'admioistration
+**Art. 18** - Le conseil d'administration a les pouvoirs les plus étendus pour l'administration et la gestion de l'association. Sont exclus de sa compétence, les actes réserves par la loi ou par les présents statuts à celle de l'assemblée générale.
 
-Art.  13 - L'association est dirigcc par un conseil d'adrninistration compose de trois mcmbres au moins, nommes par l'assernblee generale parmi Jes membres effectifs de l'association, et en tout temps revocables par el le. Par exception le conscil d'admiuistration ne comptera que deux membres si l'assemblee geuerale ellc-mcme nc cornpte que trois membres. Leur mandat n'cxpire que par deces, demission ou revocation. Toutefois, tam que l'assemhlee generale n'a pas precede au renouvcllcmcnt du conseil d'administration au terme du mandat des administrateurs, ceux-ci
-continuent a exercer leur mission en attendant la decision de l'assemblee gcncralc.
+**Art. 19** - Le conseil peut déléguer, sous sa responsabilité, la gestion journalière de l'association, avec l'usage de la signature y afférant, à l'un ou plusieurs de ses membres ou à un tiers. S'ils sont plusieurs, ils agissent individuellement.
 
+**Art. 20** - Les actions judiciaires, tant en demandant qu'en défendant, sont intentées ou soutenues au nom de l'association par le président et un administrateur agissant conjointement.
 
+**Art. 21** - Les actes qui engagent l'association, autres que de gestion journalière, sont signes conjointement, à moins d'une délégation spéciale du conseil, par le président et un administrateur, lesquels n'auront pas à justifier de leurs pouvoirs à l'égard des tiers.
 
--3-
-Art.   14 - La duree du mandat est de deux ans. Les administrateurs sortant sont reeligibles,
-En cas de vacance d'un rnandat, I'administrateur nomme par l'assernblee generale pour y pourvoir,
-acheve  le mandat de celui qu'il remplace.
+**Art. 22** - Les administrateurs ne contractent, en raison de leur fonction, aucune obligation personnelle et ne sont responsables que de l'exécution de leur mandat. Celui-ci est exercé à titre gratuit.
 
-Art.   15 - Le conseil peut designer panni ses membres uu president, evcnrucllcmcnr un vice-
-president, un tresorier  et un secretaire.  Un merne administrateur peut erre nornme a plusieurs
-fonctions.
-En cas d'empechcment du president, ses fonctious soni assumees par le vice-president ou, a defaut,
-par Jc plus ancien des administrateurs presents.
+---
+## TITRE 5 - Règlement d'ordre intérieur
 
-Art.   16- Le conseil se reunit sur convocation du president ou de l'administrareur delegue a cet
-effe.t, chaque fois que les necessites de l'association l'exigenl ou a la dernande d'un adrninistrateur,
-I! ne peut statuer que si la majorite de ses membres est presente. Ses decisions soul prises  ii la
-majorite de deux-tiers des voix  presentcs ou representccs. Un admiuistrateur pent sc faire
-representer par un autre administrateur, sans que celui-ci ne puisse etre porteur  de plus de une
-procuration.
 
-Art   17 - Les decisions du conseil sont consignees dans un rcgistre de proces-verbaux signes par le president ct un administrareur, Les membres cffectifs peuvent en prcndre connaissance en
-rcspcctant les dispositions prevues a l'article  IO de la loi du 2 mai 2002.
+**Art. 23** - Un règlement d'ordre intérieur peut être établi par le conseil d'administration qui le présente à l'assemblée générale pour approbation et pour toutes modifications éventuelles,
 
-Art.  18 - Le conscil d'administration a les pouvoirs !cs plus ctcndus pour l'administration et la gestion de l'association. Sont exclus de sa competence les acres reserves par la loi ou par les
-presents statuts a celle de l'assernblee generate.
+### TITRE 6 - Comptes et Budgets
 
+**Art. 24** - L'exercice social de l'association commence le 1er janvier pour se terminer le 31 décembre,
+Par exception, le premier exercice débutera le jour de la fondation pour se terminer le 31 décembre 2012.
 
-Art.   19- Le conseil peut deleguer, sous sa responsabilite,  la gestion journaliere de l'association, avec l'usagc de la signature y afferentc, a l'un ou plusieurs de ses mernbres  ou a unriers. S'ils sont
-plusieurs, ils agissent individuellernenr.
+Le conseil d'administration établit les comptes de l'année écoulée selon les dispositions prévues à l'article 17 de la loi du 2 mai 2002 ainsi que les budgets de l'année suivante et les soumet à l'approbation de l'assemblee generale  annuelle.
 
-Art.  20- Les actions judiciaires, tant en dcmandant qu'cn defendant, sont internees ou soutenues au
-nom de l'association  par le president et un administratcur agissant conjointerneru.
 
-Art.  21  - Les acres qui engagent l'association, autres quc de gestiou jourualicre, sont signes conjomtement, it moins d'unc delegation specialc du conscil, par le president et un administrateur, lcsquels n'auront  pas ajustifier de lours pouvoirs ,\ l'egard des tiers.
+## TITRE 7 - Dissolution et liquidation
 
+**Art. 25** - Sauf dissolution judiciaire, seule l'assemblée générale peut prononcer la dissolution de l'association conformément à l'article 20 de la loi du 27 juin 1921. Dans ce cas, l'assemblée générale désigne un ou plusieurs liquidateurs, détermine leurs pouvoirs et leur rémunération éventuelle, et indique l'affectation a donner à l'actif net, celle-ci ne pouvant être faite qu'a des fins désintéressées.
 
-Art.  22 - Les administrateurs ne conrractent, en raison de leur lonction, aucune obligation personnelle et ne sont rcsponsables quc de I'cxecution de leur mandat. Celui-ci est exerce a titre
-gratuit.
+**Art. 26** - Dans tous les cas de dissolution volontaire ou judiciaire, après l'apurement des dettes, l'actif net sera affecté à une autre organisation qui poursuit un but similaire.
 
 
+## TITRE 8 · Dispositions diverses
 
+**ART. 27** - Tout ce qui n'est pas explicitement prévue dans les présents statuts est réglé par la loi du 27 juin 1921, modifiée par la loi du 2 mai 2002, régissant les associations sans but lucratif.
 
 
 
+### Dispositions transitoires
 
+L'assemblée générale réunie à ce jour a élu en qualité d'administrateurs :
+1. EVRARD Pauline
+2. PIERLOT Mathis
 
+plus amplement qualifiés ci-dessus, qui acceptent ce mandat.
 
+Les administrateurs ont désignes en qualité de
 
+**President** : EVRARD Pauline, 71 rue de Mortin à 5362 ACHET
 
--4-
+**Secrétaire et Trésorier** : PIERLOT Mathis, 71 rue de Mortin à 5362 ACHET
 
+Fait à Willerzie, le 08/04/2016, en deux exemplaires originaux.
 
-
-
-TITRE 5 - Reglement d'ordre  interieur
-
-
-Art.  23 - Un reglement d'ordre intcricur pent etrc ctabli  par le conseil d'adrninisrration qui le presente a l'assernblee generale pour  approbation ct pour toutes modifications everuuelles,
-
-
-TJTRE 6 -Compte.� et Hudgel�
-
-Art. 24 - L'exercice social  de l'association commence le  I"'janvier pour se terrniner le 31
-decembre,
-Par exception, le premier exercice debutera le jour de la fondation pour  se termincr le 31 dccembrc
-2012.
-
-Le conseil d'administration etablit les comptes de l'annee ecoulee scion  les dispositions prevucs a
-l'anicle  17 de la loi du 2 mai 2002 ainsi que Jes budgets <le l'annee suivante ct les soumet a
-I' approbation de l'asscmblee generale annuelle.
-
-
-TITRE  7 - Dissolution  et liquidation
-
-Alt.  25 - Sauf dissolution judiciaire, seule l'assemblee generale peut prononcer la dissolution de l'association conformement a l'article 20 de la Joi  du 27 juin 1921.  Dans cc cas, l'assemblcc generate designe un ou plusieurs liquidateurs, deterrnine leurs pouvoirs et lcur remuneration evcntuclle, et
-indique l'affectarion a donner a l'actif net, celle-ci  ne pouvant erre  faire qu'a des fins desinteressees.
-
-
-Art.  26 - Dans tOLL�  les cas de dissolution volontaire ou judiciaire, apres I'apurement des deues, l'actif net sera aflecre a une aurre organisation qui poursuit un but similaire.
-
-
-
-
-TITRE  8 ·   Disnositions diverses
-
-ART.  27 - Tout cc qui n'est pas cxplicitement prevu dan.s les presents statuts est regle par la Joi du
-27 juin   1921, modifiee par la loi du 2 rnai 2002, regissant Jes associations sans  but  lucrarif.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--5-
-
-
-Dispositions transitoires
-
-L'assernblee gcnerale rcunie a ce jour a clu c11 qualite d'administrareurs :
-l. EVRARD Pauline
-2.  PIER.LOT Mathis
-
-plus amplemeut qualifies ci-dessus, qui acceptent ce rnandai.
-
-Les administrateurs ont designes en qualite de
-
-President  :   EVRARD Pauline,  71  rue de Mortin a 5362 ACHET
-
-Sccretaire ct Tresorier :   PIERLOT Mathis, 71  rue de Mon.in a 5362 ACHET
-
-Fail a Willerzie, le 08/04/2016, en deux exemplaires uriginaux.
-
-Signatures
-
-1              f-.
-'y'. e ),,,�     �               p ......�-:.. .... :
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 6-
-
-
-
-
-
-
-
-
-
--
-
-
-Copie  a publier aux annexes  du Moniteur beige apres depot de l'acte
-M002.2
-
-
-Reserve au Moniteur
-.,-:\•    \..,,   _,
-J
-
-
-
-N' d'entrepns_q :   0844
-�nomination
-.983
-.628
-ten en,,er!      Syntonie
-reo abrege� ·
-
-Fcrme ;uridique .     ASBL
-s,egr, :     23, rue de l'Etang a 5575 Willerzie
-Obj�t de racre :   Modifications de statuts et modification de la composition du Conseil d'Administration
-En date du 3/04/2016. l'Assemblee Generale a approuve a runanimite les modifications apportees
-1. Tllre 2 - Art7 - Le mor.tant de la cotisation annuelle des membres est fixe par rAssernbtee Generale sans
-pouvoir we so;,erie'.Jr  a 2500 euros pour les  membres effecllis  et inferieur  a  25 euros  pour tes  membres
-2<fMrents.
-2. Demission el RE!election
-Suite  a l'Assemb1ee Generale du 8/04/2016
-•  demission d'administrateur et secretaire  le  16103/2016  de  Blond   Monique,  23  rue  de  l'Etang a 5575
-Wi!!eaie.
-- reeiection d'adminlstrateurs et president. secretaire, tresorier.
-Desorrnais le conseil d'administration se compose comme suit :
-President: Evrard Pauline, nee le 3110511986. domicilie 71,  rue de Monin  a 5362  Achet.
-Secretaire el tresoner :  Pierlot Mathis. ne le 5108/1986, domicilie 71 rue de Monin  a 5362  AehelTexte
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}llfention1101 sur lo diern��re page du Vole? B :          Au  recto :  Nom et quai1te du r.ol(i1<e 1nsuum�r.fan: oo de 1a c,e,sonnt\ 01.1 oes persenoes avant pouvoir de representer rasscciauoo, Ia ror1{f.:ilion ou ro,gaoi�nH�..) l'oqatd des tii-?ts.
-
-Av verso  Nom et signa\v<e
+Signatures:
