@@ -1,6 +1,6 @@
 # La loi selon OpenFab
 
-Le présent règlement intérieur s’applique à toute les activités effectuées dans le cadre de l'asbl Syntonie.
+Le présent règlement intérieur s’applique à toutes les [activités](#2.4) effectuées dans le cadre de l'asbl Syntonie.
 
 + Le règlement d'ordre intérieur est rédigé dans l’esprit de la charte des FabLabs  
 [(cf. Floss Manuals - Fablab, Hackerspace, les lieux de fabrication numérique collaboratif)](https://fr.flossmanuals.net/fablab-hackerspace-les-lieux-de-fabrication-numerique-collaboratif/charte-des-fablabs-du-mit/).
@@ -19,7 +19,7 @@ Le présent règlement intérieur s’applique à toute les activités effectué
 ## Table des matières
 - 1 [**Usagers et fonctions**](#1)   
   - 1.1 [membres adhérents](#1.1)     
-    - 1.1.1 [User ['juzər] :seedling:](#1.1.1)       
+    - 1.1.1 [User ['juzər] :seedling:](#1.1)       
     - 1.1.2 [superUser ['supər 'juzər] :herb:](#1.1.2)     
   - 1.2 [membres effectifs](#1.2)     
     - 1.2.1 [metaUser ['mɛtə 'juzər] :sunflower:](#1.2.1)        
@@ -27,10 +27,10 @@ Le présent règlement intérieur s’applique à toute les activités effectué
     - 1.2.3 [Explorer [ɪk'splɔrər] :octocat:](#1.2.3)      
   - 1.3 [Guest [gɛst] :wave:](#1.3)   
 - 2 [**Règles de fonctionnement**](#2)   
-  - Accès à l'atelier
-  - Accès aux machines
-  - Habilitation
-  - Activités
+  - 2.1 Accès à l'atelier
+  - 2.2 Accès aux machines
+  - 2.3 Habilitation
+  - 2.4 [**Activités**](#2.4)
     - FabLab
     - Evénements
     - Workshops
@@ -46,31 +46,81 @@ Le présent règlement intérieur s’applique à toute les activités effectué
 <a name="1"/>
 ## 1. Usagers et fonctions
 
-Toute adhésion à l'association est valable 1 an, à compter de la date d'inscription. Celà correspond par défaut au statut de membre adhérant passif.  
+Toute adhésion à l'association est valable 1 an, à compter de la date du versement bancaire.  
+Les cotisations sont de 3 types et TVAC.
+- Particuliers, **25€** = soutien à l'ASBL et accès aux équippements
+- Familles, **40€** = une seule inscription par famille, valable pour l'accès commun parents/enfants
+- Structures professionnelles, PME, ASBL, etc...,  
+Un tarif sera calculé sur la base du nombre d'usagers potentiels des installations. Les employés d'une telle structure seront limités aux niveaux 1 et 2. ([voir conditions](#1.1))  
+_Par exemple: une PME de 67 employés dont seulement 12 seront usagers du lab = (12pers * 25€)/1.25 (Réduction 25%) = 240€_
+
+
 **Adhérer, c'est surtout soutenir notre démarche et contribuer à son développement et son indépendance !**
 
-### LEVEL 0.1 - membre adhérant passif
-Pour devenir adhérent, il faut remplir les conditions suivantes :
+<a name="1.1"/>
+### 1.1 Les membres adhérant
 
-+ Inscription sur [le site Openfab](http://openfab.be/adhesion)
-+ Être majeur ou avoir une décharge signée par les responsables légaux pour les mineurs. *`link?____ à compléter.... `*
-+ Être en possession d'une assurance de responsabilité civile et signer la décharge de responsabilité civile envers l'ASBL Syntonie. *`link?____ à compléter.... `*
-+ Prendre connaissance du présent règlement intérieur et s'engager à le respecter.
-+ Payer sa cotisation annuelle de 25 euros. Paiement obligatoire par virement pour validation de l'inscription, utilisez la référence: *`ref?____ à compléter.... `*
+L’adhésion à l’association « Syntonie » permet d’accéder au statut d’adhérent de niveau 1 de l’association.  
 
-L'adhésion seule correspond au status de **membre adhérent passif** et donne les droits suivants :
+L’adhérent est un usager du FabLab à jour de sa cotisation à l’association.  
 
-+ Accès à l'atelier. (Après validation de l'inscription) *`voir Tarif LEVEL 0.1____ à compléter.... `*
-+ Réduction sur les formations, workshop, ateliers. *`condition?____ à compléter.... `*
+L’adhérent paye un accès à l'atelier et un supplément est à prévoir lors de l'usage de machines de découpe laser et d'impression 3D. (voir Tarifs)  
+`link?.... à compléter....`  
+
+```
+Les tarifs d'accès sont de **10€** la journée. (tarifs TVAC)  
+Une carte prépayée de 10 journées est disponible à **80€**.  
+Un accès pour un mois complet, date à date (ex: 5 Mai au 5 Juin) est à **97€**.  
+
+Un accès d'une journée n'est pas divisible, mais le nombre d'accès n'est pas limité durant cette journée.
+
+| Tarif Niveau 1 et 2    | prix (tvac)     |
+| :------------- | :------------- |
+| 1 journée       | 10 €       |
+| carte de 10j | 80 € |
+| 1 mois | 97 € |
+```
+
+#### 1.1.1 Niveau 1, "User"
+Prononcé yuzer en anglais. ['juzər]  
+C'est la première étape pour tous, devenir membre de l'asbl c'est le niveau 1.
+
+**Les 5 conditions suivantes sont à remplir:**
+
+- [ ] L'inscription se fera en ligne via le formulaire présent sur [le site Openfab](http://openfab.be/adhesion)  
+- [ ] Les mineurs adhérents à l’association devront fournir une Fiche d’autorisation parentale ou tutélaire.  
+`link?.... à compléter....`  
+- [ ] L’adhérent devra signer la décharge de responsabilité et devra fournir une attestation de responsabilité civile à jour.  
+`link?.... à compléter....`  
+- [ ] L’adhérent devra payer sa cotisation annuelle de 25 euros. Paiement obligatoire par virement pour validation de l'inscription, utilisez la référence adaptée: **SIGN25**/**SIGN40**/**SIGNxxx**  
+`link?.... à compléter....`   
+- [ ] L’adhérent déclare avoir pris connaissance de ce règlement intérieur, en avoir une parfaite compréhension et s’engage à le respecter.  
+
+
+L'adhésion **niveau 1** donne les droits suivants :
+
++ Accès à l'atelier.
++ Réduction sur les formations, workshop, ateliers.   
+`link?.... à compléter....`  
 
 L'adhésion ne donne pas les droits suivants :
 
 + Se servir librement dans les stocks de matières. Consultez le/la responsable sur place.
 + Entreposer plus de deux semaines sa production personnelle. *`Ensuite?____ à compléter.... `*
 + Vendre pour un profit personnel les objets fabriqués Open Source. *`condition?____ à compléter.... `*   
-~~+ Participer gratuitement aux ateliers proposés par l'ASBL.~~
++ Le droit de vote lors des assemblées générales
 
-#### LEVEL 1.0 - membre adhérant actif
+<a name="1.1.2"/>
+#### 1.1.2 Niveau 2, "superUser"
+
+
+<a name="1.2"/>
+### 1.2 Les membres effectifs
+
+#### 1.2.1 Niveau 3, "metaUser"
+
+   
+
 - Abonnement et récurrence.   
 34€/mois, domiciliation, crédits gratuit *`____ à compléter.... `*  
 - PassePort Maker.   
