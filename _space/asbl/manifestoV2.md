@@ -12,7 +12,7 @@ version proposée par [Yannick](https://github.com/softrevolter)
 7. Don’t overthink, try. Failing is what brought us together. 
 8. Finally, never forget the wise words of Shia LeBeouf: Just Do it!!
 
-
+\+ Learning by doing and it's ok to fail
 
 Ce que je retiens dans 
 
@@ -84,3 +84,14 @@ Fair Share
 - Participate
 - Support
 - Change
+
+### Manifesto15 - Faire évoluer l’éducation
+https://manifesto15.org/fr/
+2. schools cannot teach 3.0 kids
+3. Kids are people too
+5.Don't value what we measure, measure what we value
+6. If technology is the answer, what was the question?
+10. the future belongs to nerds, geeks, makers, dreamers and knowmads  
+focus on the developing “entreprenerds,” people who use their knowledge to dream, create, make, explore, learn and create business, cultural, or social experiences.  Kids should be taught to take risks and enjoy the learning as much as the final outcome, without fearing the possible failures or mistakes that might happen along the way.
+11. Break the rules, but understand why, clearly, FIRST
+12. We must and can build cultures of trust in our communities
