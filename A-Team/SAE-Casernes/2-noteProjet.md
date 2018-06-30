@@ -43,7 +43,7 @@ l’ancrage local de son projet de son rayonnement à plus large échelle mais a
 
 Openfab est installé dans le quartier d’Ixelles, sur l'avenue de la Couronne, au n°274.  
 L'atelier est à 5 min à pied du site des casernes depuis maintenant 3 ans.  
-Durant cette période, une forte communauté s’est développée autour de cet espace. La plupart des membres vivent dans un rayon de 1.5 km, rayon qui s'étend du parlement EU jusqu'au cimetière d'XL.  
+Durant cette période, une forte communauté s’est développée autour de cet espace. La plupart des membres vivent dans un rayon de 1.5 km, rayon qui s'étend jusqu'au parlement EU, l'avenue Louise, le campus de la Plaine et le cimetière d'XL.  
 
 ![max 15 min à pied](https://user-images.githubusercontent.com/12049360/42125583-3367b484-7c7a-11e8-88f0-dbc5f07b2ed1.jpg)
 
@@ -62,11 +62,11 @@ Parmi ces acteurs, il est possible de citer
 - **L'Oustaou** (la Serre); propose des repas et des activités avec deux objectifs. Vous invitez à effectuer une pause par rapport au rythme de la ville et à vous informer des enjeux, des possibilités et avantages d’une consommation plus durable.
 - **Tournevie** (rue gray); une asbl proposant un service de prêt d'outils, tout comme une bibliothèque prête des livres.
 
- Artisan 2.0 vise à stimuler l’innovation par le croisement des pratiques artisanales et les technologies numériques. Ce projet a permis de répertorier les différents artisans du quartier et de les mettre en contact. À la fin du projet, un hackaton a été organisé avec une restitution à "la Serre" et également une exposition à la Galerie Ravenstein.   
+Chacun de ces acteurs partagent avec nous des valeurs communes d'ouverture sur le quartier, d'accompagnement; parfois professionnalisant, de partage de savoir-faire mais surtout de vouloir transmettre à nos usagers nos passions respectives et de leur montrer qu'il est possible de travailler ensemble.
 
-
- L’ancrage local d’Openfab est certain et n'est plus à faire. Cet atout renforce notre décision d’occuper le site des casernes.  
- La connaissance du quartier, de sa population, de ses besoins et la forte communauté que Openfab va drainer sur le site, favoriseront l’activation du lieu, son rayonnement plus rapidement et va permettre de continuer le développement de nos activités communes. win pour l'usager, win pour Openfab, win pour les partenaires.
+L’ancrage local d’Openfab est certain et n'est plus à faire. Cet atout renforce notre décision d’occuper le site des casernes.  
+La connaissance du quartier, de sa population, de ses besoins et la forte communauté à laquelle Openfab participe, favoriseront l’activation du lieu, son rayonnement plus rapide et va permettre de continuer le développement de nos activités communes.  
+win pour l'usager, win pour Openfab, win pour les partenaires.
 
 >>
 -> rayonnement plus large échelle  par @Valonlisbeth
