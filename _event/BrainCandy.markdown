@@ -10,13 +10,80 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
+## 31 Mars 2018, l'espace @OpenFab
+
+On a commencé par rigoler un peu.
+- [Le Mugu - parodie mozinor 2011](https://www.youtube.com/watch?v=tMwJ2IqBFJs) 9:28  
+Et puis Sarah nous a dit qu'il y avait une vrai série sur le sujet en Côte d'Ivoir:  
+- [Les Brouteurs](https://www.youtube.com/watch?v=cw_4hE_iVd0) 
+
+Donc, l'espace, en discutant on m'avait demandé, étonné "c'est pas un fake l'ISS? Comme pour la Lune tout ça?"
+- [3 CHOSES QUI PROUVENT QUE L'ISS EST UN FAKE ?](https://www.youtube.com/watch?v=5qus7xi_wD4) 10:58
+- [ISS : VISITE GUIDEE](https://www.youtube.com/watch?v=9wl8FKoqCZU) 11:03  
+- [Thomas Pesquet et les dangers de l'ISS](https://www.youtube.com/watch?v=WzZPFyPHMjg) 5:56
+- [How Do Spacecraft Survive Re-Entry?](https://www.youtube.com/watch?v=DcYI7BvUQ6Y) 4:12
+- [5 Terrifying Space Stories From Astronauts](https://www.youtube.com/watch?v=Gwb0cnWZCqg) 7:09
+- [Le programme spatial Congolais - Best Of](https://www.youtube.com/watch?v=CB41rCLnZ0o) 4:25
+- [Mad Mike Hughes : The Full Launch Video ..To the World](https://youtu.be/M0WmenDhtaY?t=26m11s) faut juste regarder la fin.
+- [Jamais contente](https://www.youtube.com/watch?v=OY0JyRz75zw) 0:52
+
+## 10 nov 2017 Benevélo weekend @OpenFab
+facebook : https://www.facebook.com/events/1343126512483637/
+
+**Playlist Transition écologique**
+
+Apéro  
+(Activateurs d'esprits)  
+- [Bikers Dash Across Mexico City in Illegal Alleycat Races](https://www.youtube.com/watch?v=fA4qqB8j8Gc)
+- [EZLN - Ensemble Zoologique de Libération de la Nature](https://www.facebook.com/ezln.zoologique/videos/1062536057224625/)  
+
+The main dish  
+(for thinking through)  
+- [A Bicycle-Powered House? | NPR's SKUNK BEAR](https://www.youtube.com/watch?v=xbUxt2x4InE)
+- [When Will We Stop Using Oil?](https://www.youtube.com/watch?v=Fjbx5Xq_ULc)
+- ["Qu'est-ce qu'on attend ?" Bande-annonce VF (2016)](https://www.youtube.com/watch?v=QwLvYV301MA)
+- [Human Powered Aircraft Research: Speed With Guy Martin - S01E03](https://www.youtube.com/watch?v=O74jj4IytK8)
+- [Sacred Economics with Charles Eisenstein - A Short Film](https://www.youtube.com/watch?v=EEZkQv25uEs)
+- [4K Dash PA Human Powered Airplane Flight Two at NASA 11/5/16](https://www.youtube.com/watch?v=4GTZE7Xxdt0)
+- [Klimaatzaak](https://www.facebook.com/Klimaatzaak/videos/1815169448746739/)
+- [Freeman-on-the-Land: COMMON QUESTIONS](https://www.youtube.com/watch?v=8aO1E8HEeF4)  
+
+Dessert  
+(for digestion)  
+- [Brussels Bike Jungle - The Impact of Infrastructure](https://www.youtube.com/watch?v=OSFHsuNdYjA)
+
+## 14 oct 2017 @OpenFab
+facebook : https://www.facebook.com/events/136439860421404
+
+**Playlist**
+
+Apero  
+- [Don't You Worry 'Bout A Thing - Jacob Collier](https://m.youtube.com/watch?v=pvKUttYs5ow)  
+
+First dish  
+- [The Biggest Cargo Bike in the World Is the Size of a Car](https://vimeo.com/75231395)
+- [Longest bicycle - Guinness World Records](https://www.youtube.com/watch?v=k-NpZQIQ6pE)
+- [Olympic Cyclist Vs. Toaster: Can He Power It?](https://www.youtube.com/watch?t=3s&v=S4O5voOCqAQ)
+- [Contrex - Contrexperience](https://www.youtube.com/watch?v=bGJSEEx2pXc)  
+
+Second dish  
+- [Batteries VS. Supercapacitors](https://www.youtube.com/watch?v=eK7rl5IHGwY)
+- [A Bicycle-Powered House?](https://www.youtube.com/watch?v=xbUxt2x4InE)
+- [Human-Powered Helicopter](https://www.youtube.com/watch?v=emK-qIbuJ-k)
+- [DIY Electric Bike](https://www.youtube.com/watch?v=9rIIJbDkpN8)
+- [The Copenhagen Wheel official product release)](https://www.youtube.com/watch?v=S10GMfG2NMY)
+- [A Smarter way to ride - Smart Wheel by FlyKly](https://www.youtube.com/watch?v=stVWPB3aLGQ)  
+
+Dessert   
+- [Foldavan lightweight folding bicycle caravan](https://www.youtube.com/watch?v=wJtde3xz5Tc)
+
 ## 25 Mai 2017 @Openfab
 meetup:  
 facebook:  
  
 **Playlist:**
 
-En apéro, quelques Simone Giertz... tout le monde connait, je met pas de lien....    
+En apéro, quelques Simone Giertz... tout le monde connait, je mets pas de lien....    
 
 - [Design Club - Super Mario Bros: Level 1-1](https://www.youtube.com/watch?v=ZH2wGpEZVgE) 5:42
 - [Joueur du Grenier - ROGER RABBIT - NES](https://youtu.be/nshFXWEKxs4) 16:27

@@ -1,5 +1,5 @@
-# title
-ref to file.md or #issue :
+- [ ] ref to file .md or pullRequest #: .................................................  
+*(à remplir quand l'issue est résolue)*
 ## contexte
 ## objectif
 ## proposition

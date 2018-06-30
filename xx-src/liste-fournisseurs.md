@@ -91,17 +91,36 @@ soumagne@biemar.be;
 
 - pragma plexy
 - plexy reine
-- un truc dans le centre
+- https://www.urbia.be/
+spécialiste maquetiste. Très bon retour des usagers.
 - vink
+http://fr.vink.be/Default.aspx?areaid=29
 - autre?
+Polypropylène: 
+http://www.recreatec.fr/materiaux/plastiques/polypropylene/polypropylene-noir-0-8-600-x-800.html
+https://www.sigma-signalisation.com/polypropylene-alveolaire-lisse/13701-polypropylene-blanc-feuille.html
 
 ## Metal
 
 - aludan 
 - autres?
 
+## Visseries
+**FinNvis** (FR) https://www.visseriefixations.fr/
+vente en ligne, bcp de choix et surtout un des seuls où je trouve facilement ce qu'il me faut en dessous de M4
+
+**ITS-Tools** http://www.its-tools.eu/fr/
+Rue du Printemps, 39-43
+1050 BXL
+Attention, Rien en dessous de M4
+
+**Fabory** https://www.fabory.com/fr-BE/  
+site belge, bcp de choix (mais) achat par boite
+
 ## Electronics
 
+**Fablab Factory**
+https://www.fablabfactory.com/
 
 **McHobby** https://shop.mchobby.be/   
 +32 (0) 2 387 24 78  
