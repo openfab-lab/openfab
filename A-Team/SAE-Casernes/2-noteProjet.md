@@ -8,6 +8,8 @@
 - [ ] Durée de l'occupation
 - [ ] Financement
 
+---
+
 ![image](https://user-images.githubusercontent.com/25099826/41979992-ad7ee0d2-7a25-11e8-9480-ca924c6a74bc.png)
 C'est à dire un plan 2D juste colorer les plans qu'on a reçu avec une légende.
 
@@ -17,6 +19,8 @@ C'est à dire un plan 2D juste colorer les plans qu'on a reçu avec une légende
 - [ ] kitchenette
 - [ ] surface travail
 
+---
+
 ![image](https://user-images.githubusercontent.com/25099826/41980114-023928f8-7a26-11e8-93a9-4a06f16e543e.png)
 Même plan mais avec les :
 
@@ -24,10 +28,13 @@ Même plan mais avec les :
 - [ ] flow de entrée sortie du client ou futur membre (zone pour membre et juste workshop)
 - [ ] flow d'évacuation fumée/poussière
 
-> - Une présentation des moyens que le candidat propose de mettre en oeuvre pour assurer :   
-l’ancrage local de son projet de son rayonnement à plus large échelle mais aussi la comptabilité de son projet avec l’histoire du site et les ambitions de l’opération globale d’aménagement prévue à terme.
+---
 
--> ancrage locale par @Valonlisbeth
+`` - Une présentation des moyens que le candidat propose de mettre en oeuvre pour assurer :   
+l’ancrage local de son projet de son rayonnement à plus large échelle mais aussi la comptabilité de son projet avec l’histoire du site et les ambitions de l’opération globale d’aménagement prévue à terme.
+``
+>>
+-> ancrage local par @Valonlisbeth
 - [x] Communa
 - [x] Contrat de quartier Malbeak
 - [x] Artisan 2.0
@@ -61,23 +68,29 @@ Parmi ces acteurs, il est possible de citer
  L’ancrage local d’Openfab est certain et n'est plus à faire. Cet atout renforce notre décision d’occuper le site des casernes.  
  La connaissance du quartier, de sa population, de ses besoins et la forte communauté que Openfab va drainer sur le site, favoriseront l’activation du lieu, son rayonnement plus rapidement et va permettre de continuer le développement de nos activités communes. win pour l'usager, win pour Openfab, win pour les partenaires.
 
+>>
 -> rayonnement plus large échelle  par @Valonlisbeth
 - [x] Vulca
 - [x] Chic
 - [x] Passeport Maker
 - [x] Europe
 
+
+>>
 -> ambition de usquare.brussels  par @Valonlisbeth
 - [x] Développer un lien de projet entre les habitants
 - [x] Mutualisation des machines à l'échelle de quartier
 - [x] Espace pour les entrepreneurs qu'ils puissent prototyper et se professionnaliser / se rassembler
 
+---
+
 ![image](https://user-images.githubusercontent.com/25099826/41980715-71e716fa-7a27-11e8-8ab4-7871208d0375.png)
 - [ ] Assurance, faire un point avec notre assureur
 - [ ] Pas d'autre besoin administratif  ?(siège social, CA, AG)
-
 - [ ] Moyen propre pour le déménagement et installation + aménagement
 - [ ] Faisabilité technique = voir le lieu d'abord (surtout attention au branchement électrique). Pour le plus 6 mois on a pas besoin d'aménagement lourd particulier.
+
+---
 
 ![image](https://user-images.githubusercontent.com/25099826/41980897-ec84847e-7a27-11e8-9e87-6fd88c226027.png)
 - [ ] Timeline planning à faire en fonction de notre bail
