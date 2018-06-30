@@ -87,7 +87,7 @@ OpenFab porte aujourd'hui le projet **Fablab Mobile** avec 5 autres acteurs brux
 Il s’agit d’un projet de la RBC soutenu par Innoviris qui a pour mission de porter les nouvelles technologies au niveau des écoles de la RBC à travers un fablab mobile.  
 Openfab avec Velom2, s’occupe de développer et entretenir les "modules fablab" qui seront transporté en vélo carge jusqu'aux écoles, et forme aussi les animateurs provenant de sa communauté de membres.  
 
-#### Au niveau européen, et au delà   
+#### Au niveau mondial   
 OpenFab était partenaire du projet "CHIC" (Cultural Hybridation In Common, 2016/2017) financé par Creative Europa.  
 Aujourd'hui, Nicolas de Barquin (fondateur/fabmanager) représente la Belgique dans le projet **Vulca**, le pilote d'un nouveau programme Européen parrallèle à Eramsus+, visant à favoriser la mobilité des makers en Europe (step 1) et par la suite dans le monde (step 2).  
 
