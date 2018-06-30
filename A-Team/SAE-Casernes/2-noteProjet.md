@@ -66,14 +66,41 @@ Chacun de ces acteurs partagent avec nous des valeurs communes d'ouverture sur l
 
 L’ancrage local d’Openfab est certain et n'est plus à faire. Cet atout renforce notre décision d’occuper le site des casernes.  
 La connaissance du quartier, de sa population, de ses besoins et la forte communauté à laquelle Openfab participe, favoriseront l’activation du lieu, son rayonnement plus rapide et va permettre de continuer le développement de nos activités communes.  
-win pour l'usager, win pour Openfab, win pour les partenaires.
+win pour l'usager, win pour Openfab, win pour les partenaires et win pour Usquare.
 
+### Rayonnement
 >>
 -> rayonnement plus large échelle  par @Valonlisbeth
 - [x] Vulca
 - [x] Chic
 - [x] Passeport Maker
 - [x] Europe
+
+OpenFab a toujours eu très à coeur de se connecter avec des possibles partenaires pour faire fructifier la collaboration entre professionnels et passionnés.   
+Dans cette optique Openfab s’est engagé dans plusieurs projets de la RBC, mais aussi au niveau européen.
+
+![sau casernes](https://user-images.githubusercontent.com/12049360/42126408-946c9c1e-7c88-11e8-80c4-5be1b57b21df.jpg)
+
+#### Au niveau de la RBC,  
+OpenFab porte aujourd'hui le projet **Fablab Mobile** avec 5 autres acteurs bruxellois. [Scientothèque ULB, Bemaker, fablab Imal, fablabxl et la LES](http://www.fablabmobile.brussels/)
+
+Il s’agit d’un projet de la RBC soutenu par Innoviris qui a pour mission de porter les nouvelles technologies au niveau des écoles de la RBC à travers un fablab mobile.  
+Openfab avec Velom2, s’occupe de développer et entretenir les "modules fablab" qui seront transporté en vélo carge jusqu'aux écoles, et forme aussi les animateurs provenant de sa communauté de membres.  
+
+#### Au niveau européen, et au delà   
+OpenFab était partenaire du projet "CHIC" (Cultural Hybridation In Common, 2016/2017) financé par Creative Europa.  
+Aujourd'hui, Nicolas de Barquin (fondateur/fabmanager) représente la Belgique dans le projet **Vulca**, le pilote d'un nouveau programme Européen parrallèle à Eramsus+, visant à favoriser la mobilité des makers en Europe (step 1) et par la suite dans le monde (step 2).  
+
+![representbe](https://user-images.githubusercontent.com/12049360/42126964-c2570e18-7c90-11e8-8ae8-54f4469b9da6.jpg)  
+Nicolas, représentant la Belgique
+
+
+Ce projet est supporté par la **Commission Européenne**, la **FabFoundation**, le réseau Fablab Benelux, le réseau des fablabs Français (RFFLabs) et déjà plus de **250 fablabs** qui ont été visité en Europe à ce jour.  
+
+#### Certification des compétences.
+Dans le cadre de son projet de valorisation des acquis liés aux pratiques numériques au sein de Openfab depuis 1 an, se développe le projet du Passeport Technologique (« Pass Tech »). Ce projet a pour objectif d’encourager la transmission et la validation des compétences technologiques à Bruxelles et en Europe (via le programme Vulca notamment). La mise en place de formations qualifiantes et d’un système de passeport technologique permettra de faire de Bruxelles un phare pour la professionnalisation des métiers dans le domaine des technologies.
+Enfin,  OpenFab fait partie du réseau international de la Fab Fondation qui liée au MIT (Massachusetts Institut of Technology).
+
 
 
 >>
