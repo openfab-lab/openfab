@@ -24,7 +24,8 @@ Même plan mais avec les :
 - [ ] flow de entrée sortie du client ou futur membre (zone pour membre et juste workshop)
 - [ ] flow d'évacuation fumée/poussière
 
-![image](https://user-images.githubusercontent.com/25099826/41980468-d95e8652-7a26-11e8-914c-a9deb758c3e0.png)
+> - Une présentation des moyens que le candidat propose de mettre en oeuvre pour assurer :   
+l’ancrage local de son projet de son rayonnement à plus large échelle mais aussi la comptabilité de son projet avec l’histoire du site et les ambitions de l’opération globale d’aménagement prévue à terme.
 
 -> ancrage locale par @Valonlisbeth
 - [x] Communa
@@ -32,6 +33,33 @@ Même plan mais avec les :
 - [x] Artisan 2.0
 - [x] On est déjà présent dans le quartier (prems!)
 - [x] Nos membres habitent dans les 15min à pied
+
+Openfab est installé dans le quartier d’Ixelles, sur l'avenue de la Couronne, au n°274.  
+L'atelier est à 5 min à pied du site des casernes depuis maintenant 3 ans.  
+Durant cette période, une forte communauté s’est développée autour de cet espace. La plupart des membres vivent dans un rayon de 1.5 km, rayon qui s'étend du parlement EU jusqu'au cimetière d'XL.  
+
+![max 15 min à pied](https://user-images.githubusercontent.com/12049360/42125583-3367b484-7c7a-11e8-88f0-dbc5f07b2ed1.jpg)
+
+
+En étant impliqué dans des activités locales comme "XL en transition" ou encore le "contrat de quartier durable du Maelbeek" encadré par la commune d'Ixelles et facilité par "GroupeOne"  
+Openfab a développé des liens avec les différents acteurs locaux du quartier.   
+Soit par un échange de services ou consultances,    
+soit par un soutien technique et logistique,  
+soit encore au travers du contrat de quartier avec le projet "Artisans2.0", visant à stimuler l’innovation par le croisement des pratiques artisanales et des technologies numériques.
+
+Parmi ces acteurs, il est possible de citer
+- **Civic Innovation Network** (la Serre); a Brussels-based lab facilitating the co-creation of impact joint ventures and developing systemic tools for urban resilience.
+- **Refresh** (rue du sceptre); un projet social tourné vers la convivialité et le développement durable, une équipe de personnes passionnées par la nature, la bonne bouffe et le vivre ensemble!
+- **Communa** (rue gray); un émulateur majeur des initiatives locales dans des espaces inoccupés à Bruxelles. Gère le lieu "La Serre" dans la rue Gray.
+- **Make it sound** (la Serre); un fablab sonore au service des acteurs culturels bruxellois, animé par une communauté ouverte rassemblant différents collectifs, associations, artistes, makers ou passionnés. Ils ont démarrés comme guilde au sein d'Openfab, ils occupent maintenant un espace à la Serre, gérée par Communa.
+- **L'Oustaou** (la Serre); propose des repas et des activités avec deux objectifs. Vous invitez à effectuer une pause par rapport au rythme de la ville et à vous informer des enjeux, des possibilités et avantages d’une consommation plus durable.
+- **Tournevie** (rue gray); une asbl proposant un service de prêt d'outils, tout comme une bibliothèque prête des livres.
+
+ Artisan 2.0 vise à stimuler l’innovation par le croisement des pratiques artisanales et les technologies numériques. Ce projet a permis de répertorier les différents artisans du quartier et de les mettre en contact. À la fin du projet, un hackaton a été organisé avec une restitution à "la Serre" et également une exposition à la Galerie Ravenstein.   
+
+
+ L’ancrage local d’Openfab est certain et n'est plus à faire. Cet atout renforce notre décision d’occuper le site des casernes.  
+ La connaissance du quartier, de sa population, de ses besoins et la forte communauté que Openfab va drainer sur le site, favoriseront l’activation du lieu, son rayonnement plus rapidement et va permettre de continuer le développement de nos activités communes. win pour l'usager, win pour Openfab, win pour les partenaires.
 
 -> rayonnement plus large échelle  par @Valonlisbeth
 - [x] Vulca
