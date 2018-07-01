@@ -98,10 +98,16 @@ Nicolas, représentant la Belgique
 Ce projet est supporté par la **Commission Européenne**, la **FabFoundation**, le réseau Fablab Benelux, le réseau des fablabs Français (RFFLabs) et déjà plus de **250 fablabs** qui ont été visité en Europe à ce jour.  
 
 #### Certification des compétences.
-Dans le cadre de son projet de valorisation des acquis liés aux pratiques numériques au sein de Openfab depuis 1 an, se développe le projet du Passeport Technologique (« Pass Tech »). Ce projet a pour objectif d’encourager la transmission et la validation des compétences technologiques à Bruxelles et en Europe (via le programme Vulca notamment). La mise en place de formations qualifiantes et d’un système de passeport technologique permettra de faire de Bruxelles un phare pour la professionnalisation des métiers dans le domaine des technologies.
-Enfin,  OpenFab fait partie du réseau international de la Fab Fondation qui liée au MIT (Massachusetts Institut of Technology).
+
+> mettre l'accent sur la médiation et le processus social d'appropriation des technologies.
+C'est plus que des puces rfid et un système électronique   
+
+Dans le cadre de son projet de valorisation des acquis liés aux pratiques numériques au sein de Openfab depuis 1 an, se développe le projet du Passeport Technologique (« Pass Tech »).  
+Ce projet a pour objectif d’encourager la transmission et la validation des compétences technologiques à Bruxelles et en Europe (via le programme Vulca notamment).   
+La mise en place de formations qualifiantes et d’un système de passeport technologique permettra de faire de Bruxelles un phare pour la professionnalisation des métiers dans le domaine des technologies.  
 
 
+#### ambition
 
 >>
 -> ambition de usquare.brussels  par @Valonlisbeth
@@ -109,10 +115,25 @@ Enfin,  OpenFab fait partie du réseau international de la Fab Fondation qui li�
 - [x] Mutualisation des machines à l'échelle de quartier
 - [x] Espace pour les entrepreneurs qu'ils puissent prototyper et se professionnaliser / se rassembler
 
+
+
+> Dans quelle mesure à travers les lieux de médiation, sommes-nous des agents de promotion de ces objets techniques et méthodes ? De façon presque involontaire, nous sommes des facteurs de validation de ces progrès techniques, et ce malgré une posture critique. A travers les arts numériques notamment, nous sommes amenés à utiliser les « dernières technologies » et à en faire ainsi la promotion.  
+https://medium.com/@julbel/lieux-trans-num%C3%A9riques-entre-pratiques-populaires-et-r%C3%A9-appropriation-des-technologies-ec375c90532b
+
+Fort de toutes ces connexions avec le reste de l’Europe et du monde, l’Openfab dispose d’une place de choix dans la valorisation du site au niveau internationale.
+OpenFab a comme cité plus haut, une expérience de gestion de projets locaux et internationaux. OpenFab entend bien continuer sur cette lancée et développer encore plus son réseau et ses activités sur le site des casernes.  
+Cette dynamique rentre parfaitement dans les objectifs du projet du SAU.
+OpenFab par son ancienneté dans le quartier, sa communauté locale et les projets menés dans la zone, porte en son sein les prérequis pour répondre à l’objectif d’un ancrage et une animation du site.  
+Un lien certain pourra se mettre en place avec les habitants et le projet OpenFab, par entre autre une mutualisation des machines à l’échelle du quartier. Cet espace permettra aux entrepreneurs et aux individus de pouvoir prototyper, se professionnaliser et de se rassembler.
+OpenFab de par son réseau national et international, promeut une ouverture et un rayonnement du site à l’échelle internationale de ce nouveau quartier. OpenFab avec son expérience et celles de ses membres, pourra proposer un accompagnement de qualité du projet des casernes, tout en aidant à lui donner une identité propre au quartier qui l’entoure.
+
+
 ---
 
 ![image](https://user-images.githubusercontent.com/25099826/41980715-71e716fa-7a27-11e8-8ab4-7871208d0375.png)
 - [ ] Assurance, faire un point avec notre assureur
+
+
 - [ ] Pas d'autre besoin administratif  ?(siège social, CA, AG)
 - [ ] Moyen propre pour le déménagement et installation + aménagement
 - [ ] Faisabilité technique = voir le lieu d'abord (surtout attention au branchement électrique). Pour le plus 6 mois on a pas besoin d'aménagement lourd particulier.
