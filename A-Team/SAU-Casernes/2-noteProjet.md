@@ -3,11 +3,35 @@
 ![image](https://user-images.githubusercontent.com/25099826/41979835-4647da2c-7a25-11e8-85ac-2f7d3996a5f7.png)
 
 - [ ] La nature de l'occupation d'OpenFab dans ce lieu = de quoi on a besoin et comment (environ 150m²?)
-- [ ] Le public-cible d'OF d'ajd et celui qu'on veut aussi toucher
+
+> OpenFab occupera le site des Casernes sous forme d'un atelier de production et d'exploration pour ses membres (environ 150m²).
+>
+> Ainsi que l'organisation d'ateliers, workshops, résidences, et  conférences dans le local d'OpenFab ou dans un lieu commun en collaboration avec le coordinateur dynamique et les autres projets présents sur le site des Casernes.
+
+- [ ] Le public-cible d'OF d'ajd et celui qu'on veut aussi toucher.
+
+> OpenFab a aujourd'hui une communauté forte et largement présente dans le quartie de la Couronne et plus largement en RBC.
+>
+> OpenFab atire des personnes aux multiples talents avec des aspirations entrepreneuriales. Dans une mixité et parité exemplaire et une bienveillance trans-générationnelle.
+>
+> Aujourd'hui OpenFab aimerait offrir un lieu de rassemblemement plus important pour un public de nouveaux entrepreneurs en design digitale, numérique et transdisciplinaires.
+
+
 - [ ] Programme : organisation et fréquence des events/ateliers/workshop (bricole & Picole, brain candy)
+
+> Deux formats d'événements phares rythment les semaines d'OpenFab. Un mélange de conférences et de fabrication.
+> - Bricole&Picole où un créateur vient présenter et partager les bases techniques de son concept (conférence interactive + workshop informel qui permet aux porteurs de projet de trouver des complémentarités et partenariats)
+> - Brain Candy où les membres partagent leurs recherches sous formes de vidéos tout en partageant un repas et des pistes d'explorations techniques (qui mènent à des tests en design et des collaborations transdisciplinaires.)
+
 - [ ] Durée de l'occupation
+
+> OpenFab peut occuper le site tout au long des travaux.
+
 - [ ] Financement
 
+> OpenFab étant un projet de l'ASBL Syntonie, la financement des frais de fonctionnement est couvert par les frais d'adhésions et le coût de l'utilisation des machines de production.
+>
+> Les appels à projet européen et régionnaux permettent d'investir dans de nouvelles machines et de rémunerer les auto-entrepreneurs participant au projet OpenFab.
 ---
 
 ![image](https://user-images.githubusercontent.com/25099826/41979992-ad7ee0d2-7a25-11e8-9480-ca924c6a74bc.png)
