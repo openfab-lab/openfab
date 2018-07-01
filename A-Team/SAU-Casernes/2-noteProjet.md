@@ -3,25 +3,11 @@
 ![image](https://user-images.githubusercontent.com/25099826/41979835-4647da2c-7a25-11e8-85ac-2f7d3996a5f7.png)
 
 - [ ] La nature de l'occupation d'OpenFab dans ce lieu = de quoi on a besoin et comment (environ 150m²?)
-<<<<<<< HEAD
+
 200m² technique, + 300m² pour un espace d'assemblage. Lionel propose une location d'espace de 25m² pour les membres qui bossent sur un projet ponctuel, sécurité et pas besoin de tout ranger tout les jours.
-- [ ] Le public-cible d'OF d'ajd et celui qu'on veut aussi toucher
-- [ ] Programme : organisation et fréquence des events/ateliers/workshop (bricole & Picole, brain candy)
-1/mois, en alternance?  
-  + **Braincandy**, reprend un thème et une playlist de base de vidéo. Le résultat est une forme de brainstorming pour sonder une thématique.  
-  - **B&P** dépend de présentation de projet avec un planning de travail où les gens peuvent se joindre.   
-  - **Lancer dédé**. Faut mettre en place cette soirée plus ludique. Navid voulais proposer une sélection de jeux de société. Et aussi tester ce qu'il développe comme énigme d'escape room portable.
-  - On peut ressortir des cartons, le **ket'shop** du mercredi après midi. On doit faire des acceuils en fablab pour les jeunes (fabmob)  
-  - \+ les **FlopCamp** pour les ados lors des vacances.   
-  - David D. (USA) un membre, ex-prof d'unif aux US, aimerai depuis longtps activer un aspect workshop pour les jeunes, en anglais.
 
-- [ ] Durée de l'occupation  
 
-Jusqu'à la prochaine opportunité de s'agrandir (ou pas).
 
-- [ ] Financement  
-2€ et 150crrr
-=======
 
 > OpenFab occupera le site des Casernes sous forme d'un atelier de production et d'exploration pour ses membres (environ 150m²).
 >
@@ -41,6 +27,15 @@ Jusqu'à la prochaine opportunité de s'agrandir (ou pas).
 > Deux formats d'événements phares rythment les semaines d'OpenFab. Un mélange de conférences et de fabrication.
 > - Bricole&Picole où un créateur vient présenter et partager les bases techniques de son concept (conférence interactive + workshop informel qui permet aux porteurs de projet de trouver des complémentarités et partenariats)
 > - Brain Candy où les membres partagent leurs recherches sous formes de vidéos tout en partageant un repas et des pistes d'explorations techniques (qui mènent à des tests en design et des collaborations transdisciplinaires.)
+
++ **Braincandy**, reprend un thème et une playlist de base de vidéo. Le résultat est une forme de brainstorming pour sonder une thématique.  
+- **B&P** dépend de présentation de projet avec un planning de travail où les gens peuvent se joindre.   
+- **Lancer dédé**. Faut mettre en place cette soirée plus ludique. Navid voulais proposer une sélection de jeux de société. Et aussi tester ce qu'il développe comme énigme d'escape room portable.
+- On peut ressortir des cartons, le **ket'shop** du mercredi après midi. On doit faire des acceuils en fablab pour les jeunes (fabmob)  
+- \+ les **FlopCamp** pour les ados lors des vacances.   
+- David D. (USA) un membre, ex-prof d'unif aux US, aimerai depuis longtps activer un aspect workshop pour les jeunes, en anglais.
+
+
 
 - [ ] Durée de l'occupation
 
