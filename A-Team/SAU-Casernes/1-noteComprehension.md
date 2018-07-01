@@ -16,6 +16,9 @@ En occupant une partie du site des Casernes, OpenFab s'engage à activer, gérer
 - Utilisation des sous-capacités des machines numériques et non numériques accessibles à la production via la mutualisation.
 - Documentation précise des procédés, méthodologies, apprentissages et validation des acquis.
 
+
+OpenFab s’ancre dans la réalisation concrète de prototypes diverses et mets à disposition les outils à la fois “soft” ( gestion de projets innovatrice, gouvernance partagée) et les outils et machines ‘hard” (imprimante 3D, CNC, machines de production “bois”, outillage, travail textile, etc).
+
 ### Une communauté active et professionnelle
 
 Depuis plus de 7 ans, OpenFab développe une communauté soudée pour favoriser la collaboration entre professionnels et passionnés. Des projets transdisciplinaires qui fructifient en workshop, success story, et productions locales.
@@ -23,5 +26,6 @@ Depuis plus de 7 ans, OpenFab développe une communauté soudée pour favoriser 
 En effet, OpenFab est un groupe de makers, entrepreneurs et passionnés qui explorent de nouvelles façons de faire (social, économique, behavior design).
 
 Une communauté d’entrepreneurs voulant s’ouvrir, partager leurs connaissances et améliorer le cadre de vie de leurs clients et voisins. Pour arriver à ce but, les membres d'OpenFab recherchent la collaboration et la transmission de savoirs tout en s'appropriant les outils et la méthodologie de l'usinage.
+
 
 Un exemple fort pour les étudiants en recherche d’un modèle d’économie solidaire et durable.
