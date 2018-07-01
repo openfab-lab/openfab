@@ -3,10 +3,23 @@
 ![image](https://user-images.githubusercontent.com/25099826/41979835-4647da2c-7a25-11e8-85ac-2f7d3996a5f7.png)
 
 - [ ] La nature de l'occupation d'OpenFab dans ce lieu = de quoi on a besoin et comment (environ 150m²?)
+200m² technique, + 300m² pour un espace d'assemblage. Lionel propose une location d'espace de 25m² pour les membres qui bossent sur un projet ponctuel, sécurité et pas besoin de tout ranger tout les jours.
 - [ ] Le public-cible d'OF d'ajd et celui qu'on veut aussi toucher
 - [ ] Programme : organisation et fréquence des events/ateliers/workshop (bricole & Picole, brain candy)
-- [ ] Durée de l'occupation
-- [ ] Financement
+1/mois, en alternance?  
+  + **Braincandy**, reprend un thème et une playlist de base de vidéo. Le résultat est une forme de brainstorming pour sonder une thématique.  
+  - **B&P** dépend de présentation de projet avec un planning de travail où les gens peuvent se joindre.   
+  - **Lancer dédé**. Faut mettre en place cette soirée plus ludique. Navid voulais proposer une sélection de jeux de société. Et aussi tester ce qu'il développe comme énigme d'escape room portable.
+  - On peut ressortir des cartons, le **ket'shop** du mercredi après midi. On doit faire des acceuils en fablab pour les jeunes (fabmob)  
+  - \+ les **FlopCamp** pour les ados lors des vacances.   
+  - David D. (USA) un membre, ex-prof d'unif aux US, aimerai depuis longtps activer un aspect workshop pour les jeunes, en anglais.
+
+- [ ] Durée de l'occupation  
+
+Jusqu'à la prochaine opportunité de s'agrandir (ou pas).
+
+- [ ] Financement  
+2€ et 150crrr
 
 ---
 
@@ -131,17 +144,24 @@ OpenFab de par son réseau national et international, promeut une ouverture et u
 ---
 
 ![image](https://user-images.githubusercontent.com/25099826/41980715-71e716fa-7a27-11e8-8ab4-7871208d0375.png)
-- [ ] Assurance, faire un point avec notre assureur
+- [x] Assurance, faire un point avec notre assureur
+Oui, on est assuré pour le batiment et une RC asbl.
+Faudra adapter l'assurance une fois sur place, ça dépend du lieu et des activités. Sert à rien de se précipité aujourd'hui.  
 
 
 - [ ] Pas d'autre besoin administratif  ?(siège social, CA, AG)
-- [ ] Moyen propre pour le déménagement et installation + aménagement
-- [ ] Faisabilité technique = voir le lieu d'abord (surtout attention au branchement électrique). Pour le plus 6 mois on a pas besoin d'aménagement lourd particulier.
+- [x] Moyen propre pour le déménagement et installation + aménagement
+C'est à 450m, dans la même rue, on a un chariot et une communauté de bras.    
+On peut louer une cammionette chez Brico Auderghem. C'est gratuit pour 2h quand on a la carte Brico. 50€/an. Caution de 250€.   
+Tout dépend ce qu'il faut pour l'aménagement, mais on a juste besoin de prise électrique 220V (sauf peut-être pour le bois), on peut donc s'en charger.
+
+- [ ] Faisabilité technique = voir le lieu d'abord (surtout attention au branchement électrique). Pour le plus 6 mois, on a pas besoin d'aménagement lourd particulier.
 
 ---
 
 ![image](https://user-images.githubusercontent.com/25099826/41980897-ec84847e-7a27-11e8-9e87-6fd88c226027.png)
 - [ ] Timeline planning à faire en fonction de notre bail
+à vérifier mais le futur proprio devra suivre le bail en place, mais c'est un bail d'un an. Je pense jusque décembre.
 - [ ] Un mois d'aménagement
 - [ ] Début d'activité en décembre
 - [ ] Présent pour toute la période transitoire, à rediscuter avec le coordinateur dynamique.
