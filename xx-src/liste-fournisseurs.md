@@ -19,7 +19,7 @@ Ils sont sympa. La qualité du bois varie, c'est pas mal mais pas top.
 Côté Pont VanPraat.
 Pas encore commandé chez eux. Demande d'info par tel ou par formulaire. **pas encore de mail**
 
-**Nordic:** http://nordichouthandel.be/  
+**Nordic:** http://houthandelnordic.be/
 02/ 216 81 03   
 Un membre y a acheté un triplex 3mm qui fonctionne bien à la découpe laser. Il pensait au bois d'érable mais ils disent ne pas avoir ça de stock. Il faudrait demander des échantillons pour valider quel essence de bois.
 
