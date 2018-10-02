@@ -2,20 +2,62 @@
 
 Channel Slack: https://openfablab.slack.com/archives/youtube-evenings  
 
-### General Concept: 
+### General Concept:
 
-JUST DO IT would Shia Le Boeuf say, So we do! 
-A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, It's Okay To Be Smart, WiseCracks, Numberfile, thebrainscoop. 
-You bring snacks and or beer and come with your ideas. 
-Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
+JUST DO IT would Shia Le Boeuf say, So we do!
+A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, It's Okay To Be Smart, WiseCracks, Numberfile, thebrainscoop.
+You bring snacks and or beer and come with your ideas.
+Videos are between 5 and 15 minutes, we like intermezzo's and discussions.
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
+
+## 1 Octobre 2018, @OpenFab
+facebook : https://www.facebook.com/groups/openfablab.brussels/
+no event, it was a very discreet post. ^^
+
+#### Playlist, la motivation, l'argent et la confiance
+I know we can be better at what we do but why it's so difficult to start to make stuff? to change our habits? How to help motivation?
+
+Apero!  
+[How One Punch Man Turned Bad Storytelling into a Masterpiece](https://youtu.be/nkNHjpbNTtY)  
+[How Much Information?](https://youtu.be/zUDqI9PJpc8)  
+[The Science of Awkwardness](https://youtu.be/o268qbb_0BM)    
+et nouvelle chaine qui a l'air trop super.  
+https://www.youtube.com/user/obscuresorrows
+
+1. [Inertia, the natural tendency of an object to resist change](https://www.youtube.com/watch?v=YbWjx3LUc0U) 2:09  
+Motivation?  
+1. [combattre sa FLEMME](https://youtu.be/g38vUu1lg7s) 4:42
+1. [The Power of Motivation: Crash Course Psychology #17](https://youtu.be/9hdSLiHaJz8) 11:19
+1. [Intrinsic vs Extrinsic - Designing Good Rewards in Games](https://youtu.be/h86g-XgUCA8?t=48s) 5:47  
+Money?
+1. [The Old Man Story: How Extrinsic Rewards Kill Internal Motivation](https://youtu.be/BIQuBawUGVQ) 4:44
+1. [Les Youtubeurs et leurs problèmes psychologiques - DBY #47](https://youtu.be/6k1J_h4OxQg) 17:00  
+Gift economy?  
+1. [Sacred Economics with Charles Eisenstein](https://youtu.be/EEZkQv25uEs) 12:08
+1. [Banking Explained – Money and Credit](https://youtu.be/fTTGALaRZoc) 6:09  
+Design of a bad currency?  
+1. [Designing Virtual Currency by Breaking (Almost) Every Rule in the Economics Textbook](https://www.slideshare.net/vlehdonv/designing-virtual-currency-lehdonvirta-gdc-2012)  
+Value?  
+1. [The paradox of value - Akshita Agarwal](https://youtu.be/e7S8jWh6AEs) 3:45  
+1. [What is a gift economy? - Alex Gendler](https://youtu.be/EaxjxICgahc) 4:05
+1. [Adam Ruins Everything - Why Gift Giving Makes No Economic Sense](https://youtu.be/6sEkeEFH7uw) 2:20    
+Trust?
+1. [The evolution of trust](https://youtu.be/6xqPKUx1WOI) 13:35  
+Behavioral Economics and Human centered design.
+1. [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober ](https://youtu.be/9vJRopau0g0) 15:08
+1. [Yu-Kai Chou: Gamification](https://youtu.be/5miFsgSWWEw) 9:38
+1. [Game Anatomy - Comment Fortnite vous fait payer pour un jeu gratuit ?](https://youtu.be/_YnncJ8NTvA) 9:28  
+1. [Metrics - The Danger of Data-Driven Game Design](https://youtu.be/nqGcXOksFGg) 5:09  
+Bonus pour rigoler un peu
+1. [DÉBARRASSEZ-VOUS DES POILS DE CHATS - Copain du web #3](https://youtu.be/8_SZScAyVRE) 6:15
+
 
 ## 31 Mars 2018, l'espace @OpenFab
 
 On a commencé par rigoler un peu.
 - [Le Mugu - parodie mozinor 2011](https://www.youtube.com/watch?v=tMwJ2IqBFJs) 9:28  
 Et puis Sarah nous a dit qu'il y avait une vrai série sur le sujet en Côte d'Ivoir:  
-- [Les Brouteurs](https://www.youtube.com/watch?v=cw_4hE_iVd0) 
+- [Les Brouteurs](https://www.youtube.com/watch?v=cw_4hE_iVd0)
 
 Donc, l'espace, en discutant on m'avait demandé, étonné "c'est pas un fake l'ISS? Comme pour la Lune tout ça?"
 - [3 CHOSES QUI PROUVENT QUE L'ISS EST UN FAKE ?](https://www.youtube.com/watch?v=5qus7xi_wD4) 10:58
@@ -80,7 +122,7 @@ Dessert
 ## 25 Mai 2017 @Openfab
 meetup:  
 facebook:  
- 
+
 **Playlist:**
 
 En apéro, quelques Simone Giertz... tout le monde connait, je mets pas de lien....    
@@ -100,7 +142,7 @@ En apéro, quelques Simone Giertz... tout le monde connait, je mets pas de lien.
 
 
 
- 
+
 ## 24 Mars 2017 @HuisVDH
 
 meetup: https://www.meetup.com/FabCity/events/237831796/    
@@ -164,4 +206,3 @@ Les apports extérieurs:
 
 
 Et [générique de fin](https://youtu.be/5-sfG8BV8wU) 2:16
-
