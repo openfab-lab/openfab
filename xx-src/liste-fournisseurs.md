@@ -105,6 +105,13 @@ https://www.sigma-signalisation.com/polypropylene-alveolaire-lisse/13701-polypro
 - aludan 
 - autres?
 
+## Mèches CNC
+**Garnotec**  
+https://www.garnotec.be/home  
+
+**Dehaye**  
+https://www.dehaye.be/  
+
 ## Visseries
 **FinNvis** (FR) https://www.visseriefixations.fr/
 vente en ligne, bcp de choix et surtout un des seuls où je trouve facilement ce qu'il me faut en dessous de M4
