@@ -112,6 +112,9 @@ https://www.garnotec.be/home
 **Dehaye**  
 https://www.dehaye.be/  
 
+**CNC Fraises**
+https://www.cncfraises.fr/
+
 ## Visseries
 **FinNvis** (FR) https://www.visseriefixations.fr/
 vente en ligne, bcp de choix et surtout un des seuls où je trouve facilement ce qu'il me faut en dessous de M4
@@ -146,6 +149,22 @@ Germany
 1050 Bruxelles  
 +32.2.643.36.66  
 Pas très grand mais il offre un service de commande/dépôt.
+
+**Mouser**
+https://www.mouser.be/
+
+**RS Components**
+https://befr.rs-online.com/web/
+
+**Farnell**
+https://be.farnell.com/fr-BE
+
+**GoTronic**
+https://www.gotronic.fr/
+
+**batterfly**
+Matériel de mesure
+http://batterfly.com/
 
 ## Textile
 **Berger :** http://tissusameublementbruxelles.be/fr  
