@@ -59,6 +59,12 @@ Encore aucun contact.
 **Watteau:** http://www.watteau.be/  
 1080 Molenbeek et 1070 Anderlecht  
 J'en ai entendu du bien.
+ 
+**Moens vakhandel** http://www.moensvakhandel.be/  
+02/ 759 59 22  
+1930 Nossegem (zaventem)  
+Selon David D., c'est facile pour demander différents bois, en taille et épaisseur, ils ajustent sur place, même en petite quantité.
+
 
 **Carlier Bois:** http://www.carlier.be/  
 081/ 250 330
@@ -72,20 +78,7 @@ Walhain, E411, sortie n° 10
 
 **Biemar bois:** http://www.biemar.be/index.php/panneaux-67151/panneaux-multiplex-4986  
 à Soumagne ou à Malmedy
- 
-### voici la liste des emails pour une demande de devis rapide chez tout le monde:
 
-BXL:  
-info@gedebois.be;
-nordic.wood@belgacom.net;
-info@lochten.be;
-info@gesibois.be;
-info@exobois.be;
-info@watteau.be;
-Hors BXL:  
-info@lagae.be;
-info@carlier.be;
-soumagne@biemar.be;
 
 ## Plastique
 
