@@ -1,28 +1,36 @@
 # Les guildes - WTF
 ## Context
-On peut observer qu'aujourd'hui des thématiques reviennent plus que d'autres au sein d'openfab et du buro274. 
-- Design textile que j'associerai avec le pliage. (il manque un nom commun)  
-Dewi et Anne-sophie travaille sur une création commune et prépare l'expo pour design september.  
-En plus d'allimenter la thématique de l'appel à projet "Artisan2.0" via Contrat de Quartier Maelbeek.
+On peut observer qu'aujourd'hui des thématiques reviennent plus que d'autres au sein d'openfab et du buro274.
+
+- Design textile que j'associerai avec le pliage. ("textileLab")  
+Dewi et Anne-sophie travaillent ont soulever le besoin d'un espace commun dédié au textile, serigraphie, tissage, pliage, graphisme.  
+Réflexion en cours et accompagnée par une bourse.
+
 - Sono mobile avec La Jacqueline.  
 Jean-Louis (Loois) porte ce projet autour de la musique et de la mobilité.  
-(à compléter)
-- Velo cargo opensource avec Velom2. 
-Yannick (sofrevolter) co-porte le projet de création de module standard transportable à vélo cargo. Le tout bien sur, développé en Opensource.  
-(à compléter)
-- communication gsm.  
-Arnaud et un petit groupe se réunissent autour de la fabrication d'un gsm opensource en kit.   
-(à compléter)
+> ce projet est sorti d'Openfab par manque de place et à donné naissance à "make it sound" localisé à la Serre, rue Gray.  
+
+- Velo cargo opensource avec Velom2, représentée par Milena s.
+Initialement un projet de création de module standard transportable à vélo cargo. Accompagnée de la volonter de sensibiliser sur la mobilité et sur les solutions alternatives de production électrique. Le tout bien sur, développé en Opensource. Partenaire du projet Fablab Mobile.    
+
+- Le fablab dématérialisé de Besproutlab, représentée par Sarah V.
+Participe à certains projets comme le fablab mobile et à la gestion d'actions communes.  
+
 
 Les besoins communs qui en ressortent sont la mutualisation :
 - d'un lieu de prototypage, de réunion (+- 1 à 4j par mois)
-- d'outils spécifique, 
+- d'outils spécifique,
 - d'un accès à plus de "know-how"/skills via la communauté,
-- et potentiellement d'un lieu de stockage. 
+- de bénéficier d'une visibilité supplémentaire grâce au groupe,
+- et d'un cadre ou un soutien structurel et/ou administratif. 
 
 
 ## Objectif
+La création au sein de l'asbl, d'un cadre adapté à des sous-groupes ou entitées qui partagent nos valeurs.  
+Plus que la mutualision d'un lieu et des outils physiques, il y a un besoin de mutualiser la structure légale.
 
+
+source:
 ```
 From dictionnary.com   (http://www.dictionary.com/browse/guilds)
 (noun)
@@ -36,37 +44,33 @@ local governing body.
 ```
 From WOW Wiki  (http://wowwiki.wikia.com/wiki/Guild)
 A guild is typically an in-game association of player characters. Guilds are formed to make  
-grouping and raiding easier and more rewarding, as well as to form a social atmosphere in 
-which to enjoy the game. Banking guilds are also used by many individual players as a way 
+grouping and raiding easier and more rewarding, as well as to form a social atmosphere in
+which to enjoy the game. Banking guilds are also used by many individual players as a way
 to increase the rather limited bank storage space available in the game.
 ```
 
-Créer un cadre qui favorise la création de sous-groupes autour d'un intérêt commun, au sein de l'asbl. 
-(à compléter)
-
 ## Proposition
-- tarif spécifique pour la guilde *(le groupe vs x personnes? à compléter)* 
-55€/mois (domiciliation jusqu'à résiliation)  
-l'usage des machines restent au tarif normal (en € ou Crrr)
-  - les membres User ont accès gratuitement aux activités de la Guilde, càd que le coût de 10€ d'entrée n'est pas appliqué.
-  - les membres superUser, pas de changement, l'accès est tjs gratuit mais profite en plus des rewards "Guildes"
-- minimum un responsable par guilde
-  - le responsable doit être au minimum niveau **superUser**
-  - les autres doivent être au minimum membre **User** de l'asbl *(désavantage: pas de passeport maker = aucune valorisation des compétences acquisent lors des projets de guilde.)*
-  
-  ![pasdpalais](http://www.lesfillesabuzzent.com/assets/img/2015/04/pasdepalais.gif)
-  
-- le responsable (aka **guild master**) se charge de guider les nouveaux et s'assure que tout le monde est en ordre pour participer aux activités interne 
-- une guilde a accès au local via son guild master qui recevra une clé et le code d'accès. En tant que superUser, il devra obtenir son [badge buro274](https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-buro274.md) *(- à compléter)*
+- Tout les usagers du lab doivent être au minimum membre **niveau1** de l'asbl et son en ordre de cotisation (25€/an)
+- Un responsable par guilde
+  - le responsable doit être au minimum de **niveau3**
+- tarif spécifique pour la guilde   
+  - 45€/mois (domiciliation jusqu'à résiliation)  
+  - l'usage des machines restent au tarif normal (en € ou Crrr)  
+  - tous les membres de la guilde bénéficient des avantages d'accès lié aux membres de niveau3
+
+
+- le ou la **guild master** est responsable de guider ses membres et s'assure que le règlement d'ordre intérieur est respecté.
+- une guilde a accès au local via son guild master qui recevra une clé et le code d'accès.
+
 
 
 ## Rewards
 - Offre une structure légale mutualisée pour des activités de groupes. (utile par exemple pour répondre à des appels à projet, facturer à des clients ou même accéder à des fournisseurs qui ne vendent que via n° de TVA, ...)
-- Une communication plus claire par guilde et donc par thème. Les canaux de com sont mutualisés et/ou croisés, plus de visibilité. Le contenu est créé par l'activité de la guilde. 
+- Une communication plus claire par guilde et donc par thème. Les canaux de com sont mutualisés et/ou croisés, plus de visibilité. Le contenu est créé par l'activité de la guilde.
 - Mutualisation des ressources
 - Activer l'implication des membres au travers de thème et missions/défis de groupe.
 - Participation aux décisions de l'asbl, représentation des guildes au sein du CA.
-(à compléter)
+(à définir)
 
 
 ![image](https://user-images.githubusercontent.com/12049360/28877891-0b742188-779e-11e7-9cde-08415c04478d.png)
