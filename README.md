@@ -73,8 +73,6 @@ Maker
 - [Jacqueline](https://github.com/openfab-lab/openfab/projects/10): Project launched by members of the community. The goal is to create a mobile sound system.
 - [Aquaponics](https://github.com/openfab-lab/openfab/projects/5): More information soon. Project starting in septembrer 2017.
 
-Call for projects
-- [Chic 2.0](https://github.com/openfab-lab/chic2.0): European project. CHIC has the desire to create bridges between the fields of design, applied arts, digital, popular education and social and solidarity economy.
 
 ## Member journey
 
