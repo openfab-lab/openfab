@@ -4,8 +4,8 @@
 
 ## Inscription membre adhérent n°: .....
 ```
-*à compléter en lettres capitale,* 
-*please and thank you.*
+*à compléter en lettres capitales* 
+*please and thank you*
 ```
 - [ ] **Nom et Prénom :**
 - [ ] **+18? Age et genre :** 
