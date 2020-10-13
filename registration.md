@@ -1,8 +1,8 @@
 # Syntonie asbl
-#### Art. 03 // notre mission
+>**Notre mission**  
 >Promouvoir la relation étroite et la communication qui existent entre l'environnement naturel, l'humain et les nouvelles technologies par tous les moyens disponibles.
-- [ ] **numéro d'inscription :** 
-## Inscription nouveau membre adhérent
+
+## Inscription membre adhérent n°: .....
 *à compléter en lettres capitale, 
 please and thank you.*
 - [ ] **Nom et Prénom :**
