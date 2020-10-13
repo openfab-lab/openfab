@@ -3,8 +3,10 @@
 >Promouvoir la relation étroite et la communication qui existent entre l'environnement naturel, l'humain et les nouvelles technologies par tous les moyens disponibles.
 
 ## Inscription membre adhérent n°: .....
-*à compléter en lettres capitale, 
-please and thank you.*
+```
+*à compléter en lettres capitale,* 
+*please and thank you.*
+```
 - [ ] **Nom et Prénom :**
 - [ ] **+18? Age et genre :** 
 - [ ] **Adresse email :**
