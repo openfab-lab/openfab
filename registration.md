@@ -26,7 +26,7 @@ Par la présente inscription,
 Je reconnais à l'association le droit de m'exclure de l’enceinte de ses locaux et de la participation à ses activités en cas de non production de cette assurance ***[Qui casse, répare!]***
 
 4. En t'inscrivant à notre association, tu nous donne **le droit de conserver tes données et de les utiliser pour te contacter**. 
-Nous ne les transmetterons JAMAIS à des tiers, nous non plus on n'aime pas les spams. ***[GRPD]***
+Nous ne les transmetterons JAMAIS à des tiers, nous non plus on n'aime pas les spams. ***[RGPD]***
 
 
 Fait à …………………....... , Le .... / .... / ........ .
