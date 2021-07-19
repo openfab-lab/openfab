@@ -10,6 +10,25 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions.
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
+
+
+## 18 Juillet 2021, Water Crisis @Buinho - Castro Verde (PT)
+
+-Special- fro the workshop "gota de agua" Erasmus+ workshop. 
+
+1. [We Still Don’t Understand What Water Is, Here’s Why](https://www.youtube.com/watch?v=QpVyLvvfIDY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=1) 4:37  
+2. [Explained | World's Water Crisis | FULL EPISODE | Netflix](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=2) 18:43  
+3. [Farming With Salty Water Is Possible](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=3) 2:11  
+4. [What would happen if you didn’t drink water? - Mia Nacamulli
+](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=4) 4:52  
+5. [When is water safe to drink? - Mia Nacamulli](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=5) 5:24  
+6. [Warka Water towers harvest drinkable water from the air](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=6) 2:44  
+
+
+The goal was to introduce awareness about the shortage of freshwater, how the body react to water, the challenge of managing drinkable water, and how we should value and respect this freshwater that we take for granted. 
+
+
+
 ## 1 Octobre 2018, @OpenFab
 facebook : https://www.facebook.com/groups/openfablab.brussels/
 no event, it was a very discreet post. ^^
