@@ -14,7 +14,7 @@ You can host the night, just be part of the slack, github or Meetup and give us 
 
 ## 18 Juillet 2021, Water Crisis @Buinho - Castro Verde (PT)
 
--Special- fro the workshop "gota de agua" Erasmus+ workshop. 
+-Special- for the workshop "gota de agua" Erasmus+ workshop. 
 
 1. [We Still Don’t Understand What Water Is, Here’s Why](https://www.youtube.com/watch?v=QpVyLvvfIDY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=1) 4:37  
 2. [Explained | World's Water Crisis | FULL EPISODE | Netflix](https://www.youtube.com/watch?v=C65iqOSCZOY&list=PL6awGP_iWvXAtTphjNs6o1d_wRTj5tfbI&index=2) 18:43  
