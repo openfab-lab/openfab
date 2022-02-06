@@ -4,9 +4,9 @@ Channel Slack: https://openfablab.slack.com/archives/youtube-evenings
 
 ### General Concept:
 
-JUST DO IT would Shia Le Boeuf say, So we do!
-A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, It's Okay To Be Smart, WiseCracks, Numberfile, thebrainscoop.
-You bring snacks and or beer and come with your ideas.
+JUST DO IT as Shia La Boeuf would say, So we are doing it!
+A Night for makers with videos from makers from the place where we all go when we don't understand how to make something: Youtube. Once a month, we will have set up a screen, a chromecast and a playlist full of great channels like VSAUCE, dirtybiology, WiseCracks, adam Savage, thebrainscoop, and it goes on and on.
+You bring snacks and or beer and of course bring your brain with you.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions.
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
