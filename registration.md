@@ -8,10 +8,12 @@
 - [ ] **+18? Date de naissance et genre :** 
 - [ ] **Adresse email et code postal :**
 - [ ] **Téléphone :**
-- [ ] **Type de cotisation choisie :**
-          1. [ ] 25€/an --- 2. [ ] 20€/mois --- 3. [ ] ... .....  ...€ *(>50€/mois),* à partir du ... / ... / ...
-- [ ]  **Context/objectif/skills/projet? :**
-<br><br><br><br><br>
+- [ ] **Type de cotisation?**  à verser sur le compte `BE81 7360 7399 7324` avec en communication : `Cotisation Openfab`  
+          1. [ ] niveau 1 : **25€**. Ceci est une cotisation annuelle de soutien  
+	        2. [ ] niveau 2 :**20€**. Ceci est une cotisation mensuelle avec accès à l'atelier. <br>`* ! facturation automatique à partir du ../../.. jusqu'à résiliation explicite de l'inscription *`  
+          3. [ ] niveau 3 : .... , .. €. Ceci est une cotisation >= 50€, mensuelle avec accès professionnel à l'atelier. <br>`* ! facturation automatique à partir du ../../.. jusqu'à résiliation explicite de l'inscription *`
+- [ ]  **Domaines de prédilection ou centres d'intérêt? :**
+<br><br><br>
 
 
 
